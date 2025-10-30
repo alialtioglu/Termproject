@@ -1,20 +1,18 @@
 # Anomaly Detection in Football Referee Decisions
 The objectivity of referee decisions in football is a recurrent point of controversy, recently amplified by the betting allegations in Turkey. This project aims to scientifically investigate potential biases by combining public match statistics with betting odds data. The goal is to detect statistically unexpected (anomalous) decisions (e.g., penalties, red cards) made by referees under specific conditions (e.g., high-stakes matches). The analysis seeks to provide data-driven insights into sports integrity and decision-making processes.
-# 
-This project uses publicly available data and includes the required enrichment by another set of data. The proposal outlines the data to be used and the plan for collection.
 
 
-Core Data (Publicly Available)
+# Core Data 
 The main dataset will consist of detailed match statistics for the Turkish Süper Lig:
 
-Match details, including Date, Home/Away Teams, and the Referee's name.
+## Match details, including  Home/Away Teams, and the Referee's name.
 
 In-game statistics like Goals, Shots, Corners, and Fouls.
 
 The primary outcome variables: The number of Red/Yellow Cards and Penalties awarded to each team.
 
 
-Data Enrichment (Required) 
+# Data Enrichment  
 
 The core data will be enriched with two critical types of data, analogous to creating indices or adding financial indicators in a stock market project:
 
