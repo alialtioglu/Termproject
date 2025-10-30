@@ -9,7 +9,7 @@ The main dataset will consist of detailed match statistics for the Turkish Süpe
 
 ### In-game statistics like Goals, Shots, Corners, and Fouls.
 
-### The primary outcome variables: The number of Red/Yellow Cards and Penalties awarded to each team.
+### The primary outcome variables: The number of Red/Yellow Cards and Penalties awarded or should be awarded  to each team.
 
 
 # Data Enrichment  
