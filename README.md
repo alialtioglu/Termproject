@@ -14,7 +14,7 @@ The main dataset will consist of detailed match statistics for the Turkish Süpe
 
 # Data Enrichment  
 
-### The core data will be enriched with two critical types of data, analogous to creating indices or adding financial indicators in a stock market project:
+### The core data will be enriched with two critical types of data.
 
 ### Betting Odds Data: The Closing Odds (1X2) collected from public archives will be used as a financial market indicator, representing the expected outcome of the match.
 
