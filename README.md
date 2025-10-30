@@ -5,27 +5,27 @@ The objectivity of referee decisions in football is a recurrent point of controv
 # Core Data 
 The main dataset will consist of detailed match statistics for the Turkish Süper Lig:
 
-## Match details, including  Home/Away Teams, and the Referee's name.
+### Match details, including  Home/Away Teams, and the Referee's name.
 
-## In-game statistics like Goals, Shots, Corners, and Fouls.
+### In-game statistics like Goals, Shots, Corners, and Fouls.
 
-## The primary outcome variables: The number of Red/Yellow Cards and Penalties awarded to each team.
+### The primary outcome variables: The number of Red/Yellow Cards and Penalties awarded to each team.
 
 
 # Data Enrichment  
 
-## The core data will be enriched with two critical types of data, analogous to creating indices or adding financial indicators in a stock market project:
+### The core data will be enriched with two critical types of data, analogous to creating indices or adding financial indicators in a stock market project:
 
-## Betting Odds Data: The Closing Odds (1X2) collected from public archives will be used as a financial market indicator, representing the expected outcome of the match.
+### Betting Odds Data: The Closing Odds (1X2) collected from public archives will be used as a financial market indicator, representing the expected outcome of the match.
 
-## Referee Performance Index (RPI): This is a custom index calculated from the core data. It measures each referee's historical tendency by calculating their average rate of awarding penalties and red cards per match, providing a baseline "bias" metric.
+### Referee Performance Index (RPI): This is a custom index calculated from the core data. It measures each referee's historical tendency by calculating their average rate of awarding penalties and red cards per match, providing a baseline "bias" metric.
 
 # Data Collection Strategy 
 
-## Match statistics will be collected using Web Scraping tools like Python's requests and BeautifulSoup libraries from public sports statistics websites.
+### Match statistics will be collected using Web Scraping tools like Python's requests and BeautifulSoup libraries from public sports statistics websites.
 
-## Betting odds will be sourced from publicly accessible archives via CSV downloads or an API.
+### Betting odds will be sourced from publicly accessible archives via CSV downloads or an API.
 
-## All data will be cleaned, prepared, and merged into a master file, indexed by match.
+### All data will be cleaned, prepared, and merged into a master file, indexed by match.
 
-## This master file, along with the collection scripts, will be stored in the GitHub repository.
+### This master file, along with the collection scripts, will be stored in the GitHub repository.
