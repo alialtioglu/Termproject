@@ -1,0 +1,1191 @@
+Wk,Date,Home,Score,Away,Referee,Penalties,Red Cards,Date_Clean,Tarih,Ev Sahibi TakÄ±m,Deplasman TakÄ±mÄ±,Ev Galibiyeti OranÄ±,Beraberlik OranÄ±,Deplasman Galibiyeti OranÄ±,RPI
+1,2021-08-13,BeÅiktaÅ,3â0,Rizespor,Zorbay KÃ¼Ã§Ã¼k,0,0,2021-08-13,"Aug 13, 2021, 20:30",BeÅiktaÅ,Rizespor,1.52,4.3,5.9,0.7857142857142857
+1,2021-08-14,Altay,3â0,Kayserispor,Suat Arslanboga,0,0,2021-08-14,"Aug 14, 2021, 21:45",Altay,Kayserispor,1.87,3.6,3.95,0.6923076923076923
+1,2021-08-14,Hatayspor,1â1,KasÄ±mpaÅa,Arda KardeÅler,0,0,2021-08-14,"Aug 14, 2021, 21:45",Hatayspor,KasÄ±mpaÅa,2.15,3.6,3.05,0.5714285714285714
+1,2021-08-15,Adana Demirspor,0â1,FenerbahÃ§e,Ali Åansalan,0,0,2021-08-15,"Aug 15, 2021, 21:45",Adana Demirspor,FenerbahÃ§e,4.7,4.08,1.69,0.6575342465753424
+1,2021-08-15,Antalyaspor,1â1,GÃ¶ztepe,Yasin Kol,1,0,2021-08-15,"Aug 15, 2021, 21:45",Antalyaspor,GÃ¶ztepe,2.39,3.42,2.94,1.2
+1,2021-08-16,Sivasspor,0â1,Konyaspor,FÄ±rat AydÄ±nus,0,0,2021-08-16,"Aug 16, 2021, 19:15",Sivasspor,Konyaspor,2.15,3.05,3.6,0.7272727272727273
+1,2021-08-16,Giresunspor,0â2,Galatasaray,Erkan Ãzdamar,1,1,2021-08-16,"Aug 16, 2021, 21:45",Giresunspor,Galatasaray,4.65,4.0,1.52,1.3928571428571428
+2,2021-08-20,Kayserispor,1â1,Adana Demirspor,Tugay Kaan NumanoÄlu,0,0,2021-08-20,"Aug 20, 2021, 20:30",Kayserispor,Adana Demirspor,3.15,3.25,2.25,1.03125
+2,2021-08-21,Rizespor,0â0,Fatih KaragÃ¼mrÃ¼k,Volkan Bayarslan,0,0,2021-08-21,"Aug 21, 2021, 19:15",Rizespor,Fatih KaragÃ¼mrÃ¼k,2.75,3.15,2.55,0.38636363636363635
+2,2021-08-21,KasÄ±mpaÅa,2â0,Giresunspor,Ali PalabÄ±yÄ±k,0,0,2021-08-21,"Aug 21, 2021, 19:15",KasÄ±mpaÅa,Giresunspor,2.15,3.25,3.35,1.0
+2,2021-08-21,Alanyaspor,1â4,Altay,Mete Kalkavan,0,2,2021-08-21,"Aug 21, 2021, 21:45",Alanyaspor,Altay,2.3,3.05,3.25,1.1153846153846154
+2,2021-08-22,FenerbahÃ§e,2â0,Antalyaspor,Halil Umut Meler,0,0,2021-08-22,"Aug 22, 2021, 21:45",FenerbahÃ§e,Antalyaspor,1.54,4.15,5.75,1.0909090909090908
+2,2021-08-23,Trabzonspor,2â1,Sivasspor,Abdulkadir Bitigen,1,0,2021-08-23,"Aug 23, 2021, 19:15",Trabzonspor,Sivasspor,1.69,3.8,4.6,0.7297297297297298
+2,2021-08-23,Galatasaray,2â1,Hatayspor,HÃ¼seyin GÃ¶Ã§ek,0,0,2021-08-23,"Aug 23, 2021, 21:45",Galatasaray,Hatayspor,1.4,4.5,6.5,1.0
+3,2021-08-27,Antalyaspor,3â2,Rizespor,ÃzgÃ¼r Yankaya,2,0,2021-08-27,"Aug 27, 2021, 20:30",Antalyaspor,Rizespor,1.91,3.5,3.9,2.0
+3,2021-08-27,Adana Demirspor,1â1,Konyaspor,Alper Ulusoy,0,0,2021-08-27,"Aug 27, 2021, 21:45",Adana Demirspor,Konyaspor,2.1,3.35,3.35,0.4
+3,2021-08-28,Hatayspor,5â0,Alanyaspor,Mert GÃ¼zenge,0,0,2021-08-28,"Aug 28, 2021, 21:45",Hatayspor,Alanyaspor,2.25,3.4,3.05,0.2608695652173913
+3,2021-08-28,BeÅiktaÅ,1â0,Fatih KaragÃ¼mrÃ¼k,CÃ¼neyt ÃakÎ¹r,0,1,2021-08-28,"Aug 28, 2021, 21:45",BeÅiktaÅ,Fatih KaragÃ¼mrÃ¼k,1.54,4.25,5.5,0.3571428571428571
+3,2021-08-29,KasÄ±mpaÅa,2â2,Galatasaray,FÄ±rat AydÄ±nus,0,0,2021-08-29,"Aug 29, 2021, 19:15",KasÄ±mpaÅa,Galatasaray,4.2,3.5,1.83,0.7272727272727273
+3,2021-08-29,Sivasspor,2â2,GÃ¶ztepe,Burak Åeker,0,1,2021-08-29,"Aug 29, 2021, 19:15",Sivasspor,GÃ¶ztepe,2.2,3.25,3.25,1.2857142857142856
+3,2021-08-29,Giresunspor,0â1,Trabzonspor,Ali Åansalan,0,0,2021-08-29,"Aug 29, 2021, 21:45",Giresunspor,Trabzonspor,3.5,3.15,2.15,0.6575342465753424
+3,2021-08-29,Altay,0â2,FenerbahÃ§e,YaÅar Kemal UÄurlu,0,0,2021-08-29,"Aug 29, 2021, 21:45",Altay,FenerbahÃ§e,3.1,3.35,2.25,0.7058823529411765
+4,2021-09-11,Fatih KaragÃ¼mrÃ¼k,4â0,Adana Demirspor,Umit ÃztÃ¼rk,0,0,2021-09-11,"Sep 11, 2021, 17:00",Fatih KaragÃ¼mrÃ¼k,Adana Demirspor,2.45,3.2,2.85,0.8163265306122449
+4,2021-09-11,Konyaspor,3â1,Altay,Erkan Ãzdamar,0,0,2021-09-11,"Sep 11, 2021, 17:00",Konyaspor,Altay,2.35,3.2,3.0,1.3928571428571428
+4,2021-09-11,Kayserispor,2â0,KasÄ±mpaÅa,Yasin Kol,0,0,2021-09-11,"Sep 11, 2021, 20:00",Kayserispor,KasÄ±mpaÅa,2.58,3.3,2.58,1.2
+4,2021-09-12,FenerbahÃ§e,1â1,Sivasspor,Halis Ãzkahya,1,0,2021-09-12,"Sep 12, 2021, 17:00",FenerbahÃ§e,Sivasspor,1.57,4.05,5.5,1.6666666666666665
+4,2021-09-12,Rizespor,0â2,Hatayspor,Halil Umut Meler,0,0,2021-09-12,"Sep 12, 2021, 17:00",Rizespor,Hatayspor,2.75,3.2,2.55,1.0909090909090908
+4,2021-09-12,Trabzonspor,2â2,Galatasaray,Ali PalabÄ±yÄ±k,0,0,2021-09-12,"Sep 12, 2021, 20:00",Trabzonspor,Galatasaray,2.45,3.25,2.8,1.0
+4,2021-09-13,Alanyaspor,1â0,Giresunspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2021-09-13,"Sep 13, 2021, 20:00",Alanyaspor,Giresunspor,2.05,3.4,3.55,0.7857142857142857
+5,2021-09-17,Altay,2â1,GÃ¶ztepe,Halil Umut Meler,1,0,2021-09-17,"Sep 17, 2021, 20:00",Altay,GÃ¶ztepe,2.25,3.3,3.1,1.0909090909090908
+5,2021-09-18,KasÄ±mpaÅa,0â1,Trabzonspor,Mete Kalkavan,0,0,2021-09-18,"Sep 18, 2021, 16:00",KasÄ±mpaÅa,Trabzonspor,3.95,3.8,1.8,1.1153846153846154
+5,2021-09-18,Adana Demirspor,3â1,Rizespor,CÃ¼neyt ÃakÎ¹r,1,0,2021-09-18,"Sep 18, 2021, 19:00",Adana Demirspor,Rizespor,1.85,3.5,4.1,0.3571428571428571
+5,2021-09-18,Antalyaspor,2â3,BeÅiktaÅ,Ali Åansalan,0,0,2021-09-18,"Sep 18, 2021, 19:00",Antalyaspor,BeÅiktaÅ,4.75,3.75,1.7,0.6575342465753424
+5,2021-09-19,Giresunspor,0â0,Konyaspor,Volkan Bayarslan,0,0,2021-09-19,"Sep 19, 2021, 13:30",Giresunspor,Konyaspor,2.9,3.15,2.45,0.38636363636363635
+5,2021-09-19,Galatasaray,0â1,Alanyaspor,Abdulkadir Bitigen,0,0,2021-09-19,"Sep 19, 2021, 16:00",Galatasaray,Alanyaspor,1.42,4.75,7.0,0.7297297297297298
+5,2021-09-19,Hatayspor,2â1,Kayserispor,Alper Ulusoy,0,0,2021-09-19,"Sep 19, 2021, 19:00",Hatayspor,Kayserispor,1.71,3.9,4.45,0.4
+6,2021-09-21,Rizespor,1â2,Altay,Umit ÃztÃ¼rk,0,1,2021-09-21,"Sep 21, 2021, 17:00",Rizespor,Altay,2.7,3.3,2.5,0.8163265306122449
+6,2021-09-21,Fatih KaragÃ¼mrÃ¼k,0â0,Antalyaspor,Arda KardeÅler,0,0,2021-09-21,"Sep 21, 2021, 17:00",Fatih KaragÃ¼mrÃ¼k,Antalyaspor,2.06,3.5,3.2,0.5714285714285714
+6,2021-09-21,BeÅiktaÅ,3â3,Adana Demirspor,Ali PalabÄ±yÄ±k,0,0,2021-09-21,"Sep 21, 2021, 20:00",BeÅiktaÅ,Adana Demirspor,1.4,5.0,6.25,1.0
+6,2021-09-22,Kayserispor,3â0,Galatasaray,YaÅar Kemal UÄurlu,1,0,2021-09-22,"Sep 22, 2021, 20:00",Kayserispor,Galatasaray,3.9,3.45,1.91,0.7058823529411765
+6,2021-09-22,GÃ¶ztepe,0â2,Hatayspor,Suat Arslanboga,0,1,2021-09-22,"Sep 22, 2021, 20:00",GÃ¶ztepe,Hatayspor,2.55,3.25,2.7,0.6923076923076923
+6,2021-09-23,Alanyaspor,2â0,KasÄ±mpaÅa,Bahattin ÅimÅek,0,0,2021-09-23,"Sep 23, 2021, 20:00",Alanyaspor,KasÄ±mpaÅa,2.1,3.3,3.45,0.7352941176470589
+6,2021-09-23,FenerbahÃ§e,2â1,Giresunspor,CÃ¼neyt ÃakÎ¹r,0,0,2021-09-23,"Sep 23, 2021, 20:00",FenerbahÃ§e,Giresunspor,1.43,4.55,7.25,0.3571428571428571
+7,2021-09-24,Altay,2â1,BeÅiktaÅ,FÄ±rat AydÄ±nus,0,0,2021-09-24,"Sep 24, 2021, 20:00",Altay,BeÅiktaÅ,3.75,3.35,2.0,0.7272727272727273
+7,2021-09-25,Sivasspor,4â0,Fatih KaragÃ¼mrÃ¼k,Alper Ulusoy,0,0,2021-09-25,"Sep 25, 2021, 13:30",Sivasspor,Fatih KaragÃ¼mrÃ¼k,2.3,3.3,3.0,0.4
+7,2021-09-26,Giresunspor,1â1,Kayserispor,Atilla KaraoÄlan,0,0,2021-09-26,"Sep 26, 2021, 13:30",Giresunspor,Kayserispor,2.31,3.34,3.16,0.7213114754098361
+7,2021-09-26,Hatayspor,1â2,FenerbahÃ§e,Abdulkadir Bitigen,0,0,2021-09-26,"Sep 26, 2021, 16:00",Hatayspor,FenerbahÃ§e,3.3,3.55,2.05,0.7297297297297298
+7,2021-09-26,Galatasaray,2â1,GÃ¶ztepe,Ali Åansalan,0,0,2021-09-26,"Sep 26, 2021, 19:00",Galatasaray,GÃ¶ztepe,1.47,4.35,6.5,0.6575342465753424
+7,2021-09-27,KasÄ±mpaÅa,2â2,Konyaspor,Tugay Kaan NumanoÄlu,1,0,2021-09-27,"Sep 27, 2021, 20:00",KasÄ±mpaÅa,Konyaspor,2.5,3.3,2.75,1.03125
+7,2021-09-27,Trabzonspor,1â1,Alanyaspor,Halis Ãzkahya,0,1,2021-09-27,"Sep 27, 2021, 20:00",Trabzonspor,Alanyaspor,1.56,3.9,6.0,1.6666666666666665
+8,2021-10-01,Antalyaspor,1â2,Adana Demirspor,Volkan Bayarslan,0,0,2021-10-01,"Oct 1, 2021, 20:00",Antalyaspor,Adana Demirspor,2.5,3.3,2.88,0.38636363636363635
+8,2021-10-02,Konyaspor,1â1,Alanyaspor,Mert GÃ¼zenge,0,0,2021-10-02,"Oct 2, 2021, 13:30",Konyaspor,Alanyaspor,2.3,3.3,3.13,0.2608695652173913
+8,2021-10-02,GÃ¶ztepe,0â1,Giresunspor,Burak Åeker,1,0,2021-10-02,"Oct 2, 2021, 16:00",GÃ¶ztepe,Giresunspor,2.0,3.3,4.0,1.2857142857142856
+8,2021-10-02,Kayserispor,1â2,Trabzonspor,Tugay Kaan NumanoÄlu,1,0,2021-10-02,"Oct 2, 2021, 16:00",Kayserispor,Trabzonspor,3.9,3.4,2.0,1.03125
+8,2021-10-02,BeÅiktaÅ,2â1,Sivasspor,YaÅar Kemal UÄurlu,0,0,2021-10-02,"Oct 2, 2021, 19:00",BeÅiktaÅ,Sivasspor,1.87,3.6,4.1,0.7058823529411765
+8,2021-10-03,FenerbahÃ§e,2â1,KasÄ±mpaÅa,Atilla KaraoÄlan,0,0,2021-10-03,"Oct 3, 2021, 16:00",FenerbahÃ§e,KasÄ±mpaÅa,1.5,4.2,6.0,0.7213114754098361
+8,2021-10-03,Rizespor,2â3,Galatasaray,Ali PalabÄ±yÄ±k,0,1,2021-10-03,"Oct 3, 2021, 19:00",Rizespor,Galatasaray,4.5,4.0,1.65,1.0
+9,2021-10-16,Giresunspor,2â0,Rizespor,Erkan Ãzdamar,0,1,2021-10-16,"Oct 16, 2021, 13:30",Giresunspor,Rizespor,1.95,3.45,3.89,1.3928571428571428
+9,2021-10-16,Sivasspor,2â2,Antalyaspor,Mete Kalkavan,0,0,2021-10-16,"Oct 16, 2021, 16:00",Sivasspor,Antalyaspor,1.8,3.65,4.34,1.1153846153846154
+9,2021-10-17,KasÄ±mpaÅa,1â2,GÃ¶ztepe,CÃ¼neyt ÃakÎ¹r,0,0,2021-10-17,"Oct 17, 2021, 13:30",KasÄ±mpaÅa,GÃ¶ztepe,2.22,3.7,3.03,0.3571428571428571
+9,2021-10-17,Galatasaray,1â0,Konyaspor,Arda KardeÅler,0,0,2021-10-17,"Oct 17, 2021, 16:00",Galatasaray,Konyaspor,1.62,4.15,5.22,0.5714285714285714
+9,2021-10-17,Altay,0â1,Fatih KaragÃ¼mrÃ¼k,Suat Arslanboga,0,0,2021-10-17,"Oct 17, 2021, 16:00",Altay,Fatih KaragÃ¼mrÃ¼k,2.18,3.48,3.28,0.6923076923076923
+9,2021-10-17,Trabzonspor,3â1,FenerbahÃ§e,Ali Åansalan,1,1,2021-10-17,"Oct 17, 2021, 19:00",Trabzonspor,FenerbahÃ§e,2.44,3.54,2.81,0.6575342465753424
+9,2021-10-18,Alanyaspor,6â3,Kayserispor,Umit ÃztÃ¼rk,0,0,2021-10-18,"Oct 18, 2021, 20:00",Alanyaspor,Kayserispor,1.67,3.9,5.0,0.8163265306122449
+10,2021-10-23,Rizespor,2â1,KasÄ±mpaÅa,HÃ¼seyin GÃ¶Ã§ek,1,0,2021-10-23,"Oct 23, 2021, 13:30",Rizespor,KasÄ±mpaÅa,2.63,3.3,2.5,1.0
+10,2021-10-23,Konyaspor,2â0,Kayserispor,Sarper BarÄ±Å Saka,0,0,2021-10-23,"Oct 23, 2021, 16:00",Konyaspor,Kayserispor,1.91,3.5,3.9,0.75
+10,2021-10-23,GÃ¶ztepe,0â1,Trabzonspor,Atilla KaraoÄlan,0,0,2021-10-23,"Oct 23, 2021, 19:00",GÃ¶ztepe,Trabzonspor,3.62,3.82,2.05,0.7213114754098361
+10,2021-10-24,Fatih KaragÃ¼mrÃ¼k,1â1,Hatayspor,Halis Ãzkahya,0,1,2021-10-24,"Oct 24, 2021, 13:30",Fatih KaragÃ¼mrÃ¼k,Hatayspor,2.1,3.5,3.3,1.6666666666666665
+10,2021-10-24,Sivasspor,1â1,Adana Demirspor,Bahattin ÅimÅek,1,2,2021-10-24,"Oct 24, 2021, 16:00",Sivasspor,Adana Demirspor,2.05,3.5,3.3,0.7352941176470589
+10,2021-10-24,FenerbahÃ§e,1â2,Alanyaspor,Halil Umut Meler,0,0,2021-10-24,"Oct 24, 2021, 19:00",FenerbahÃ§e,Alanyaspor,1.75,3.96,4.4,1.0909090909090908
+10,2021-10-25,BeÅiktaÅ,2â1,Galatasaray,FÄ±rat AydÄ±nus,0,0,2021-10-25,"Oct 25, 2021, 20:00",BeÅiktaÅ,Galatasaray,2.48,3.7,2.92,0.7272727272727273
+11,2021-10-29,Trabzonspor,2â1,Rizespor,Halil Umut Meler,2,0,2021-10-29,"Oct 29, 2021, 20:00",Trabzonspor,Rizespor,1.36,4.8,7.4,1.0909090909090908
+11,2021-10-30,Hatayspor,1â0,BeÅiktaÅ,CÃ¼neyt ÃakÎ¹r,0,0,2021-10-30,"Oct 30, 2021, 16:00",Hatayspor,BeÅiktaÅ,2.89,3.05,2.45,0.3571428571428571
+11,2021-10-30,Altay,1â1,Sivasspor,Erkan Ãzdamar,0,0,2021-10-30,"Oct 30, 2021, 16:00",Altay,Sivasspor,2.5,3.1,2.7,1.3928571428571428
+11,2021-10-30,Konyaspor,2â1,FenerbahÃ§e,FÄ±rat AydÄ±nus,0,0,2021-10-30,"Oct 30, 2021, 19:00",Konyaspor,FenerbahÃ§e,3.2,3.52,2.21,0.7272727272727273
+11,2021-10-31,Kayserispor,2â1,Fatih KaragÃ¼mrÃ¼k,Burak Åeker,0,2,2021-10-31,"Oct 31, 2021, 13:30",Kayserispor,Fatih KaragÃ¼mrÃ¼k,2.7,3.2,2.6,1.2857142857142856
+11,2021-10-31,Alanyaspor,2â2,GÃ¶ztepe,Mete Kalkavan,0,0,2021-10-31,"Oct 31, 2021, 16:00",Alanyaspor,GÃ¶ztepe,1.83,3.65,4.0,1.1153846153846154
+12,2021-11-05,Rizespor,2â0,Alanyaspor,FÄ±rat AydÄ±nus,1,0,2021-11-05,"Nov 5, 2021, 20:00",Rizespor,Alanyaspor,3.65,3.55,2.0,0.7272727272727273
+12,2021-11-06,Sivasspor,0â0,Giresunspor,Umit ÃztÃ¼rk,2,0,2021-11-06,"Nov 6, 2021, 13:30",Sivasspor,Giresunspor,1.89,3.5,3.75,0.8163265306122449
+12,2021-11-06,Antalyaspor,1â0,Altay,Mert GÃ¼zenge,0,0,2021-11-06,"Nov 6, 2021, 16:00",Antalyaspor,Altay,2.53,3.45,2.53,0.2608695652173913
+12,2021-11-06,BeÅiktaÅ,1â2,Trabzonspor,Erkan Ãzdamar,0,1,2021-11-06,"Nov 6, 2021, 19:00",BeÅiktaÅ,Trabzonspor,2.28,3.25,2.67,1.3928571428571428
+12,2021-11-07,GÃ¶ztepe,0â2,Konyaspor,Yasin Kol,0,1,2021-11-07,"Nov 7, 2021, 13:30",GÃ¶ztepe,Konyaspor,2.55,3.05,2.55,1.2
+12,2021-11-07,Adana Demirspor,1â0,Hatayspor,YaÅar Kemal UÄurlu,0,0,2021-11-07,"Nov 7, 2021, 16:00",Adana Demirspor,Hatayspor,2.38,3.2,2.65,0.7058823529411765
+12,2021-11-07,Fatih KaragÃ¼mrÃ¼k,1â1,Galatasaray,Atilla KaraoÄlan,0,0,2021-11-07,"Nov 7, 2021, 16:00",Fatih KaragÃ¼mrÃ¼k,Galatasaray,2.95,3.35,2.1,0.7213114754098361
+12,2021-11-07,FenerbahÃ§e,2â2,Kayserispor,CÃ¼neyt ÃakÎ¹r,1,0,2021-11-07,"Nov 7, 2021, 19:00",FenerbahÃ§e,Kayserispor,1.51,4.5,6.0,0.3571428571428571
+13,2021-11-20,Hatayspor,3â1,Antalyaspor,Tugay Kaan NumanoÄlu,1,0,2021-11-20,"Nov 20, 2021, 13:30",Hatayspor,Antalyaspor,1.84,3.7,3.9,1.03125
+13,2021-11-20,Alanyaspor,2â0,BeÅiktaÅ,Alper Ulusoy,0,0,2021-11-20,"Nov 20, 2021, 19:00",Alanyaspor,BeÅiktaÅ,2.67,3.5,2.37,0.4
+13,2021-11-21,KasÄ±mpaÅa,1â3,Fatih KaragÃ¼mrÃ¼k,FÄ±rat AydÄ±nus,1,2,2021-11-21,"Nov 21, 2021, 13:30",KasÄ±mpaÅa,Fatih KaragÃ¼mrÃ¼k,2.58,3.22,2.31,0.7272727272727273
+13,2021-11-21,Konyaspor,3â0,Rizespor,Atilla KaraoÄlan,0,0,2021-11-21,"Nov 21, 2021, 16:00",Konyaspor,Rizespor,1.54,3.67,4.77,0.7213114754098361
+13,2021-11-21,Altay,1â3,Adana Demirspor,HÃ¼seyin GÃ¶Ã§ek,0,0,2021-11-21,"Nov 21, 2021, 16:00",Altay,Adana Demirspor,2.26,3.26,2.62,1.0
+13,2021-11-21,Galatasaray,1â2,FenerbahÃ§e,Halil Umut Meler,0,1,2021-11-21,"Nov 21, 2021, 19:00",Galatasaray,FenerbahÃ§e,1.99,3.4,3.5,1.0909090909090908
+13,2021-11-22,Kayserispor,1â1,GÃ¶ztepe,Zorbay KÃ¼Ã§Ã¼k,0,0,2021-11-22,"Nov 22, 2021, 20:00",Kayserispor,GÃ¶ztepe,2.35,3.0,2.55,0.7857142857142857
+14,2021-11-26,Adana Demirspor,0â0,KasÄ±mpaÅa,Erkan Ãzdamar,0,0,2021-11-26,"Nov 26, 2021, 20:00",Adana Demirspor,KasÄ±mpaÅa,1.95,3.3,3.3,1.3928571428571428
+14,2021-11-27,Antalyaspor,3â0,Alanyaspor,Ali Åansalan,0,1,2021-11-27,"Nov 27, 2021, 13:30",Antalyaspor,Alanyaspor,2.82,3.06,2.33,0.6575342465753424
+14,2021-11-27,Rizespor,1â0,Kayserispor,YaÅar Kemal UÄurlu,0,0,2021-11-27,"Nov 27, 2021, 16:00",Rizespor,Kayserispor,2.32,3.16,2.79,0.7058823529411765
+14,2021-11-27,BeÅiktaÅ,0â4,Giresunspor,HÃ¼seyin GÃ¶Ã§ek,1,1,2021-11-27,"Nov 27, 2021, 19:00",BeÅiktaÅ,Giresunspor,1.45,4.24,7.07,1.0
+14,2021-11-28,Sivasspor,4â0,Hatayspor,Arda KardeÅler,1,1,2021-11-28,"Nov 28, 2021, 16:00",Sivasspor,Hatayspor,2.38,3.3,2.81,0.5714285714285714
+14,2021-11-28,Fatih KaragÃ¼mrÃ¼k,0â2,Trabzonspor,CÃ¼neyt ÃakÎ¹r,1,0,2021-11-28,"Nov 28, 2021, 16:00",Fatih KaragÃ¼mrÃ¼k,Trabzonspor,3.2,3.5,2.08,0.3571428571428571
+14,2021-11-29,GÃ¶ztepe,1â1,FenerbahÃ§e,Mete Kalkavan,0,1,2021-11-29,"Nov 29, 2021, 20:00",GÃ¶ztepe,FenerbahÃ§e,3.69,3.35,1.86,1.1153846153846154
+15,2021-12-03,KasÄ±mpaÅa,1â1,BeÅiktaÅ,Mete Kalkavan,0,0,2021-12-03,"Dec 3, 2021, 20:00",KasÄ±mpaÅa,BeÅiktaÅ,4.4,3.77,1.75,1.1153846153846154
+15,2021-12-04,Alanyaspor,0â1,Sivasspor,YaÅar Kemal UÄurlu,0,1,2021-12-04,"Dec 4, 2021, 13:30",Alanyaspor,Sivasspor,2.14,3.3,3.05,0.7058823529411765
+15,2021-12-04,Trabzonspor,2â0,Adana Demirspor,FÄ±rat AydÄ±nus,1,0,2021-12-04,"Dec 4, 2021, 16:00",Trabzonspor,Adana Demirspor,1.68,3.75,4.2,0.7272727272727273
+15,2021-12-04,Galatasaray,2â2,Altay,CÃ¼neyt ÃakÎ¹r,0,0,2021-12-04,"Dec 4, 2021, 19:00",Galatasaray,Altay,1.4,4.33,6.25,0.3571428571428571
+15,2021-12-05,Kayserispor,2â0,Antalyaspor,Halil Umut Meler,0,2,2021-12-05,"Dec 5, 2021, 13:30",Kayserispor,Antalyaspor,2.45,3.3,2.9,1.0909090909090908
+15,2021-12-05,Giresunspor,3â1,Fatih KaragÃ¼mrÃ¼k,Arda KardeÅler,1,0,2021-12-05,"Dec 5, 2021, 16:00",Giresunspor,Fatih KaragÃ¼mrÃ¼k,2.3,3.4,3.0,0.5714285714285714
+15,2021-12-05,FenerbahÃ§e,4â0,Rizespor,Zorbay KÃ¼Ã§Ã¼k,0,0,2021-12-05,"Dec 5, 2021, 19:00",FenerbahÃ§e,Rizespor,1.4,4.2,6.5,0.7857142857142857
+16,2021-12-10,Altay,1â2,Hatayspor,Mete Kalkavan,0,0,2021-12-10,"Dec 10, 2021, 20:00",Altay,Hatayspor,3.04,3.58,2.4,1.1153846153846154
+16,2021-12-11,Fatih KaragÃ¼mrÃ¼k,1â4,Konyaspor,YaÅar Kemal UÄurlu,0,1,2021-12-11,"Dec 11, 2021, 13:30",Fatih KaragÃ¼mrÃ¼k,Konyaspor,2.58,3.38,2.73,0.7058823529411765
+16,2021-12-11,Rizespor,3â1,GÃ¶ztepe,Erkan Ãzdamar,1,1,2021-12-11,"Dec 11, 2021, 16:00",Rizespor,GÃ¶ztepe,2.43,3.3,2.8,1.3928571428571428
+16,2021-12-11,Antalyaspor,2â1,Trabzonspor,Zorbay KÃ¼Ã§Ã¼k,1,0,2021-12-11,"Dec 11, 2021, 19:00",Antalyaspor,Trabzonspor,4.63,3.78,1.71,0.7857142857142857
+16,2021-12-12,Adana Demirspor,1â0,Giresunspor,Alper Ulusoy,0,0,2021-12-12,"Dec 12, 2021, 13:30",Adana Demirspor,Giresunspor,1.96,3.42,3.75,0.4
+16,2021-12-12,BeÅiktaÅ,4â2,Kayserispor,Ali Åansalan,0,0,2021-12-12,"Dec 12, 2021, 19:00",BeÅiktaÅ,Kayserispor,1.36,4.8,7.4,0.6575342465753424
+16,2021-12-13,Sivasspor,1â0,Galatasaray,Umit ÃztÃ¼rk,0,0,2021-12-13,"Dec 13, 2021, 18:00",Sivasspor,Galatasaray,2.88,3.25,2.5,0.8163265306122449
+17,2021-12-17,Giresunspor,3â1,Altay,Tugay Kaan NumanoÄlu,1,0,2021-12-17,"Dec 17, 2021, 20:00",Giresunspor,Altay,1.93,3.6,3.6,1.03125
+17,2021-12-18,KasÄ±mpaÅa,1â3,Sivasspor,Ali Åansalan,0,0,2021-12-18,"Dec 18, 2021, 13:30",KasÄ±mpaÅa,Sivasspor,2.85,3.3,2.45,0.6575342465753424
+17,2021-12-18,Trabzonspor,2â0,Hatayspor,YaÅar Kemal UÄurlu,0,0,2021-12-18,"Dec 18, 2021, 16:00",Trabzonspor,Hatayspor,1.8,3.85,4.1,0.7058823529411765
+17,2021-12-18,Konyaspor,1â0,Antalyaspor,Arda KardeÅler,0,0,2021-12-18,"Dec 18, 2021, 16:00",Konyaspor,Antalyaspor,2.05,3.5,3.5,0.5714285714285714
+17,2021-12-18,Alanyaspor,1â3,Adana Demirspor,HÃ¼seyin GÃ¶Ã§ek,0,0,2021-12-18,"Dec 18, 2021, 19:00",Alanyaspor,Adana Demirspor,2.07,3.4,3.0,1.0
+17,2021-12-19,GÃ¶ztepe,0â1,Fatih KaragÃ¼mrÃ¼k,Volkan Bayarslan,0,0,2021-12-19,"Dec 19, 2021, 16:00",GÃ¶ztepe,Fatih KaragÃ¼mrÃ¼k,2.62,3.1,2.45,0.38636363636363635
+17,2021-12-19,FenerbahÃ§e,2â2,BeÅiktaÅ,FÄ±rat AydÄ±nus,1,0,2021-12-19,"Dec 19, 2021, 19:00",FenerbahÃ§e,BeÅiktaÅ,2.16,3.6,3.34,0.7272727272727273
+18,2021-12-21,Antalyaspor,1â1,KasÄ±mpaÅa,YaÅar Kemal UÄurlu,0,0,2021-12-21,"Dec 21, 2021, 17:00",Antalyaspor,KasÄ±mpaÅa,2.04,3.4,3.4,0.7058823529411765
+18,2021-12-21,Adana Demirspor,2â0,Galatasaray,Arda KardeÅler,0,0,2021-12-21,"Dec 21, 2021, 20:00",Adana Demirspor,Galatasaray,2.95,3.35,2.28,0.5714285714285714
+18,2021-12-21,Altay,1â2,Trabzonspor,Ali Åansalan,0,0,2021-12-21,"Dec 21, 2021, 20:00",Altay,Trabzonspor,3.65,3.6,1.9,0.6575342465753424
+18,2021-12-22,Hatayspor,1â3,Konyaspor,Halil Umut Meler,0,2,2021-12-22,"Dec 22, 2021, 17:00",Hatayspor,Konyaspor,2.4,3.27,2.88,1.0909090909090908
+18,2021-12-22,Sivasspor,1â1,Rizespor,Atilla KaraoÄlan,0,2,2021-12-22,"Dec 22, 2021, 17:00",Sivasspor,Rizespor,1.61,3.98,5.0,0.7213114754098361
+18,2021-12-22,Fatih KaragÃ¼mrÃ¼k,1â1,FenerbahÃ§e,Erkan Ãzdamar,1,2,2021-12-22,"Dec 22, 2021, 20:00",Fatih KaragÃ¼mrÃ¼k,FenerbahÃ§e,3.3,3.42,2.11,1.3928571428571428
+18,2021-12-23,BeÅiktaÅ,2â1,GÃ¶ztepe,Umit ÃztÃ¼rk,0,1,2021-12-23,"Dec 23, 2021, 20:00",BeÅiktaÅ,GÃ¶ztepe,1.71,3.9,4.33,0.8163265306122449
+19,2021-12-25,KasÄ±mpaÅa,2â0,Altay,Tugay Kaan NumanoÄlu,0,1,2021-12-25,"Dec 25, 2021, 13:30",KasÄ±mpaÅa,Altay,2.19,3.21,2.76,1.03125
+19,2021-12-25,Galatasaray,2â0,Antalyaspor,Ali Åansalan,0,0,2021-12-25,"Dec 25, 2021, 16:00",Galatasaray,Antalyaspor,1.5,3.82,4.98,0.6575342465753424
+19,2021-12-25,Giresunspor,0â1,Hatayspor,Volkan Bayarslan,0,0,2021-12-25,"Dec 25, 2021, 16:00",Giresunspor,Hatayspor,2.24,3.05,2.81,0.38636363636363635
+19,2021-12-26,GÃ¶ztepe,1â1,Adana Demirspor,Atilla KaraoÄlan,0,0,2021-12-26,"Dec 26, 2021, 16:00",GÃ¶ztepe,Adana Demirspor,2.49,3.52,2.94,0.7213114754098361
+19,2021-12-26,Alanyaspor,1â1,Fatih KaragÃ¼mrÃ¼k,Alper Ulusoy,0,0,2021-12-26,"Dec 26, 2021, 16:00",Alanyaspor,Fatih KaragÃ¼mrÃ¼k,2.28,3.7,3.15,0.4
+19,2021-12-27,Kayserispor,3â0,Sivasspor,Umit ÃztÃ¼rk,0,0,2021-12-27,"Dec 27, 2021, 20:00",Kayserispor,Sivasspor,3.0,3.3,2.3,0.8163265306122449
+19,2021-12-27,Konyaspor,1â0,BeÅiktaÅ,Mete Kalkavan,0,0,2021-12-27,"Dec 27, 2021, 20:00",Konyaspor,BeÅiktaÅ,2.8,3.25,2.45,1.1153846153846154
+20,2022-01-08,KasÄ±mpaÅa,3â1,Hatayspor,Sarper BarÄ±Å Saka,0,0,2022-01-08,"Jan 8, 2022, 16:00",KasÄ±mpaÅa,Hatayspor,2.34,3.1,2.8,0.75
+20,2022-01-08,Galatasaray,0â1,Giresunspor,Arda KardeÅler,0,0,2022-01-08,"Jan 8, 2022, 19:00",Galatasaray,Giresunspor,1.62,4.0,5.19,0.5714285714285714
+20,2022-01-09,Konyaspor,0â1,Sivasspor,CÃ¼neyt ÃakÎ¹r,0,0,2022-01-09,"Jan 9, 2022, 13:30",Konyaspor,Sivasspor,2.4,3.1,2.88,0.3571428571428571
+20,2022-01-09,GÃ¶ztepe,4â0,Antalyaspor,HÃ¼seyin GÃ¶Ã§ek,1,1,2022-01-09,"Jan 9, 2022, 16:00",GÃ¶ztepe,Antalyaspor,2.13,3.5,3.28,1.0
+20,2022-01-09,Kayserispor,1â0,Altay,YaÅar Kemal UÄurlu,0,0,2022-01-09,"Jan 9, 2022, 16:00",Kayserispor,Altay,2.1,3.55,3.31,0.7058823529411765
+20,2022-01-09,Rizespor,2â2,BeÅiktaÅ,Alper Ulusoy,0,2,2022-01-09,"Jan 9, 2022, 19:00",Rizespor,BeÅiktaÅ,3.44,3.66,2.16,0.4
+20,2022-01-10,FenerbahÃ§e,1â2,Adana Demirspor,Halil Umut Meler,1,0,2022-01-10,"Jan 10, 2022, 20:00",FenerbahÃ§e,Adana Demirspor,1.78,3.45,3.9,1.0909090909090908
+21,2022-01-15,Adana Demirspor,1â1,Kayserispor,Sarper BarÄ±Å Saka,1,0,2022-01-15,"Jan 15, 2022, 13:30",Adana Demirspor,Kayserispor,1.74,3.6,4.15,0.75
+21,2022-01-15,Sivasspor,1â1,Trabzonspor,Mete Kalkavan,0,0,2022-01-15,"Jan 15, 2022, 16:00",Sivasspor,Trabzonspor,2.9,3.15,2.3,1.1153846153846154
+21,2022-01-15,Fatih KaragÃ¼mrÃ¼k,2â0,Rizespor,Umit ÃztÃ¼rk,0,1,2022-01-15,"Jan 15, 2022, 16:00",Fatih KaragÃ¼mrÃ¼k,Rizespor,1.83,3.4,3.9,0.8163265306122449
+21,2022-01-15,Antalyaspor,1â1,FenerbahÃ§e,Atilla KaraoÄlan,0,0,2022-01-15,"Jan 15, 2022, 19:00",Antalyaspor,FenerbahÃ§e,3.1,3.2,2.05,0.7213114754098361
+21,2022-01-16,Altay,0â2,Alanyaspor,Volkan Bayarslan,0,0,2022-01-16,"Jan 16, 2022, 13:30",Altay,Alanyaspor,2.3,3.25,3.1,0.38636363636363635
+21,2022-01-16,Giresunspor,0â2,KasÄ±mpaÅa,YaÅar Kemal UÄurlu,1,1,2022-01-16,"Jan 16, 2022, 16:00",Giresunspor,KasÄ±mpaÅa,1.85,3.3,4.5,0.7058823529411765
+21,2022-01-16,Hatayspor,4â2,Galatasaray,Erkan Ãzdamar,1,1,2022-01-16,"Jan 16, 2022, 19:00",Hatayspor,Galatasaray,2.91,3.11,2.26,1.3928571428571428
+22,2022-01-18,Fatih KaragÃ¼mrÃ¼k,0â1,BeÅiktaÅ,Halil Umut Meler,1,0,2022-01-18,"Jan 18, 2022, 20:00",Fatih KaragÃ¼mrÃ¼k,BeÅiktaÅ,3.1,3.4,2.18,1.0909090909090908
+22,2022-01-18,Konyaspor,1â0,Adana Demirspor,Yasin Kol,0,0,2022-01-18,"Jan 18, 2022, 20:00",Konyaspor,Adana Demirspor,2.0,3.35,3.3,1.2
+22,2022-01-19,GÃ¶ztepe,2â1,Sivasspor,Suat Arslanboga,1,0,2022-01-19,"Jan 19, 2022, 17:00",GÃ¶ztepe,Sivasspor,3.02,3.32,2.28,0.6923076923076923
+22,2022-01-19,FenerbahÃ§e,2â1,Altay,HÃ¼seyin GÃ¶Ã§ek,0,0,2022-01-19,"Jan 19, 2022, 20:00",FenerbahÃ§e,Altay,1.38,4.83,7.1,1.0
+22,2022-01-19,Trabzonspor,1â1,Giresunspor,Alper Ulusoy,0,0,2022-01-19,"Jan 19, 2022, 20:00",Trabzonspor,Giresunspor,1.53,4.17,5.75,0.4
+22,2022-01-20,Alanyaspor,6â0,Hatayspor,Bahattin ÅimÅek,0,0,2022-01-20,"Jan 20, 2022, 17:00",Alanyaspor,Hatayspor,2.33,3.65,2.65,0.7352941176470589
+22,2022-01-20,Rizespor,2â1,Antalyaspor,YaÅar Kemal UÄurlu,1,1,2022-01-20,"Jan 20, 2022, 17:00",Rizespor,Antalyaspor,2.43,3.42,2.73,0.7058823529411765
+22,2022-01-20,Galatasaray,1â3,KasÄ±mpaÅa,Tugay Kaan NumanoÄlu,0,0,2022-01-20,"Jan 20, 2022, 20:00",Galatasaray,KasÄ±mpaÅa,1.75,3.7,4.25,1.03125
+23,2022-01-22,Sivasspor,1â1,FenerbahÃ§e,Alper Ulusoy,0,0,2022-01-22,"Jan 22, 2022, 16:00",Sivasspor,FenerbahÃ§e,2.58,2.97,2.58,0.4
+23,2022-01-22,Adana Demirspor,5â0,Fatih KaragÃ¼mrÃ¼k,Suat Arslanboga,0,1,2022-01-22,"Jan 22, 2022, 16:00",Adana Demirspor,Fatih KaragÃ¼mrÃ¼k,1.88,3.16,3.83,0.6923076923076923
+23,2022-01-23,KasÄ±mpaÅa,3â1,Kayserispor,Halil Umut Meler,0,0,2022-01-23,"Jan 23, 2022, 13:30",KasÄ±mpaÅa,Kayserispor,2.11,3.11,3.16,1.0909090909090908
+23,2022-01-23,Hatayspor,0â0,Rizespor,Sarper BarÄ±Å Saka,0,0,2022-01-23,"Jan 23, 2022, 13:30",Hatayspor,Rizespor,1.8,3.3,4.07,0.75
+23,2022-01-23,Altay,0â1,Konyaspor,Abdulkadir Bitigen,1,1,2022-01-23,"Jan 23, 2022, 16:00",Altay,Konyaspor,3.59,3.21,1.94,0.7297297297297298
+23,2022-01-23,Giresunspor,1â3,Alanyaspor,Mert GÃ¼zenge,0,0,2022-01-23,"Jan 23, 2022, 16:00",Giresunspor,Alanyaspor,2.52,3.02,2.65,0.2608695652173913
+23,2022-01-23,Galatasaray,1â2,Trabzonspor,Atilla KaraoÄlan,1,0,2022-01-23,"Jan 23, 2022, 19:00",Galatasaray,Trabzonspor,2.42,3.3,2.76,0.7213114754098361
+24,2022-02-04,Kayserispor,4â3,Hatayspor,Kadir SaÄlam,1,0,2022-02-04,"Feb 4, 2022, 20:00",Kayserispor,Hatayspor,2.61,3.6,2.74,0.9215686274509804
+24,2022-02-04,Konyaspor,1â0,Giresunspor,CÃ¼neyt ÃakÎ¹r,0,0,2022-02-04,"Feb 4, 2022, 20:00",Konyaspor,Giresunspor,2.08,3.52,3.82,0.3571428571428571
+24,2022-02-05,Trabzonspor,1â0,KasÄ±mpaÅa,Zorbay KÃ¼Ã§Ã¼k,0,2,2022-02-05,"Feb 5, 2022, 16:00",Trabzonspor,KasÄ±mpaÅa,1.61,3.43,4.61,0.7857142857142857
+24,2022-02-06,Alanyaspor,1â1,Galatasaray,Mete Kalkavan,0,1,2022-02-06,"Feb 6, 2022, 16:00",Alanyaspor,Galatasaray,2.43,3.02,2.74,1.1153846153846154
+24,2022-02-06,Rizespor,1â3,Adana Demirspor,Halil Umut Meler,0,0,2022-02-06,"Feb 6, 2022, 16:00",Rizespor,Adana Demirspor,2.97,3.11,2.24,1.0909090909090908
+24,2022-02-06,GÃ¶ztepe,0â2,Altay,Sarper BarÄ±Å Saka,1,0,2022-02-06,"Feb 6, 2022, 19:00",GÃ¶ztepe,Altay,1.95,3.3,3.35,0.75
+24,2022-02-06,BeÅiktaÅ,0â0,Antalyaspor,Abdulkadir Bitigen,0,1,2022-02-06,"Feb 6, 2022, 19:00",BeÅiktaÅ,Antalyaspor,1.79,3.4,3.9,0.7297297297297298
+25,2022-02-11,Altay,0â0,Rizespor,FÄ±rat AydÄ±nus,0,0,2022-02-11,"Feb 11, 2022, 20:00",Altay,Rizespor,2.0,3.1,3.3,0.7272727272727273
+25,2022-02-12,Giresunspor,1â2,FenerbahÃ§e,Zorbay KÃ¼Ã§Ã¼k,0,1,2022-02-12,"Feb 12, 2022, 16:00",Giresunspor,FenerbahÃ§e,3.47,3.4,2.19,0.7857142857142857
+25,2022-02-12,Galatasaray,1â1,Kayserispor,Sarper BarÄ±Å Saka,0,0,2022-02-12,"Feb 12, 2022, 19:00",Galatasaray,Kayserispor,1.84,3.65,3.8,0.75
+25,2022-02-13,Antalyaspor,3â0,Fatih KaragÃ¼mrÃ¼k,Halil Umut Meler,0,0,2022-02-13,"Feb 13, 2022, 16:00",Antalyaspor,Fatih KaragÃ¼mrÃ¼k,2.15,3.25,3.3,1.0909090909090908
+25,2022-02-13,Trabzonspor,2â1,Konyaspor,Mete Kalkavan,0,0,2022-02-13,"Feb 13, 2022, 19:00",Trabzonspor,Konyaspor,1.86,3.22,3.54,1.1153846153846154
+25,2022-02-13,KasÄ±mpaÅa,2â2,Alanyaspor,YaÅar Kemal UÄurlu,0,0,2022-02-13,"Feb 13, 2022, 19:00",KasÄ±mpaÅa,Alanyaspor,2.51,3.24,2.37,0.7058823529411765
+25,2022-02-14,Adana Demirspor,1â1,BeÅiktaÅ,Ali Åansalan,0,0,2022-02-14,"Feb 14, 2022, 20:00",Adana Demirspor,BeÅiktaÅ,2.6,3.2,2.7,0.6575342465753424
+25,2022-02-14,Hatayspor,2â1,GÃ¶ztepe,Atilla KaraoÄlan,0,0,2022-02-14,"Feb 14, 2022, 20:00",Hatayspor,GÃ¶ztepe,2.3,3.2,3.1,0.7213114754098361
+26,2022-02-18,Konyaspor,4â4,KasÄ±mpaÅa,Umit ÃztÃ¼rk,2,0,2022-02-18,"Feb 18, 2022, 20:00",Konyaspor,KasÄ±mpaÅa,1.76,3.65,4.3,0.8163265306122449
+26,2022-02-19,Kayserispor,2â1,Giresunspor,Ali PalabÄ±yÄ±k,0,0,2022-02-19,"Feb 19, 2022, 16:00",Kayserispor,Giresunspor,2.24,3.22,3.55,1.0
+26,2022-02-19,BeÅiktaÅ,1â0,Altay,Volkan Bayarslan,0,0,2022-02-19,"Feb 19, 2022, 19:00",BeÅiktaÅ,Altay,1.46,4.4,6.1,0.38636363636363635
+26,2022-02-20,Fatih KaragÃ¼mrÃ¼k,1â0,Sivasspor,Mert GÃ¼zenge,1,0,2022-02-20,"Feb 20, 2022, 16:00",Fatih KaragÃ¼mrÃ¼k,Sivasspor,2.55,3.3,2.75,0.2608695652173913
+26,2022-02-20,Alanyaspor,0â4,Trabzonspor,Halil Umut Meler,0,0,2022-02-20,"Feb 20, 2022, 16:00",Alanyaspor,Trabzonspor,2.9,3.35,2.4,1.0909090909090908
+26,2022-02-20,FenerbahÃ§e,2â0,Hatayspor,Yasin Kol,2,0,2022-02-20,"Feb 20, 2022, 19:00",FenerbahÃ§e,Hatayspor,1.77,3.5,4.4,1.2
+26,2022-02-21,GÃ¶ztepe,2â3,Galatasaray,Arda KardeÅler,4,0,2022-02-21,"Feb 21, 2022, 20:00",GÃ¶ztepe,Galatasaray,2.83,3.37,2.38,0.5714285714285714
+27,2022-02-25,Adana Demirspor,0â0,Antalyaspor,Alper Ulusoy,0,0,2022-02-25,"Feb 25, 2022, 20:00",Adana Demirspor,Antalyaspor,1.8,3.4,4.2,0.4
+27,2022-02-25,Trabzonspor,3â2,Kayserispor,Erkan Ãzdamar,1,0,2022-02-25,"Feb 25, 2022, 20:00",Trabzonspor,Kayserispor,1.53,4.0,6.0,1.3928571428571428
+27,2022-02-26,Sivasspor,2â3,BeÅiktaÅ,Sarper BarÄ±Å Saka,1,0,2022-02-26,"Feb 26, 2022, 19:00",Sivasspor,BeÅiktaÅ,2.42,3.45,2.66,0.75
+27,2022-02-27,Giresunspor,3â1,GÃ¶ztepe,CÃ¼neyt ÃakÎ¹r,0,0,2022-02-27,"Feb 27, 2022, 13:30",Giresunspor,GÃ¶ztepe,2.42,2.97,2.8,0.3571428571428571
+27,2022-02-27,Alanyaspor,5â1,Konyaspor,Volkan Bayarslan,1,1,2022-02-27,"Feb 27, 2022, 16:00",Alanyaspor,Konyaspor,2.48,2.92,2.74,0.38636363636363635
+27,2022-02-27,Galatasaray,4â2,Rizespor,Umit ÃztÃ¼rk,1,1,2022-02-27,"Feb 27, 2022, 19:00",Galatasaray,Rizespor,1.44,4.6,5.9,0.8163265306122449
+27,2022-02-28,KasÄ±mpaÅa,1â2,FenerbahÃ§e,Mete Kalkavan,0,1,2022-02-28,"Feb 28, 2022, 20:00",KasÄ±mpaÅa,FenerbahÃ§e,2.55,3.5,2.63,1.1153846153846154
+28,2022-03-05,Rizespor,1â2,Giresunspor,YaÅar Kemal UÄurlu,1,0,2022-03-05,"Mar 5, 2022, 16:00",Rizespor,Giresunspor,2.84,3.34,2.51,0.7058823529411765
+28,2022-03-05,GÃ¶ztepe,2â3,KasÄ±mpaÅa,Atilla KaraoÄlan,0,0,2022-03-05,"Mar 5, 2022, 16:00",GÃ¶ztepe,KasÄ±mpaÅa,2.32,3.57,2.95,0.7213114754098361
+28,2022-03-05,Konyaspor,2â0,Galatasaray,Ali Åansalan,0,0,2022-03-05,"Mar 5, 2022, 19:00",Konyaspor,Galatasaray,2.55,3.3,2.8,0.6575342465753424
+28,2022-03-06,Fatih KaragÃ¼mrÃ¼k,0â0,Altay,Sarper BarÄ±Å Saka,0,1,2022-03-06,"Mar 6, 2022, 16:00",Fatih KaragÃ¼mrÃ¼k,Altay,2.0,3.55,3.7,0.75
+28,2022-03-06,FenerbahÃ§e,1â1,Trabzonspor,Zorbay KÃ¼Ã§Ã¼k,0,1,2022-03-06,"Mar 6, 2022, 19:00",FenerbahÃ§e,Trabzonspor,2.3,3.35,3.06,0.7857142857142857
+28,2022-03-06,Antalyaspor,1â0,Sivasspor,CÃ¼neyt ÃakÎ¹r,0,0,2022-03-06,"Mar 6, 2022, 19:00",Antalyaspor,Sivasspor,2.5,3.25,2.84,0.3571428571428571
+28,2022-03-07,Kayserispor,1â2,Alanyaspor,Suat Arslanboga,0,0,2022-03-07,"Mar 7, 2022, 20:00",Kayserispor,Alanyaspor,2.4,3.2,2.55,0.6923076923076923
+29,2022-03-12,Hatayspor,3â0,Fatih KaragÃ¼mrÃ¼k,YaÅar Kemal UÄurlu,0,0,2022-03-12,"Mar 12, 2022, 13:30",Hatayspor,Fatih KaragÃ¼mrÃ¼k,2.07,3.5,3.2,0.7058823529411765
+29,2022-03-12,KasÄ±mpaÅa,3â1,Rizespor,Sarper BarÄ±Å Saka,0,1,2022-03-12,"Mar 12, 2022, 16:00",KasÄ±mpaÅa,Rizespor,1.79,3.65,4.05,0.75
+29,2022-03-12,Trabzonspor,4â2,GÃ¶ztepe,Ali Åansalan,0,0,2022-03-12,"Mar 12, 2022, 19:00",Trabzonspor,GÃ¶ztepe,1.59,3.95,5.0,0.6575342465753424
+29,2022-03-13,Kayserispor,2â3,Konyaspor,Yasin Kol,1,0,2022-03-13,"Mar 13, 2022, 13:30",Kayserispor,Konyaspor,2.6,3.1,2.55,1.2
+29,2022-03-13,Adana Demirspor,2â3,Sivasspor,ÃaÄdaÅ Altay,2,0,2022-03-13,"Mar 13, 2022, 16:00",Adana Demirspor,Sivasspor,1.85,3.4,3.75,0.7222222222222222
+29,2022-03-13,Alanyaspor,2â5,FenerbahÃ§e,Volkan Bayarslan,1,0,2022-03-13,"Mar 13, 2022, 19:00",Alanyaspor,FenerbahÃ§e,2.5,3.45,2.55,0.38636363636363635
+29,2022-03-14,Galatasaray,2â1,BeÅiktaÅ,Atilla KaraoÄlan,0,0,2022-03-14,"Mar 14, 2022, 20:00",Galatasaray,BeÅiktaÅ,2.62,3.34,2.73,0.7213114754098361
+30,2022-03-18,Fatih KaragÃ¼mrÃ¼k,3â0,Kayserispor,Kadir SaÄlam,0,0,2022-03-18,"Mar 18, 2022, 20:00",Fatih KaragÃ¼mrÃ¼k,Kayserispor,2.2,3.3,2.85,0.9215686274509804
+30,2022-03-18,Rizespor,3â2,Trabzonspor,Volkan Bayarslan,3,0,2022-03-18,"Mar 18, 2022, 20:15",Rizespor,Trabzonspor,4.9,3.75,1.57,0.38636363636363635
+30,2022-03-19,GÃ¶ztepe,0â2,Alanyaspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2022-03-19,"Mar 19, 2022, 16:00",GÃ¶ztepe,Alanyaspor,2.94,3.78,2.3,0.7857142857142857
+30,2022-03-19,BeÅiktaÅ,1â1,Hatayspor,Yasin Kol,0,0,2022-03-19,"Mar 19, 2022, 19:00",BeÅiktaÅ,Hatayspor,1.81,3.91,4.25,1.2
+30,2022-03-20,Antalyaspor,4â1,Giresunspor,Mustafa KÃ¼rÅad Filiz,1,0,2022-03-20,"Mar 20, 2022, 13:30",Antalyaspor,Giresunspor,2.28,3.22,3.46,0.8571428571428571
+30,2022-03-20,Sivasspor,2â1,Altay,Atilla KaraoÄlan,0,0,2022-03-20,"Mar 20, 2022, 13:30",Sivasspor,Altay,1.81,3.74,4.53,0.7213114754098361
+30,2022-03-20,FenerbahÃ§e,2â1,Konyaspor,Halil Umut Meler,0,0,2022-03-20,"Mar 20, 2022, 19:00",FenerbahÃ§e,Konyaspor,2.18,3.4,3.5,1.0909090909090908
+31,2022-04-02,Giresunspor,2â2,Sivasspor,Arda KardeÅler,0,0,2022-04-02,"Apr 2, 2022, 13:30",Giresunspor,Sivasspor,2.4,3.1,3.0,0.5714285714285714
+31,2022-04-02,Kayserispor,0â4,FenerbahÃ§e,Atilla KaraoÄlan,0,0,2022-04-02,"Apr 2, 2022, 16:00",Kayserispor,FenerbahÃ§e,3.4,3.5,2.05,0.7213114754098361
+31,2022-04-02,Altay,1â2,Antalyaspor,Yasin Kol,1,0,2022-04-02,"Apr 2, 2022, 16:00",Altay,Antalyaspor,2.75,3.2,2.6,1.2
+31,2022-04-02,Galatasaray,2â0,Fatih KaragÃ¼mrÃ¼k,Ali Åansalan,1,0,2022-04-02,"Apr 2, 2022, 20:30",Galatasaray,Fatih KaragÃ¼mrÃ¼k,1.65,4.1,5.0,0.6575342465753424
+31,2022-04-03,Alanyaspor,2â1,Rizespor,Halil Umut Meler,1,0,2022-04-03,"Apr 3, 2022, 16:00",Alanyaspor,Rizespor,1.6,4.1,4.9,1.0909090909090908
+31,2022-04-03,Konyaspor,3â0,GÃ¶ztepe,Erkan Ãzdamar,0,1,2022-04-03,"Apr 3, 2022, 16:00",Konyaspor,GÃ¶ztepe,1.84,3.5,4.1,1.3928571428571428
+31,2022-04-03,Trabzonspor,1â1,BeÅiktaÅ,Zorbay KÃ¼Ã§Ã¼k,0,1,2022-04-03,"Apr 3, 2022, 20:30",Trabzonspor,BeÅiktaÅ,2.1,3.25,3.0,0.7857142857142857
+31,2022-04-04,Hatayspor,0â0,Adana Demirspor,Mustafa KÃ¼rÅad Filiz,0,1,2022-04-04,"Apr 4, 2022, 20:30",Hatayspor,Adana Demirspor,2.39,3.2,2.65,0.8571428571428571
+32,2022-04-09,Fatih KaragÃ¼mrÃ¼k,3â2,KasÄ±mpaÅa,Mustafa KÃ¼rÅad Filiz,0,0,2022-04-09,"Apr 9, 2022, 13:30",Fatih KaragÃ¼mrÃ¼k,KasÄ±mpaÅa,2.05,3.53,3.35,0.8571428571428571
+32,2022-04-09,Rizespor,2â1,Konyaspor,Ali Åansalan,0,2,2022-04-09,"Apr 9, 2022, 16:00",Rizespor,Konyaspor,3.68,3.72,2.06,0.6575342465753424
+32,2022-04-09,GÃ¶ztepe,1â2,Kayserispor,YaÅar Kemal UÄurlu,0,0,2022-04-09,"Apr 9, 2022, 16:00",GÃ¶ztepe,Kayserispor,2.17,3.72,3.36,0.7058823529411765
+32,2022-04-09,BeÅiktaÅ,4â1,Alanyaspor,Volkan Bayarslan,0,0,2022-04-09,"Apr 9, 2022, 20:30",BeÅiktaÅ,Alanyaspor,1.94,3.9,3.9,0.38636363636363635
+32,2022-04-10,Adana Demirspor,3â1,Altay,Arda KardeÅler,0,0,2022-04-10,"Apr 10, 2022, 16:00",Adana Demirspor,Altay,1.57,4.1,5.75,0.5714285714285714
+32,2022-04-10,FenerbahÃ§e,2â0,Galatasaray,Atilla KaraoÄlan,0,0,2022-04-10,"Apr 10, 2022, 20:30",FenerbahÃ§e,Galatasaray,1.98,3.6,3.35,0.7213114754098361
+32,2022-04-11,Antalyaspor,4â1,Hatayspor,Kadir SaÄlam,0,1,2022-04-11,"Apr 11, 2022, 20:30",Antalyaspor,Hatayspor,2.28,3.5,3.09,0.9215686274509804
+33,2022-04-15,Kayserispor,1â1,Rizespor,Erkan Ãzdamar,0,0,2022-04-15,"Apr 15, 2022, 20:30",Kayserispor,Rizespor,2.05,3.45,3.5,1.3928571428571428
+33,2022-04-15,Trabzonspor,1â1,Fatih KaragÃ¼mrÃ¼k,Halil Umut Meler,0,0,2022-04-15,"Apr 15, 2022, 20:30",Trabzonspor,Fatih KaragÃ¼mrÃ¼k,1.57,4.2,5.5,1.0909090909090908
+33,2022-04-16,Hatayspor,1â1,Sivasspor,Ozan ErgÃ¼n,0,1,2022-04-16,"Apr 16, 2022, 13:30",Hatayspor,Sivasspor,2.32,3.31,3.27,0.5
+33,2022-04-16,Alanyaspor,1â3,Antalyaspor,YaÅar Kemal UÄurlu,0,0,2022-04-16,"Apr 16, 2022, 16:00",Alanyaspor,Antalyaspor,1.98,3.2,3.19,0.7058823529411765
+33,2022-04-16,FenerbahÃ§e,2â0,GÃ¶ztepe,Yasin Kol,1,1,2022-04-16,"Apr 16, 2022, 20:30",FenerbahÃ§e,GÃ¶ztepe,1.52,3.79,4.76,1.2
+33,2022-04-17,KasÄ±mpaÅa,4â0,Adana Demirspor,Kadir SaÄlam,1,1,2022-04-17,"Apr 17, 2022, 16:00",KasÄ±mpaÅa,Adana Demirspor,2.4,3.3,2.8,0.9215686274509804
+33,2022-04-17,Giresunspor,0â0,BeÅiktaÅ,Arda KardeÅler,0,0,2022-04-17,"Apr 17, 2022, 20:30",Giresunspor,BeÅiktaÅ,3.05,3.35,2.23,0.5714285714285714
+34,2022-04-22,Rizespor,0â6,FenerbahÃ§e,Halil Umut Meler,2,1,2022-04-22,"Apr 22, 2022, 20:30",Rizespor,FenerbahÃ§e,4.5,3.8,1.7,1.0909090909090908
+34,2022-04-23,Fatih KaragÃ¼mrÃ¼k,2â1,Giresunspor,Erkan Ãzdamar,2,1,2022-04-23,"Apr 23, 2022, 16:00",Fatih KaragÃ¼mrÃ¼k,Giresunspor,2.28,3.4,2.95,1.3928571428571428
+34,2022-04-23,Adana Demirspor,1â3,Trabzonspor,YaÅar Kemal UÄurlu,1,0,2022-04-23,"Apr 23, 2022, 20:30",Adana Demirspor,Trabzonspor,2.25,3.25,2.75,0.7058823529411765
+34,2022-04-24,Altay,0â1,Galatasaray,Volkan Bayarslan,0,0,2022-04-24,"Apr 24, 2022, 20:30",Altay,Galatasaray,4.18,3.78,1.83,0.38636363636363635
+34,2022-04-24,Antalyaspor,1â1,Kayserispor,CÃ¼neyt ÃakÎ¹r,0,0,2022-04-24,"Apr 24, 2022, 20:30",Antalyaspor,Kayserispor,1.82,3.7,4.4,0.3571428571428571
+34,2022-04-25,BeÅiktaÅ,0â3,KasÄ±mpaÅa,Yasin Kol,0,0,2022-04-25,"Apr 25, 2022, 20:30",BeÅiktaÅ,KasÄ±mpaÅa,1.72,3.61,3.7,1.2
+34,2022-04-25,Sivasspor,1â0,Alanyaspor,Umit ÃztÃ¼rk,1,0,2022-04-25,"Apr 25, 2022, 20:30",Sivasspor,Alanyaspor,2.5,3.22,2.38,0.8163265306122449
+35,2022-04-29,Giresunspor,2â0,Adana Demirspor,Halil Umut Meler,0,0,2022-04-29,"Apr 29, 2022, 20:30",Giresunspor,Adana Demirspor,3.2,3.45,2.15,1.0909090909090908
+35,2022-04-30,Konyaspor,1â2,Fatih KaragÃ¼mrÃ¼k,Arda KardeÅler,0,0,2022-04-30,"Apr 30, 2022, 16:00",Konyaspor,Fatih KaragÃ¼mrÃ¼k,1.81,4.0,4.44,0.5714285714285714
+35,2022-04-30,Hatayspor,0â1,Altay,Abdulkadir Bitigen,0,0,2022-04-30,"Apr 30, 2022, 20:30",Hatayspor,Altay,1.74,3.47,3.76,0.7297297297297298
+35,2022-04-30,Trabzonspor,2â2,Antalyaspor,Atilla KaraoÄlan,0,0,2022-04-30,"Apr 30, 2022, 20:30",Trabzonspor,Antalyaspor,1.68,3.46,4.08,0.7213114754098361
+35,2022-05-01,Kayserispor,2â3,BeÅiktaÅ,Erkan Ãzdamar,2,1,2022-05-01,"May 1, 2022, 16:00",Kayserispor,BeÅiktaÅ,3.15,3.7,2.03,1.3928571428571428
+35,2022-05-01,Galatasaray,2â3,Sivasspor,Kadir SaÄlam,1,0,2022-05-01,"May 1, 2022, 20:30",Galatasaray,Sivasspor,1.96,3.4,3.75,0.9215686274509804
+35,2022-05-01,GÃ¶ztepe,1â7,Rizespor,Volkan Bayarslan,0,0,2022-05-01,"May 1, 2022, 20:30",GÃ¶ztepe,Rizespor,2.12,3.4,3.3,0.38636363636363635
+36,2022-05-06,Hatayspor,1â1,Trabzonspor,Volkan Bayarslan,0,0,2022-05-06,"May 6, 2022, 20:00",Hatayspor,Trabzonspor,3.11,3.3,2.08,0.38636363636363635
+36,2022-05-07,Sivasspor,1â3,KasÄ±mpaÅa,Ali Åansalan,0,0,2022-05-07,"May 7, 2022, 16:00",Sivasspor,KasÄ±mpaÅa,2.32,3.25,3.0,0.6575342465753424
+36,2022-05-07,Fatih KaragÃ¼mrÃ¼k,3â1,GÃ¶ztepe,Mustafa KÃ¼rÅad Filiz,0,0,2022-05-07,"May 7, 2022, 16:00",Fatih KaragÃ¼mrÃ¼k,GÃ¶ztepe,1.73,3.85,4.4,0.8571428571428571
+36,2022-05-07,Adana Demirspor,1â2,Alanyaspor,Umit ÃztÃ¼rk,0,0,2022-05-07,"May 7, 2022, 19:00",Adana Demirspor,Alanyaspor,1.82,3.8,3.9,0.8163265306122449
+36,2022-05-08,Altay,1â1,Giresunspor,CÃ¼neyt ÃakÎ¹r,0,0,2022-05-08,"May 8, 2022, 16:00",Altay,Giresunspor,2.02,3.62,3.92,0.3571428571428571
+36,2022-05-08,BeÅiktaÅ,1â1,FenerbahÃ§e,Arda KardeÅler,1,0,2022-05-08,"May 8, 2022, 19:00",BeÅiktaÅ,FenerbahÃ§e,2.93,3.66,2.43,0.5714285714285714
+36,2022-05-09,Antalyaspor,3â2,Konyaspor,Mete Kalkavan,2,0,2022-05-09,"May 9, 2022, 20:00",Antalyaspor,Konyaspor,2.8,3.26,2.25,1.1153846153846154
+37,2022-05-15,Trabzonspor,2â1,Altay,Kadir SaÄlam,1,0,2022-05-15,"May 15, 2022, 16:00",Trabzonspor,Altay,1.39,5.0,7.11,0.9215686274509804
+37,2022-05-15,GÃ¶ztepe,0â2,BeÅiktaÅ,Umit ÃztÃ¼rk,0,3,2022-05-15,"May 15, 2022, 16:00",GÃ¶ztepe,BeÅiktaÅ,4.98,4.5,1.57,0.8163265306122449
+37,2022-05-15,KasÄ±mpaÅa,2â4,Antalyaspor,Mert GÃ¼zenge,1,0,2022-05-15,"May 15, 2022, 19:00",KasÄ±mpaÅa,Antalyaspor,2.0,3.9,3.29,0.2608695652173913
+37,2022-05-15,FenerbahÃ§e,0â0,Fatih KaragÃ¼mrÃ¼k,Halil Umut Meler,0,0,2022-05-15,"May 15, 2022, 19:00",FenerbahÃ§e,Fatih KaragÃ¼mrÃ¼k,1.46,4.75,6.08,1.0909090909090908
+37,2022-05-15,Konyaspor,3â1,Hatayspor,Erkan Ãzdamar,1,0,2022-05-15,"May 15, 2022, 19:00",Konyaspor,Hatayspor,1.65,4.25,4.57,1.3928571428571428
+37,2022-05-16,Galatasaray,3â2,Adana Demirspor,Sarper BarÄ±Å Saka,1,0,2022-05-16,"May 16, 2022, 20:00",Galatasaray,Adana Demirspor,1.95,3.8,3.65,0.75
+37,2022-05-16,Rizespor,1â2,Sivasspor,Suat Arslanboga,0,0,2022-05-16,"May 16, 2022, 20:00",Rizespor,Sivasspor,2.75,3.5,2.5,0.6923076923076923
+38,2022-05-20,Antalyaspor,1â1,Galatasaray,Yasin Kol,0,0,2022-05-20,"May 20, 2022, 20:00",Antalyaspor,Galatasaray,2.19,3.7,2.9,1.2
+38,2022-05-21,Sivasspor,2â1,Kayserispor,YaÅar Kemal UÄurlu,0,0,2022-05-21,"May 21, 2022, 16:00",Sivasspor,Kayserispor,1.76,3.85,4.5,0.7058823529411765
+38,2022-05-21,Altay,2â4,KasÄ±mpaÅa,ÃaÄdaÅ Altay,1,0,2022-05-21,"May 21, 2022, 16:00",Altay,KasÄ±mpaÅa,2.85,3.9,2.28,0.7222222222222222
+38,2022-05-21,BeÅiktaÅ,1â1,Konyaspor,Sarper BarÄ±Å Saka,0,0,2022-05-21,"May 21, 2022, 19:00",BeÅiktaÅ,Konyaspor,1.9,3.85,3.8,0.75
+38,2022-05-22,Fatih KaragÃ¼mrÃ¼k,0â1,Alanyaspor,FÄ±rat AydÄ±nus,0,0,2022-05-22,"May 22, 2022, 16:00",Fatih KaragÃ¼mrÃ¼k,Alanyaspor,2.87,3.7,2.17,0.7272727272727273
+38,2022-05-22,Adana Demirspor,7â0,GÃ¶ztepe,Adem Cinek,0,0,2022-05-22,"May 22, 2022, 19:00",Adana Demirspor,GÃ¶ztepe,1.36,4.5,6.5,0.0
+38,2022-05-22,Hatayspor,4â1,Giresunspor,Ali PalabÄ±yÄ±k,0,0,2022-05-22,"May 22, 2022, 19:00",Hatayspor,Giresunspor,2.05,3.3,3.1,1.0
+1,2022-08-05,Ä°stanbulspor,0â2,Trabzonspor,Arda KardeÅler,0,0,2022-08-05,"Aug 5, 2022, 21:00",Ä°stanbulspor,Trabzonspor,4.47,3.87,1.71,0.5714285714285714
+1,2022-08-06,BeÅiktaÅ,1â0,Kayserispor,Umit ÃztÃ¼rk,2,0,2022-08-06,"Aug 6, 2022, 21:45",BeÅiktaÅ,Kayserispor,1.52,4.3,5.9,0.8163265306122449
+1,2022-08-07,Fatih KaragÃ¼mrÃ¼k,2â4,Alanyaspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2022-08-07,"Aug 7, 2022, 19:15",Fatih KaragÃ¼mrÃ¼k,Alanyaspor,2.63,3.5,2.6,0.7857142857142857
+1,2022-08-07,Giresunspor,2â3,Adana Demirspor,Volkan Bayarslan,0,0,2022-08-07,"Aug 7, 2022, 19:15",Giresunspor,Adana Demirspor,3.2,3.5,2.2,0.38636363636363635
+1,2022-08-07,Antalyaspor,0â1,Galatasaray,Atilla KaraoÄlan,0,0,2022-08-07,"Aug 7, 2022, 21:45",Antalyaspor,Galatasaray,2.38,3.5,2.9,0.7213114754098361
+1,2022-08-08,AnkaragÃ¼cÃ¼,0â0,Konyaspor,Bahattin ÅimÅek,0,0,2022-08-08,"Aug 8, 2022, 21:45",AnkaragÃ¼cÃ¼,Konyaspor,2.8,3.45,2.33,0.7352941176470589
+1,2022-08-08,FenerbahÃ§e,3â3,Ãmraniyespor,YaÅar Kemal UÄurlu,2,0,2022-08-08,"Aug 8, 2022, 21:45",FenerbahÃ§e,Ãmraniyespor,1.33,5.46,8.65,0.7058823529411765
+2,2022-08-12,Trabzonspor,1â0,Hatayspor,Abdulkadir Bitigen,0,0,2022-08-12,"Aug 12, 2022, 21:00",Trabzonspor,Hatayspor,1.61,3.56,4.39,0.7297297297297298
+2,2022-08-13,Kayserispor,1â0,Ä°stanbulspor,Suat Arslanboga,0,0,2022-08-13,"Aug 13, 2022, 19:15",Kayserispor,Ä°stanbulspor,2.01,3.45,3.45,0.6923076923076923
+2,2022-08-13,Adana Demirspor,3â0,Sivasspor,Mert GÃ¼zenge,0,0,2022-08-13,"Aug 13, 2022, 21:45",Adana Demirspor,Sivasspor,1.92,3.55,3.65,0.2608695652173913
+2,2022-08-13,Galatasaray,0â1,Giresunspor,Kadir SaÄlam,0,0,2022-08-13,"Aug 13, 2022, 21:45",Galatasaray,Giresunspor,1.6,3.85,5.0,0.9215686274509804
+2,2022-08-14,Ãmraniyespor,0â1,Antalyaspor,ÃaÄdaÅ Altay,0,0,2022-08-14,"Aug 14, 2022, 19:15",Ãmraniyespor,Antalyaspor,3.05,3.35,2.07,0.7222222222222222
+2,2022-08-14,Alanyaspor,3â3,BeÅiktaÅ,Yasin Kol,2,1,2022-08-14,"Aug 14, 2022, 21:45",Alanyaspor,BeÅiktaÅ,2.8,3.4,2.19,1.2
+2,2022-08-15,KasÄ±mpaÅa,0â6,FenerbahÃ§e,Mete Kalkavan,1,0,2022-08-15,"Aug 15, 2022, 21:45",KasÄ±mpaÅa,FenerbahÃ§e,2.9,3.4,2.1,1.1153846153846154
+3,2022-08-19,Ãmraniyespor,0â1,Galatasaray,Ali Åansalan,0,0,2022-08-19,"Aug 19, 2022, 21:00",Ãmraniyespor,Galatasaray,3.45,3.45,2.01,0.6575342465753424
+3,2022-08-20,Giresunspor,1â0,KasÄ±mpaÅa,Bahattin ÅimÅek,0,0,2022-08-20,"Aug 20, 2022, 19:15",Giresunspor,KasÄ±mpaÅa,2.23,3.45,2.95,0.7352941176470589
+3,2022-08-20,Antalyaspor,5â2,Trabzonspor,Volkan Bayarslan,1,0,2022-08-20,"Aug 20, 2022, 21:45",Antalyaspor,Trabzonspor,2.6,3.1,2.7,0.38636363636363635
+3,2022-08-21,BeÅiktaÅ,4â1,Fatih KaragÃ¼mrÃ¼k,Arda KardeÅler,0,0,2022-08-21,"Aug 21, 2022, 21:45",BeÅiktaÅ,Fatih KaragÃ¼mrÃ¼k,1.59,3.75,4.6,0.5714285714285714
+3,2022-08-22,Sivasspor,1â1,Alanyaspor,Umit ÃztÃ¼rk,1,0,2022-08-22,"Aug 22, 2022, 19:15",Sivasspor,Alanyaspor,2.39,3.56,3.05,0.8163265306122449
+3,2022-08-22,Ä°stanbulspor,0â4,Konyaspor,Burak Åeker,2,0,2022-08-22,"Aug 22, 2022, 19:15",Ä°stanbulspor,Konyaspor,3.63,3.45,2.16,1.2857142857142856
+3,2022-08-22,FenerbahÃ§e,4â2,Adana Demirspor,Abdulkadir Bitigen,2,1,2022-08-22,"Aug 22, 2022, 21:45",FenerbahÃ§e,Adana Demirspor,1.71,4.39,4.36,0.7297297297297298
+4,2022-08-27,Fatih KaragÃ¼mrÃ¼k,4â1,AnkaragÃ¼cÃ¼,ÃaÄdaÅ Altay,1,0,2022-08-27,"Aug 27, 2022, 19:15",Fatih KaragÃ¼mrÃ¼k,AnkaragÃ¼cÃ¼,1.85,3.65,4.1,0.7222222222222222
+4,2022-08-27,Alanyaspor,0â1,Ä°stanbulspor,Mustafa KÃ¼rÅad Filiz,0,1,2022-08-27,"Aug 27, 2022, 21:45",Alanyaspor,Ä°stanbulspor,1.5,4.6,6.0,0.8571428571428571
+4,2022-08-27,Adana Demirspor,1â0,Ãmraniyespor,Kadir SaÄlam,0,0,2022-08-27,"Aug 27, 2022, 21:45",Adana Demirspor,Ãmraniyespor,1.55,4.3,5.5,0.9215686274509804
+4,2022-08-28,Kayserispor,3â0,Giresunspor,Sarper BarÄ±Å Saka,0,0,2022-08-28,"Aug 28, 2022, 19:15",Kayserispor,Giresunspor,2.1,3.25,3.15,0.75
+4,2022-08-28,KasÄ±mpaÅa,1â0,Hatayspor,Mert GÃ¼zenge,0,0,2022-08-28,"Aug 28, 2022, 19:15",KasÄ±mpaÅa,Hatayspor,1.95,3.5,3.3,0.2608695652173913
+4,2022-08-28,Trabzonspor,0â0,Galatasaray,Ali PalabÄ±yÄ±k,0,0,2022-08-28,"Aug 28, 2022, 21:45",Trabzonspor,Galatasaray,2.15,3.3,3.05,1.0
+4,2022-08-29,Konyaspor,1â0,FenerbahÃ§e,Arda KardeÅler,0,2,2022-08-29,"Aug 29, 2022, 19:15",Konyaspor,FenerbahÃ§e,2.7,3.5,2.55,0.5714285714285714
+4,2022-08-29,BeÅiktaÅ,3â1,Sivasspor,Volkan Bayarslan,0,0,2022-08-29,"Aug 29, 2022, 21:45",BeÅiktaÅ,Sivasspor,1.7,4.0,4.75,0.38636363636363635
+5,2022-09-02,Ãmraniyespor,0â1,Trabzonspor,Arda KardeÅler,0,0,2022-09-02,"Sep 2, 2022, 21:00",Ãmraniyespor,Trabzonspor,4.6,3.9,1.67,0.5714285714285714
+5,2022-09-03,Sivasspor,0â0,Fatih KaragÃ¼mrÃ¼k,Yasin Kol,0,1,2022-09-03,"Sep 3, 2022, 19:15",Sivasspor,Fatih KaragÃ¼mrÃ¼k,2.14,3.5,3.1,1.2
+5,2022-09-03,FenerbahÃ§e,2â0,Kayserispor,Ali PalabÄ±yÄ±k,0,0,2022-09-03,"Sep 3, 2022, 21:45",FenerbahÃ§e,Kayserispor,1.52,4.4,5.45,1.0
+5,2022-09-03,Giresunspor,0â1,Konyaspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2022-09-03,"Sep 3, 2022, 21:45",Giresunspor,Konyaspor,2.68,3.33,2.52,0.7857142857142857
+5,2022-09-04,Hatayspor,1â1,Adana Demirspor,Burak Åeker,0,0,2022-09-04,"Sep 4, 2022, 19:15",Hatayspor,Adana Demirspor,2.6,3.2,2.37,1.2857142857142856
+5,2022-09-04,AnkaragÃ¼cÃ¼,2â3,BeÅiktaÅ,Mete Kalkavan,1,1,2022-09-04,"Sep 4, 2022, 21:45",AnkaragÃ¼cÃ¼,BeÅiktaÅ,3.75,3.5,1.8,1.1153846153846154
+5,2022-09-04,Antalyaspor,0â2,KasÄ±mpaÅa,Kadir SaÄlam,1,1,2022-09-04,"Sep 4, 2022, 21:45",Antalyaspor,KasÄ±mpaÅa,1.8,3.4,3.8,0.9215686274509804
+6,2022-09-09,Alanyaspor,2â1,AnkaragÃ¼cÃ¼,Mert GÃ¼zenge,0,0,2022-09-09,"Sep 9, 2022, 20:00",Alanyaspor,AnkaragÃ¼cÃ¼,1.61,3.81,4.39,0.2608695652173913
+6,2022-09-10,Konyaspor,1â0,Hatayspor,Tugay Kaan NumanoÄlu,0,0,2022-09-10,"Sep 10, 2022, 17:00",Konyaspor,Hatayspor,1.78,3.8,3.95,1.03125
+6,2022-09-10,Fatih KaragÃ¼mrÃ¼k,1â1,Giresunspor,Erkan Ãzdamar,0,0,2022-09-10,"Sep 10, 2022, 20:00",Fatih KaragÃ¼mrÃ¼k,Giresunspor,1.96,3.55,3.45,1.3928571428571428
+6,2022-09-11,Sivasspor,1â1,Ä°stanbulspor,HÃ¼seyin GÃ¶Ã§ek,0,0,2022-09-11,"Sep 11, 2022, 17:00",Sivasspor,Ä°stanbulspor,1.94,3.82,4.02,1.0
+6,2022-09-11,Kayserispor,1â0,Antalyaspor,Bahattin ÅimÅek,0,0,2022-09-11,"Sep 11, 2022, 20:00",Kayserispor,Antalyaspor,2.43,3.6,2.6,0.7352941176470589
+6,2022-09-11,KasÄ±mpaÅa,2â3,Galatasaray,Volkan Bayarslan,0,0,2022-09-11,"Sep 11, 2022, 20:00",KasÄ±mpaÅa,Galatasaray,3.8,3.9,1.81,0.38636363636363635
+6,2022-09-12,Adana Demirspor,3â2,Trabzonspor,Atilla KaraoÄlan,1,0,2022-09-12,"Sep 12, 2022, 21:30",Adana Demirspor,Trabzonspor,2.35,3.55,2.92,0.7213114754098361
+7,2022-09-16,Hatayspor,0â4,Kayserispor,ÃaÄdaÅ Altay,2,1,2022-09-16,"Sep 16, 2022, 20:00",Hatayspor,Kayserispor,2.3,3.5,2.85,0.7222222222222222
+7,2022-09-16,Galatasaray,2â1,Konyaspor,Abdulkadir Bitigen,0,1,2022-09-16,"Sep 16, 2022, 20:00",Galatasaray,Konyaspor,2.05,3.5,3.3,0.7297297297297298
+7,2022-09-17,Ãmraniyespor,1â2,KasÄ±mpaÅa,Suat Arslanboga,1,0,2022-09-17,"Sep 17, 2022, 17:00",Ãmraniyespor,KasÄ±mpaÅa,2.48,3.5,2.54,0.6923076923076923
+7,2022-09-17,Antalyaspor,0â3,Adana Demirspor,Ali PalabÄ±yÄ±k,0,3,2022-09-17,"Sep 17, 2022, 20:00",Antalyaspor,Adana Demirspor,2.13,3.7,2.95,1.0
+7,2022-09-17,Ä°stanbulspor,2â2,BeÅiktaÅ,Zorbay KÃ¼Ã§Ã¼k,0,0,2022-09-17,"Sep 17, 2022, 20:00",Ä°stanbulspor,BeÅiktaÅ,5.15,4.38,1.66,0.7857142857142857
+7,2022-09-18,FenerbahÃ§e,5â0,Alanyaspor,HÃ¼seyin GÃ¶Ã§ek,0,0,2022-09-18,"Sep 18, 2022, 20:00",FenerbahÃ§e,Alanyaspor,1.45,4.75,5.75,1.0
+7,2022-09-18,AnkaragÃ¼cÃ¼,2â1,Sivasspor,Sarper BarÄ±Å Saka,0,0,2022-09-18,"Sep 18, 2022, 20:00",AnkaragÃ¼cÃ¼,Sivasspor,2.32,3.25,2.95,0.75
+8,2022-10-01,Kayserispor,1â2,Trabzonspor,Umit ÃztÃ¼rk,1,0,2022-10-01,"Oct 1, 2022, 17:00",Kayserispor,Trabzonspor,3.0,3.5,2.15,0.8163265306122449
+8,2022-10-01,Adana Demirspor,0â0,Galatasaray,Halil Umut Meler,0,2,2022-10-01,"Oct 1, 2022, 20:00",Adana Demirspor,Galatasaray,2.44,3.8,2.82,1.0909090909090908
+8,2022-10-02,Alanyaspor,1â1,Giresunspor,Tugay Kaan NumanoÄlu,1,1,2022-10-02,"Oct 2, 2022, 14:30",Alanyaspor,Giresunspor,1.94,3.65,3.5,1.03125
+8,2022-10-02,Sivasspor,1â2,Hatayspor,Erkan Ãzdamar,0,1,2022-10-02,"Oct 2, 2022, 14:30",Sivasspor,Hatayspor,2.18,3.4,3.1,1.3928571428571428
+8,2022-10-02,Konyaspor,1â0,Ãmraniyespor,Mustafa KÃ¼rÅad Filiz,0,0,2022-10-02,"Oct 2, 2022, 17:00",Konyaspor,Ãmraniyespor,1.57,3.9,5.5,0.8571428571428571
+8,2022-10-02,BeÅiktaÅ,0â0,FenerbahÃ§e,Volkan Bayarslan,0,0,2022-10-02,"Oct 2, 2022, 20:00",BeÅiktaÅ,FenerbahÃ§e,2.43,3.4,2.7,0.38636363636363635
+8,2022-10-03,Fatih KaragÃ¼mrÃ¼k,1â2,Ä°stanbulspor,Ali Åansalan,0,0,2022-10-03,"Oct 3, 2022, 20:00",Fatih KaragÃ¼mrÃ¼k,Ä°stanbulspor,1.84,3.65,3.9,0.6575342465753424
+9,2022-10-08,Ä°stanbulspor,1â2,AnkaragÃ¼cÃ¼,Yasin Kol,0,0,2022-10-08,"Oct 8, 2022, 14:30",Ä°stanbulspor,AnkaragÃ¼cÃ¼,2.49,3.4,2.75,1.2
+9,2022-10-08,Antalyaspor,1â1,Konyaspor,Mert GÃ¼zenge,0,0,2022-10-08,"Oct 8, 2022, 17:00",Antalyaspor,Konyaspor,2.47,3.35,2.8,0.2608695652173913
+9,2022-10-08,Giresunspor,0â1,BeÅiktaÅ,YaÅar Kemal UÄurlu,0,0,2022-10-08,"Oct 8, 2022, 20:00",Giresunspor,BeÅiktaÅ,3.75,3.65,1.76,0.7058823529411765
+9,2022-10-09,Ãmraniyespor,2â2,Kayserispor,Burak Åeker,1,1,2022-10-09,"Oct 9, 2022, 14:30",Ãmraniyespor,Kayserispor,2.69,3.54,2.69,1.2857142857142856
+9,2022-10-09,Hatayspor,1â0,Alanyaspor,Abdulkadir Bitigen,0,0,2022-10-09,"Oct 9, 2022, 17:00",Hatayspor,Alanyaspor,2.71,3.62,2.63,0.7297297297297298
+9,2022-10-09,FenerbahÃ§e,5â4,Fatih KaragÃ¼mrÃ¼k,Atilla KaraoÄlan,3,0,2022-10-09,"Oct 9, 2022, 20:00",FenerbahÃ§e,Fatih KaragÃ¼mrÃ¼k,1.62,4.2,4.5,0.7213114754098361
+9,2022-10-10,Trabzonspor,0â0,KasÄ±mpaÅa,HÃ¼seyin GÃ¶Ã§ek,0,0,2022-10-10,"Oct 10, 2022, 20:00",Trabzonspor,KasÄ±mpaÅa,1.6,4.1,5.1,1.0
+10,2022-10-14,Alanyaspor,3â2,Antalyaspor,YaÅar Kemal UÄurlu,0,0,2022-10-14,"Oct 14, 2022, 20:00",Alanyaspor,Antalyaspor,2.28,3.7,2.85,0.7058823529411765
+10,2022-10-15,Fatih KaragÃ¼mrÃ¼k,3â0,Hatayspor,Volkan Bayarslan,1,0,2022-10-15,"Oct 15, 2022, 14:30",Fatih KaragÃ¼mrÃ¼k,Hatayspor,2.07,3.55,3.4,0.38636363636363635
+10,2022-10-15,KasÄ±mpaÅa,1â4,Adana Demirspor,Tugay Kaan NumanoÄlu,0,0,2022-10-15,"Oct 15, 2022, 17:00",KasÄ±mpaÅa,Adana Demirspor,2.77,3.65,2.36,1.03125
+10,2022-10-15,Kayserispor,2â1,Galatasaray,Arda KardeÅler,0,0,2022-10-15,"Oct 15, 2022, 20:00",Kayserispor,Galatasaray,3.19,3.33,1.94,0.5714285714285714
+10,2022-10-16,BeÅiktaÅ,2â2,Trabzonspor,Ali Åansalan,0,1,2022-10-16,"Oct 16, 2022, 20:00",BeÅiktaÅ,Trabzonspor,2.0,3.5,3.6,0.6575342465753424
+10,2022-10-17,Sivasspor,3â0,Giresunspor,Bahattin ÅimÅek,0,0,2022-10-17,"Oct 17, 2022, 20:00",Sivasspor,Giresunspor,2.25,3.3,3.0,0.7352941176470589
+10,2022-10-17,AnkaragÃ¼cÃ¼,0â3,FenerbahÃ§e,Halil Umut Meler,0,0,2022-10-17,"Oct 17, 2022, 20:00",AnkaragÃ¼cÃ¼,FenerbahÃ§e,4.9,3.8,1.63,1.0909090909090908
+11,2022-10-21,Antalyaspor,2â1,Ä°stanbulspor,Umit ÃztÃ¼rk,0,1,2022-10-21,"Oct 21, 2022, 20:00",Antalyaspor,Ä°stanbulspor,1.72,3.85,4.57,0.8163265306122449
+11,2022-10-22,Ãmraniyespor,1â3,Fatih KaragÃ¼mrÃ¼k,Mert GÃ¼zenge,0,0,2022-10-22,"Oct 22, 2022, 14:30",Ãmraniyespor,Fatih KaragÃ¼mrÃ¼k,2.48,3.64,2.86,0.2608695652173913
+11,2022-10-22,Trabzonspor,1â0,Sivasspor,Abdulkadir Bitigen,0,0,2022-10-22,"Oct 22, 2022, 17:00",Trabzonspor,Sivasspor,1.81,4.08,4.38,0.7297297297297298
+11,2022-10-23,KasÄ±mpaÅa,0â1,Kayserispor,Mustafa KÃ¼rÅad Filiz,0,0,2022-10-23,"Oct 23, 2022, 14:30",KasÄ±mpaÅa,Kayserispor,1.98,3.5,3.5,0.8571428571428571
+11,2022-10-23,Adana Demirspor,1â1,Konyaspor,HÃ¼seyin GÃ¶Ã§ek,0,0,2022-10-23,"Oct 23, 2022, 17:00",Adana Demirspor,Konyaspor,2.18,3.15,3.35,1.0
+11,2022-10-23,Galatasaray,2â2,Alanyaspor,Ali PalabÄ±yÄ±k,0,2,2022-10-23,"Oct 23, 2022, 20:00",Galatasaray,Alanyaspor,1.55,4.1,5.0,1.0
+11,2022-10-24,Giresunspor,1â1,AnkaragÃ¼cÃ¼,Suat Arslanboga,1,0,2022-10-24,"Oct 24, 2022, 20:00",Giresunspor,AnkaragÃ¼cÃ¼,2.12,3.6,3.15,0.6923076923076923
+11,2022-10-24,Hatayspor,2â1,BeÅiktaÅ,Kadir SaÄlam,0,0,2022-10-24,"Oct 24, 2022, 20:00",Hatayspor,BeÅiktaÅ,4.6,3.7,1.72,0.9215686274509804
+12,2022-10-28,Fatih KaragÃ¼mrÃ¼k,0â2,Galatasaray,Bahattin ÅimÅek,0,1,2022-10-28,"Oct 28, 2022, 20:00",Fatih KaragÃ¼mrÃ¼k,Galatasaray,3.9,3.5,1.78,0.7352941176470589
+12,2022-10-29,Konyaspor,1â1,KasÄ±mpaÅa,Atilla KaraoÄlan,0,0,2022-10-29,"Oct 29, 2022, 14:30",Konyaspor,KasÄ±mpaÅa,1.7,3.75,4.6,0.7213114754098361
+12,2022-10-30,AnkaragÃ¼cÃ¼,4â1,Hatayspor,YaÅar Kemal UÄurlu,1,0,2022-10-30,"Oct 30, 2022, 14:30",AnkaragÃ¼cÃ¼,Hatayspor,1.98,3.6,3.4,0.7058823529411765
+12,2022-10-30,BeÅiktaÅ,5â2,Ãmraniyespor,Tugay Kaan NumanoÄlu,1,0,2022-10-30,"Oct 30, 2022, 17:00",BeÅiktaÅ,Ãmraniyespor,1.35,5.1,7.0,1.03125
+12,2022-10-30,Kayserispor,2â2,Adana Demirspor,Volkan Bayarslan,0,0,2022-10-30,"Oct 30, 2022, 17:00",Kayserispor,Adana Demirspor,2.7,3.25,2.5,0.38636363636363635
+12,2022-10-30,Ä°stanbulspor,2â5,FenerbahÃ§e,Mustafa KÃ¼rÅad Filiz,1,0,2022-10-30,"Oct 30, 2022, 20:00",Ä°stanbulspor,FenerbahÃ§e,5.3,4.4,1.48,0.8571428571428571
+12,2022-10-31,Sivasspor,0â2,Antalyaspor,Mete Kalkavan,0,0,2022-10-31,"Oct 31, 2022, 20:00",Sivasspor,Antalyaspor,2.25,3.3,3.1,1.1153846153846154
+13,2022-11-04,Ãmraniyespor,3â1,Alanyaspor,Ali Åansalan,0,0,2022-11-04,"Nov 4, 2022, 20:00",Ãmraniyespor,Alanyaspor,2.95,3.5,2.15,0.6575342465753424
+13,2022-11-04,KasÄ±mpaÅa,1â1,AnkaragÃ¼cÃ¼,Umit ÃztÃ¼rk,0,0,2022-11-04,"Nov 4, 2022, 20:00",KasÄ±mpaÅa,AnkaragÃ¼cÃ¼,2.1,3.25,3.25,0.8163265306122449
+13,2022-11-05,Giresunspor,3â2,Ä°stanbulspor,Sarper BarÄ±Å Saka,0,1,2022-11-05,"Nov 5, 2022, 14:30",Giresunspor,Ä°stanbulspor,1.99,3.35,3.25,0.75
+13,2022-11-05,Galatasaray,2â1,BeÅiktaÅ,Halil Umut Meler,0,0,2022-11-05,"Nov 5, 2022, 20:00",Galatasaray,BeÅiktaÅ,2.46,3.66,2.69,1.0909090909090908
+13,2022-11-06,Antalyaspor,4â2,Fatih KaragÃ¼mrÃ¼k,Abdulkadir Bitigen,0,0,2022-11-06,"Nov 6, 2022, 17:00",Antalyaspor,Fatih KaragÃ¼mrÃ¼k,2.15,3.51,3.17,0.7297297297297298
+13,2022-11-06,Trabzonspor,2â2,Konyaspor,Zorbay KÃ¼Ã§Ã¼k,0,1,2022-11-06,"Nov 6, 2022, 20:00",Trabzonspor,Konyaspor,1.92,3.5,3.65,0.7857142857142857
+13,2022-11-07,FenerbahÃ§e,1â0,Sivasspor,HÃ¼seyin GÃ¶Ã§ek,1,1,2022-11-07,"Nov 7, 2022, 20:00",FenerbahÃ§e,Sivasspor,1.36,5.0,7.5,1.0
+14,2022-11-11,Alanyaspor,0â0,Adana Demirspor,ÃaÄdaÅ Altay,0,1,2022-11-11,"Nov 11, 2022, 20:00",Alanyaspor,Adana Demirspor,2.46,3.9,2.38,0.7222222222222222
+14,2022-11-11,AnkaragÃ¼cÃ¼,1â1,Trabzonspor,Mete Kalkavan,1,0,2022-11-11,"Nov 11, 2022, 20:00",AnkaragÃ¼cÃ¼,Trabzonspor,3.1,3.6,2.09,1.1153846153846154
+14,2022-11-12,Sivasspor,2â2,Ãmraniyespor,YaÅar Kemal UÄurlu,1,0,2022-11-12,"Nov 12, 2022, 14:30",Sivasspor,Ãmraniyespor,1.88,3.74,3.94,0.7058823529411765
+14,2022-11-12,FenerbahÃ§e,1â2,Giresunspor,Arda KardeÅler,1,1,2022-11-12,"Nov 12, 2022, 17:00",FenerbahÃ§e,Giresunspor,1.35,5.2,8.2,0.5714285714285714
+14,2022-11-13,Ä°stanbulspor,0â1,Hatayspor,Mert GÃ¼zenge,1,0,2022-11-13,"Nov 13, 2022, 17:00",Ä°stanbulspor,Hatayspor,2.45,3.25,2.75,0.2608695652173913
+14,2022-11-13,Kayserispor,1â2,Konyaspor,Kadir SaÄlam,1,0,2022-11-13,"Nov 13, 2022, 17:00",Kayserispor,Konyaspor,2.6,3.25,2.6,0.9215686274509804
+15,2022-12-23,Antalyaspor,0â2,AnkaragÃ¼cÃ¼,Ali Åansalan,0,0,2022-12-23,"Dec 23, 2022, 20:00",Antalyaspor,AnkaragÃ¼cÃ¼,1.91,3.6,3.7,0.6575342465753424
+15,2022-12-24,Hatayspor,1â1,Giresunspor,Mete Kalkavan,0,0,2022-12-24,"Dec 24, 2022, 13:30",Hatayspor,Giresunspor,2.13,3.56,3.22,1.1153846153846154
+15,2022-12-24,KasÄ±mpaÅa,1â2,Sivasspor,Sarper BarÄ±Å Saka,0,0,2022-12-24,"Dec 24, 2022, 16:00",KasÄ±mpaÅa,Sivasspor,2.21,3.46,3.12,0.75
+15,2022-12-24,Trabzonspor,2â0,FenerbahÃ§e,Halil Umut Meler,0,1,2022-12-24,"Dec 24, 2022, 19:00",Trabzonspor,FenerbahÃ§e,2.55,3.25,2.7,1.0909090909090908
+15,2022-12-25,Adana Demirspor,2â1,Fatih KaragÃ¼mrÃ¼k,Erkan Ãzdamar,0,0,2022-12-25,"Dec 25, 2022, 13:30",Adana Demirspor,Fatih KaragÃ¼mrÃ¼k,1.74,3.94,4.48,1.3928571428571428
+15,2022-12-25,Konyaspor,2â2,Alanyaspor,Bahattin ÅimÅek,3,0,2022-12-25,"Dec 25, 2022, 16:00",Konyaspor,Alanyaspor,1.81,3.8,4.22,0.7352941176470589
+15,2022-12-25,Galatasaray,2â1,Ä°stanbulspor,Abdulkadir Bitigen,0,0,2022-12-25,"Dec 25, 2022, 19:00",Galatasaray,Ä°stanbulspor,1.39,4.6,7.0,0.7297297297297298
+16,2022-12-27,AnkaragÃ¼cÃ¼,1â2,Ãmraniyespor,Mustafa KÃ¼rÅad Filiz,0,0,2022-12-27,"Dec 27, 2022, 17:00",AnkaragÃ¼cÃ¼,Ãmraniyespor,1.91,3.5,3.8,0.8571428571428571
+16,2022-12-27,FenerbahÃ§e,4â0,Hatayspor,Sarper BarÄ±Å Saka,0,0,2022-12-27,"Dec 27, 2022, 20:00",FenerbahÃ§e,Hatayspor,1.33,5.0,8.0,0.75
+16,2022-12-28,Alanyaspor,3â1,Kayserispor,Tugay Kaan NumanoÄlu,1,0,2022-12-28,"Dec 28, 2022, 17:00",Alanyaspor,Kayserispor,2.05,3.6,3.2,1.03125
+16,2022-12-28,Ä°stanbulspor,2â1,KasÄ±mpaÅa,Suat Arslanboga,0,0,2022-12-28,"Dec 28, 2022, 17:00",Ä°stanbulspor,KasÄ±mpaÅa,2.63,3.6,2.4,0.6923076923076923
+16,2022-12-28,Fatih KaragÃ¼mrÃ¼k,4â1,Trabzonspor,Umit ÃztÃ¼rk,0,2,2022-12-28,"Dec 28, 2022, 20:00",Fatih KaragÃ¼mrÃ¼k,Trabzonspor,3.3,3.5,2.0,0.8163265306122449
+16,2022-12-29,Sivasspor,1â2,Galatasaray,Erkan Ãzdamar,0,1,2022-12-29,"Dec 29, 2022, 17:00",Sivasspor,Galatasaray,4.33,3.8,1.75,1.3928571428571428
+16,2022-12-29,BeÅiktaÅ,1â0,Adana Demirspor,Ali Åansalan,0,0,2022-12-29,"Dec 29, 2022, 20:00",BeÅiktaÅ,Adana Demirspor,1.8,3.85,3.95,0.6575342465753424
+17,2023-01-03,Ãmraniyespor,2â2,Hatayspor,HÃ¼seyin GÃ¶Ã§ek,0,1,2023-01-03,"Jan 3, 2023, 17:00",Ãmraniyespor,Hatayspor,2.33,3.35,2.95,1.0
+17,2023-01-03,Antalyaspor,1â2,FenerbahÃ§e,Kadir SaÄlam,1,0,2023-01-03,"Jan 3, 2023, 20:00",Antalyaspor,FenerbahÃ§e,4.3,3.85,1.74,0.9215686274509804
+17,2023-01-04,Kayserispor,2â4,Fatih KaragÃ¼mrÃ¼k,Suat Arslanboga,1,0,2023-01-04,"Jan 4, 2023, 17:00",Kayserispor,Fatih KaragÃ¼mrÃ¼k,1.98,3.4,3.2,0.6923076923076923
+17,2023-01-04,KasÄ±mpaÅa,4â1,Alanyaspor,Yasin Kol,0,0,2023-01-04,"Jan 4, 2023, 17:00",KasÄ±mpaÅa,Alanyaspor,2.26,3.35,2.7,1.2
+17,2023-01-04,Konyaspor,2â2,Sivasspor,Umit ÃztÃ¼rk,2,0,2023-01-04,"Jan 4, 2023, 20:00",Konyaspor,Sivasspor,1.93,3.35,3.4,0.8163265306122449
+17,2023-01-04,Galatasaray,2â1,AnkaragÃ¼cÃ¼,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-01-04,"Jan 4, 2023, 20:00",Galatasaray,AnkaragÃ¼cÃ¼,1.41,4.4,5.8,0.7857142857142857
+17,2023-01-05,Trabzonspor,3â0,Giresunspor,Ali PalabÄ±yÄ±k,0,0,2023-01-05,"Jan 5, 2023, 20:00",Trabzonspor,Giresunspor,1.53,4.0,5.5,1.0
+17,2023-01-05,Adana Demirspor,6â0,Ä°stanbulspor,Mete Kalkavan,2,0,2023-01-05,"Jan 5, 2023, 20:00",Adana Demirspor,Ä°stanbulspor,1.53,4.0,5.5,1.1153846153846154
+18,2023-01-07,Hatayspor,0â0,Antalyaspor,Yasin Kol,0,0,2023-01-07,"Jan 7, 2023, 16:00",Hatayspor,Antalyaspor,2.6,3.4,2.44,1.2
+18,2023-01-07,BeÅiktaÅ,2â1,KasÄ±mpaÅa,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-01-07,"Jan 7, 2023, 19:00",BeÅiktaÅ,KasÄ±mpaÅa,1.57,4.2,4.75,0.7857142857142857
+18,2023-01-08,Fatih KaragÃ¼mrÃ¼k,3â3,Konyaspor,Kadir SaÄlam,0,0,2023-01-08,"Jan 8, 2023, 13:30",Fatih KaragÃ¼mrÃ¼k,Konyaspor,2.74,3.38,2.44,0.9215686274509804
+18,2023-01-08,AnkaragÃ¼cÃ¼,2â1,Kayserispor,Umit ÃztÃ¼rk,0,0,2023-01-08,"Jan 8, 2023, 16:00",AnkaragÃ¼cÃ¼,Kayserispor,2.69,3.45,2.45,0.8163265306122449
+18,2023-01-08,Giresunspor,0â1,Ãmraniyespor,Sarper BarÄ±Å Saka,0,0,2023-01-08,"Jan 8, 2023, 16:00",Giresunspor,Ãmraniyespor,2.1,3.48,3.27,0.75
+18,2023-01-08,FenerbahÃ§e,0â3,Galatasaray,Halil Umut Meler,0,1,2023-01-08,"Jan 8, 2023, 19:00",FenerbahÃ§e,Galatasaray,2.06,3.45,3.3,1.0909090909090908
+18,2023-01-09,Alanyaspor,5â0,Trabzonspor,Mustafa KÃ¼rÅad Filiz,0,0,2023-01-09,"Jan 9, 2023, 20:00",Alanyaspor,Trabzonspor,3.01,3.58,2.27,0.8571428571428571
+19,2023-01-13,Kayserispor,4â1,Sivasspor,Arda KardeÅler,0,0,2023-01-13,"Jan 13, 2023, 19:00",Kayserispor,Sivasspor,2.24,3.6,2.83,0.5714285714285714
+19,2023-01-13,Galatasaray,4â0,Hatayspor,Kadir SaÄlam,0,0,2023-01-13,"Jan 13, 2023, 20:00",Galatasaray,Hatayspor,1.43,4.75,5.8,0.9215686274509804
+19,2023-01-14,Antalyaspor,2â2,Giresunspor,YaÅar Kemal UÄurlu,0,1,2023-01-14,"Jan 14, 2023, 13:30",Antalyaspor,Giresunspor,1.97,3.52,3.88,0.7058823529411765
+19,2023-01-14,Konyaspor,1â2,BeÅiktaÅ,Abdulkadir Bitigen,0,0,2023-01-14,"Jan 14, 2023, 16:00",Konyaspor,BeÅiktaÅ,2.71,3.48,2.54,0.7297297297297298
+19,2023-01-14,Adana Demirspor,3â1,AnkaragÃ¼cÃ¼,Burak Åeker,0,0,2023-01-14,"Jan 14, 2023, 16:00",Adana Demirspor,AnkaragÃ¼cÃ¼,1.84,3.97,3.91,1.2857142857142856
+19,2023-01-15,Ãmraniyespor,0â2,Ä°stanbulspor,Ali PalabÄ±yÄ±k,0,0,2023-01-15,"Jan 15, 2023, 13:30",Ãmraniyespor,Ä°stanbulspor,2.14,3.26,2.81,1.0
+19,2023-01-15,KasÄ±mpaÅa,2â2,Fatih KaragÃ¼mrÃ¼k,ÃaÄdaÅ Altay,1,0,2023-01-15,"Jan 15, 2023, 16:00",KasÄ±mpaÅa,Fatih KaragÃ¼mrÃ¼k,2.12,3.33,2.79,0.7222222222222222
+20,2023-01-20,Adana Demirspor,1â1,Giresunspor,Yasin Kol,1,2,2023-01-20,"Jan 20, 2023, 20:00",Adana Demirspor,Giresunspor,1.77,3.8,4.2,1.2
+20,2023-01-21,Galatasaray,2â1,Antalyaspor,Ali Åansalan,0,1,2023-01-21,"Jan 21, 2023, 19:00",Galatasaray,Antalyaspor,1.51,4.67,6.02,0.6575342465753424
+20,2023-01-22,Kayserispor,0â2,BeÅiktaÅ,Mete Kalkavan,0,1,2023-01-22,"Jan 22, 2023, 16:00",Kayserispor,BeÅiktaÅ,3.2,3.6,2.01,1.1153846153846154
+20,2023-01-22,Alanyaspor,2â2,Fatih KaragÃ¼mrÃ¼k,Burak Pakkan,0,0,2023-01-22,"Jan 22, 2023, 16:00",Alanyaspor,Fatih KaragÃ¼mrÃ¼k,2.05,3.6,3.1,1.0
+20,2023-01-22,Trabzonspor,4â0,Ä°stanbulspor,Arda KardeÅler,0,0,2023-01-22,"Jan 22, 2023, 19:00",Trabzonspor,Ä°stanbulspor,1.38,5.19,7.75,0.5714285714285714
+20,2023-01-23,Konyaspor,0â1,AnkaragÃ¼cÃ¼,Murat ErdoÄan,0,0,2023-01-23,"Jan 23, 2023, 20:00",Konyaspor,AnkaragÃ¼cÃ¼,2.05,3.3,3.25,0.5
+20,2023-01-23,Ãmraniyespor,1â2,FenerbahÃ§e,Abdulkadir Bitigen,0,1,2023-01-23,"Jan 23, 2023, 20:00",Ãmraniyespor,FenerbahÃ§e,5.0,4.1,1.53,0.7297297297297298
+21,2023-01-27,BeÅiktaÅ,3â0,Alanyaspor,YaÅar Kemal UÄurlu,1,0,2023-01-27,"Jan 27, 2023, 20:00",BeÅiktaÅ,Alanyaspor,1.51,3.9,4.95,0.7058823529411765
+21,2023-01-28,Sivasspor,1â2,Adana Demirspor,Burak Pakkan,0,0,2023-01-28,"Jan 28, 2023, 13:30",Sivasspor,Adana Demirspor,2.77,3.45,2.34,1.0
+21,2023-01-28,Hatayspor,2â1,Trabzonspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-01-28,"Jan 28, 2023, 16:00",Hatayspor,Trabzonspor,3.5,3.4,2.0,0.7857142857142857
+21,2023-01-28,Giresunspor,0â4,Galatasaray,Bahattin ÅimÅek,0,0,2023-01-28,"Jan 28, 2023, 19:00",Giresunspor,Galatasaray,4.9,4.0,1.6,0.7352941176470589
+21,2023-01-28,Antalyaspor,3â2,Ãmraniyespor,DirenÃ§ TonusluoÄlu,0,0,2023-01-28,"Jan 28, 2023, 19:00",Antalyaspor,Ãmraniyespor,2.06,3.4,3.35,0.8148148148148148
+21,2023-01-29,Ä°stanbulspor,2â4,Kayserispor,Murat ErdoÄan,0,0,2023-01-29,"Jan 29, 2023, 13:30",Ä°stanbulspor,Kayserispor,2.9,3.5,2.3,0.5
+21,2023-01-29,FenerbahÃ§e,5â1,KasÄ±mpaÅa,Volkan Bayarslan,1,0,2023-01-29,"Jan 29, 2023, 19:00",FenerbahÃ§e,KasÄ±mpaÅa,1.35,5.1,6.9,0.38636363636363635
+22,2023-01-31,Alanyaspor,0â3,Sivasspor,YiÄit Arslan,0,0,2023-01-31,"Jan 31, 2023, 17:00",Alanyaspor,Sivasspor,2.04,3.6,3.2,1.7142857142857142
+22,2023-01-31,Fatih KaragÃ¼mrÃ¼k,1â1,BeÅiktaÅ,Ali Åansalan,0,0,2023-01-31,"Jan 31, 2023, 20:00",Fatih KaragÃ¼mrÃ¼k,BeÅiktaÅ,3.75,3.65,1.87,0.6575342465753424
+22,2023-02-01,KasÄ±mpaÅa,5â1,Giresunspor,HÃ¼seyin GÃ¶Ã§ek,1,0,2023-02-01,"Feb 1, 2023, 17:00",KasÄ±mpaÅa,Giresunspor,2.11,3.5,3.2,1.0
+22,2023-02-01,Trabzonspor,2â0,Antalyaspor,Mete Kalkavan,0,0,2023-02-01,"Feb 1, 2023, 20:00",Trabzonspor,Antalyaspor,1.24,2.62,3.69,1.1153846153846154
+22,2023-02-01,Galatasaray,3â2,Ãmraniyespor,Cihan AydÄ±n,1,1,2023-02-01,"Feb 1, 2023, 20:00",Galatasaray,Ãmraniyespor,1.1,5.57,10.7,0.6875
+22,2023-02-02,Konyaspor,0â1,Ä°stanbulspor,Umit ÃztÃ¼rk,0,0,2023-02-02,"Feb 2, 2023, 17:00",Konyaspor,Ä°stanbulspor,1.5,4.35,5.4,0.8163265306122449
+22,2023-02-02,Adana Demirspor,1â1,FenerbahÃ§e,Ali PalabÄ±yÄ±k,1,0,2023-02-02,"Feb 2, 2023, 20:00",Adana Demirspor,FenerbahÃ§e,3.3,3.65,2.05,1.0
+23,2023-02-04,AnkaragÃ¼cÃ¼,0â2,Fatih KaragÃ¼mrÃ¼k,Arda KardeÅler,1,0,2023-02-04,"Feb 4, 2023, 13:30",AnkaragÃ¼cÃ¼,Fatih KaragÃ¼mrÃ¼k,2.11,3.55,3.15,0.5714285714285714
+23,2023-02-04,Sivasspor,1â0,BeÅiktaÅ,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-02-04,"Feb 4, 2023, 16:00",Sivasspor,BeÅiktaÅ,3.2,3.55,2.09,0.7857142857142857
+23,2023-02-05,Ä°stanbulspor,2â1,Alanyaspor,Abdulkadir Bitigen,0,0,2023-02-05,"Feb 5, 2023, 13:30",Ä°stanbulspor,Alanyaspor,3.05,3.45,2.24,0.7297297297297298
+23,2023-02-05,Hatayspor,1â0,KasÄ±mpaÅa,Murat ErdoÄan,0,0,2023-02-05,"Feb 5, 2023, 16:00",Hatayspor,KasÄ±mpaÅa,2.34,3.7,2.61,0.5
+23,2023-02-05,Galatasaray,2â1,Trabzonspor,Halil Umut Meler,1,0,2023-02-05,"Feb 5, 2023, 19:00",Galatasaray,Trabzonspor,3.03,2.62,2.52,1.0909090909090908
+23,2023-02-25,Giresunspor,1â2,Kayserispor,Ali Åansalan,0,0,2023-02-25,"Feb 25, 2023, 19:00",Giresunspor,Kayserispor,2.3,3.25,2.8,0.6575342465753424
+23,2023-02-25,FenerbahÃ§e,4â0,Konyaspor,Halil Umut Meler,1,1,2023-02-25,"Feb 25, 2023, 19:00",FenerbahÃ§e,Konyaspor,1.45,4.2,6.0,1.0909090909090908
+23,2023-02-26,Ãmraniyespor,1â1,Adana Demirspor,Atilla KaraoÄlan,0,0,2023-02-26,"Feb 26, 2023, 16:00",Ãmraniyespor,Adana Demirspor,3.0,3.8,2.1,0.7213114754098361
+14,2023-02-26,BeÅiktaÅ,0â0,Antalyaspor,Abdulkadir Bitigen,0,0,2023-02-26,"Feb 26, 2023, 19:00",BeÅiktaÅ,Antalyaspor,1.67,3.8,5.0,0.7297297297297298
+24,2023-03-04,Fatih KaragÃ¼mrÃ¼k,4â3,Sivasspor,Umit ÃztÃ¼rk,0,0,2023-03-04,"Mar 4, 2023, 13:30",Fatih KaragÃ¼mrÃ¼k,Sivasspor,2.1,3.25,3.0,0.8163265306122449
+24,2023-03-04,Trabzonspor,1â2,Ãmraniyespor,Kadir SaÄlam,0,1,2023-03-04,"Mar 4, 2023, 16:00",Trabzonspor,Ãmraniyespor,1.4,5.0,7.5,0.9215686274509804
+24,2023-03-04,Kayserispor,1â2,FenerbahÃ§e,Atilla KaraoÄlan,0,0,2023-03-04,"Mar 4, 2023, 19:00",Kayserispor,FenerbahÃ§e,3.65,3.6,1.95,0.7213114754098361
+24,2023-03-05,Konyaspor,0â0,Giresunspor,Erkan Ãzdamar,0,0,2023-03-05,"Mar 5, 2023, 16:00",Konyaspor,Giresunspor,1.81,3.72,4.12,1.3928571428571428
+24,2023-03-05,BeÅiktaÅ,2â1,AnkaragÃ¼cÃ¼,Volkan Bayarslan,0,0,2023-03-05,"Mar 5, 2023, 19:00",BeÅiktaÅ,AnkaragÃ¼cÃ¼,1.62,4.22,4.77,0.38636363636363635
+24,2023-03-06,KasÄ±mpaÅa,3â1,Antalyaspor,Cihan AydÄ±n,1,0,2023-03-06,"Mar 6, 2023, 20:00",KasÄ±mpaÅa,Antalyaspor,2.35,3.6,2.64,0.6875
+25,2023-03-10,Giresunspor,2â2,Fatih KaragÃ¼mrÃ¼k,Kadir SaÄlam,2,0,2023-03-10,"Mar 10, 2023, 20:00",Giresunspor,Fatih KaragÃ¼mrÃ¼k,2.57,3.65,2.4,0.9215686274509804
+25,2023-03-11,Antalyaspor,4â0,Kayserispor,Volkan Bayarslan,0,0,2023-03-11,"Mar 11, 2023, 16:00",Antalyaspor,Kayserispor,2.2,3.45,3.25,0.38636363636363635
+25,2023-03-11,Galatasaray,1â0,KasÄ±mpaÅa,Atilla KaraoÄlan,0,0,2023-03-11,"Mar 11, 2023, 19:00",Galatasaray,KasÄ±mpaÅa,1.3,5.75,8.5,0.7213114754098361
+25,2023-03-12,AnkaragÃ¼cÃ¼,2â0,Alanyaspor,Ali Åansalan,0,0,2023-03-12,"Mar 12, 2023, 13:30",AnkaragÃ¼cÃ¼,Alanyaspor,2.42,3.65,2.56,0.6575342465753424
+25,2023-03-12,Trabzonspor,4â1,Adana Demirspor,Abdulkadir Bitigen,0,1,2023-03-12,"Mar 12, 2023, 16:00",Trabzonspor,Adana Demirspor,2.21,3.5,2.91,0.7297297297297298
+25,2023-03-13,Ä°stanbulspor,3â0,Sivasspor,Halil Umut Meler,1,1,2023-03-13,"Mar 13, 2023, 20:00",Ä°stanbulspor,Sivasspor,3.25,3.65,2.08,1.0909090909090908
+26,2023-03-17,Konyaspor,2â1,Galatasaray,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-03-17,"Mar 17, 2023, 20:00",Konyaspor,Galatasaray,3.64,3.59,1.75,0.7857142857142857
+26,2023-03-18,KasÄ±mpaÅa,1â1,Ãmraniyespor,Mustafa KÃ¼rÅad Filiz,1,0,2023-03-18,"Mar 18, 2023, 13:30",KasÄ±mpaÅa,Ãmraniyespor,1.77,3.95,4.2,0.8571428571428571
+26,2023-03-18,Adana Demirspor,2â0,Antalyaspor,Bahattin ÅimÅek,0,0,2023-03-18,"Mar 18, 2023, 16:00",Adana Demirspor,Antalyaspor,1.8,3.85,4.2,0.7352941176470589
+26,2023-03-18,BeÅiktaÅ,3â1,Ä°stanbulspor,Ali Åansalan,0,0,2023-03-18,"Mar 18, 2023, 19:00",BeÅiktaÅ,Ä°stanbulspor,1.27,6.0,10.0,0.6575342465753424
+26,2023-03-19,Sivasspor,2â0,AnkaragÃ¼cÃ¼,Suat Arslanboga,1,0,2023-03-19,"Mar 19, 2023, 16:00",Sivasspor,AnkaragÃ¼cÃ¼,2.32,3.55,2.85,0.6923076923076923
+26,2023-03-19,Alanyaspor,1â3,FenerbahÃ§e,Mete Kalkavan,2,0,2023-03-19,"Mar 19, 2023, 19:00",Alanyaspor,FenerbahÃ§e,4.1,4.0,1.75,1.1153846153846154
+27,2023-04-01,Trabzonspor,3â4,Kayserispor,Erkan Ãzdamar,2,0,2023-04-01,"Apr 1, 2023, 16:00",Trabzonspor,Kayserispor,1.45,4.33,6.0,1.3928571428571428
+27,2023-04-01,Galatasaray,2â0,Adana Demirspor,Ali Åansalan,1,0,2023-04-01,"Apr 1, 2023, 20:30",Galatasaray,Adana Demirspor,1.44,4.5,6.0,0.6575342465753424
+27,2023-04-02,Ãmraniyespor,2â2,Konyaspor,Arda KardeÅler,0,0,2023-04-02,"Apr 2, 2023, 13:30",Ãmraniyespor,Konyaspor,2.9,3.5,2.28,0.5714285714285714
+27,2023-04-02,Giresunspor,2â2,Alanyaspor,Turgut Doman,1,0,2023-04-02,"Apr 2, 2023, 16:00",Giresunspor,Alanyaspor,2.45,3.55,2.65,0.47619047619047616
+27,2023-04-02,FenerbahÃ§e,2â4,BeÅiktaÅ,Halil Umut Meler,1,1,2023-04-02,"Apr 2, 2023, 20:30",FenerbahÃ§e,BeÅiktaÅ,1.89,3.7,3.65,1.0909090909090908
+27,2023-04-03,Ä°stanbulspor,0â1,Fatih KaragÃ¼mrÃ¼k,Atilla KaraoÄlan,0,1,2023-04-03,"Apr 3, 2023, 20:30",Ä°stanbulspor,Fatih KaragÃ¼mrÃ¼k,3.05,3.6,2.14,0.7213114754098361
+28,2023-04-07,Konyaspor,1â1,Antalyaspor,DirenÃ§ TonusluoÄlu,0,0,2023-04-07,"Apr 7, 2023, 20:30",Konyaspor,Antalyaspor,2.04,3.5,3.3,0.8148148148148148
+28,2023-04-08,AnkaragÃ¼cÃ¼,3â2,Ä°stanbulspor,Mustafa KÃ¼rÅad Filiz,0,0,2023-04-08,"Apr 8, 2023, 16:00",AnkaragÃ¼cÃ¼,Ä°stanbulspor,2.1,3.4,3.3,0.8571428571428571
+28,2023-04-08,KasÄ±mpaÅa,2â0,Trabzonspor,Burak Åeker,0,1,2023-04-08,"Apr 8, 2023, 20:30",KasÄ±mpaÅa,Trabzonspor,3.15,3.6,2.15,1.2857142857142856
+28,2023-04-09,BeÅiktaÅ,3â1,Giresunspor,Atilla KaraoÄlan,1,0,2023-04-09,"Apr 9, 2023, 20:30",BeÅiktaÅ,Giresunspor,1.48,4.75,5.55,0.7213114754098361
+28,2023-04-10,Kayserispor,3â1,Ãmraniyespor,Zorbay KÃ¼Ã§Ã¼k,1,1,2023-04-10,"Apr 10, 2023, 16:00",Kayserispor,Ãmraniyespor,1.88,3.7,3.7,0.7857142857142857
+28,2023-04-10,Fatih KaragÃ¼mrÃ¼k,1â2,FenerbahÃ§e,Abdulkadir Bitigen,0,0,2023-04-10,"Apr 10, 2023, 20:30",Fatih KaragÃ¼mrÃ¼k,FenerbahÃ§e,4.6,4.1,1.63,0.7297297297297298
+29,2023-04-14,Galatasaray,6â0,Kayserispor,Mustafa KÃ¼rÅad Filiz,1,1,2023-04-14,"Apr 14, 2023, 20:30",Galatasaray,Kayserispor,1.28,6.21,9.07,0.8571428571428571
+29,2023-04-14,Antalyaspor,3â1,Alanyaspor,Tugay Kaan NumanoÄlu,0,1,2023-04-14,"Apr 14, 2023, 20:30",Antalyaspor,Alanyaspor,2.04,3.65,3.67,1.03125
+29,2023-04-15,Adana Demirspor,5â0,KasÄ±mpaÅa,Umit ÃztÃ¼rk,1,0,2023-04-15,"Apr 15, 2023, 16:00",Adana Demirspor,KasÄ±mpaÅa,1.72,4.05,4.22,0.8163265306122449
+29,2023-04-15,FenerbahÃ§e,2â1,AnkaragÃ¼cÃ¼,Atilla KaraoÄlan,1,0,2023-04-15,"Apr 15, 2023, 20:30",FenerbahÃ§e,AnkaragÃ¼cÃ¼,1.34,5.2,7.91,0.7213114754098361
+29,2023-04-16,Giresunspor,1â0,Sivasspor,YaÅar Kemal UÄurlu,0,0,2023-04-16,"Apr 16, 2023, 16:00",Giresunspor,Sivasspor,2.5,3.25,2.7,0.7058823529411765
+29,2023-04-16,Trabzonspor,0â0,BeÅiktaÅ,Volkan Bayarslan,0,0,2023-04-16,"Apr 16, 2023, 20:30",Trabzonspor,BeÅiktaÅ,2.26,3.4,2.96,0.38636363636363635
+30,2023-04-18,Fatih KaragÃ¼mrÃ¼k,4â2,Ãmraniyespor,Ali Åansalan,3,0,2023-04-18,"Apr 18, 2023, 20:30",Fatih KaragÃ¼mrÃ¼k,Ãmraniyespor,1.8,3.6,3.6,0.6575342465753424
+30,2023-04-18,Alanyaspor,1â4,Galatasaray,Abdulkadir Bitigen,1,0,2023-04-18,"Apr 18, 2023, 20:30",Alanyaspor,Galatasaray,5.2,4.2,1.5,0.7297297297297298
+30,2023-04-19,Kayserispor,0â0,KasÄ±mpaÅa,HÃ¼seyin GÃ¶Ã§ek,0,1,2023-04-19,"Apr 19, 2023, 17:00",Kayserispor,KasÄ±mpaÅa,2.29,3.4,2.78,1.0
+30,2023-04-19,Ä°stanbulspor,3â3,Antalyaspor,YiÄit Arslan,1,0,2023-04-19,"Apr 19, 2023, 17:00",Ä°stanbulspor,Antalyaspor,2.71,3.35,2.32,1.7142857142857142
+30,2023-04-19,Konyaspor,1â2,Adana Demirspor,Sarper BarÄ±Å Saka,1,1,2023-04-19,"Apr 19, 2023, 20:30",Konyaspor,Adana Demirspor,2.45,3.35,2.79,0.75
+30,2023-04-20,AnkaragÃ¼cÃ¼,3â1,Giresunspor,Halil Umut Meler,0,0,2023-04-20,"Apr 20, 2023, 17:00",AnkaragÃ¼cÃ¼,Giresunspor,1.9,3.65,3.78,1.0909090909090908
+30,2023-04-20,Sivasspor,4â1,Trabzonspor,Bahattin ÅimÅek,1,1,2023-04-20,"Apr 20, 2023, 20:30",Sivasspor,Trabzonspor,2.56,3.55,2.44,0.7352941176470589
+31,2023-04-22,Ãmraniyespor,0â2,BeÅiktaÅ,Cihan AydÄ±n,0,0,2023-04-22,"Apr 22, 2023, 19:00",Ãmraniyespor,BeÅiktaÅ,3.7,3.5,1.8,0.6875
+31,2023-04-23,KasÄ±mpaÅa,1â2,Konyaspor,Yasin Kol,0,0,2023-04-23,"Apr 23, 2023, 13:30",KasÄ±mpaÅa,Konyaspor,2.55,3.45,2.45,1.2
+31,2023-04-23,Adana Demirspor,5â3,Kayserispor,DirenÃ§ TonusluoÄlu,1,1,2023-04-23,"Apr 23, 2023, 16:00",Adana Demirspor,Kayserispor,1.83,3.5,3.9,0.8148148148148148
+31,2023-04-23,Galatasaray,3â3,Fatih KaragÃ¼mrÃ¼k,Volkan Bayarslan,1,0,2023-04-23,"Apr 23, 2023, 19:00",Galatasaray,Fatih KaragÃ¼mrÃ¼k,1.44,4.09,5.24,0.38636363636363635
+31,2023-04-24,FenerbahÃ§e,3â3,Ä°stanbulspor,Kadir SaÄlam,1,0,2023-04-24,"Apr 24, 2023, 20:00",FenerbahÃ§e,Ä°stanbulspor,1.22,6.2,10.0,0.9215686274509804
+31,2023-04-24,Antalyaspor,1â2,Sivasspor,Abdulkadir Bitigen,1,0,2023-04-24,"Apr 24, 2023, 20:00",Antalyaspor,Sivasspor,2.18,3.4,3.0,0.7297297297297298
+32,2023-04-28,Alanyaspor,1â0,Ãmraniyespor,YaÅar Kemal UÄurlu,0,0,2023-04-28,"Apr 28, 2023, 20:00",Alanyaspor,Ãmraniyespor,2.05,3.92,3.52,0.7058823529411765
+32,2023-04-29,Fatih KaragÃ¼mrÃ¼k,0â1,Antalyaspor,Halil Umut Meler,0,0,2023-04-29,"Apr 29, 2023, 16:00",Fatih KaragÃ¼mrÃ¼k,Antalyaspor,2.0,3.5,3.25,1.0909090909090908
+32,2023-04-29,Konyaspor,2â1,Trabzonspor,Cihan AydÄ±n,0,1,2023-04-29,"Apr 29, 2023, 16:00",Konyaspor,Trabzonspor,2.6,3.3,2.45,0.6875
+32,2023-04-29,AnkaragÃ¼cÃ¼,0â0,KasÄ±mpaÅa,Bahattin ÅimÅek,0,0,2023-04-29,"Apr 29, 2023, 19:00",AnkaragÃ¼cÃ¼,KasÄ±mpaÅa,2.25,3.2,2.8,0.7352941176470589
+32,2023-04-29,Sivasspor,1â3,FenerbahÃ§e,Zorbay KÃ¼Ã§Ã¼k,0,1,2023-04-29,"Apr 29, 2023, 19:00",Sivasspor,FenerbahÃ§e,4.2,3.5,1.7,0.7857142857142857
+32,2023-04-30,BeÅiktaÅ,3â1,Galatasaray,Ali Åansalan,0,0,2023-04-30,"Apr 30, 2023, 19:00",BeÅiktaÅ,Galatasaray,2.75,3.4,2.42,0.6575342465753424
+32,2023-05-01,Ä°stanbulspor,1â0,Giresunspor,Mete Kalkavan,0,1,2023-05-01,"May 1, 2023, 20:00",Ä°stanbulspor,Giresunspor,2.5,3.3,2.7,1.1153846153846154
+33,2023-05-06,Antalyaspor,1â3,BeÅiktaÅ,Mete Kalkavan,0,1,2023-05-06,"May 6, 2023, 19:00",Antalyaspor,BeÅiktaÅ,3.3,3.65,2.0,1.1153846153846154
+33,2023-05-06,Adana Demirspor,4â2,Alanyaspor,HÃ¼seyin GÃ¶Ã§ek,1,0,2023-05-06,"May 6, 2023, 21:00",Adana Demirspor,Alanyaspor,1.5,4.75,4.95,1.0
+33,2023-05-07,Ãmraniyespor,4â1,Sivasspor,Burak Åeker,1,1,2023-05-07,"May 7, 2023, 13:30",Ãmraniyespor,Sivasspor,2.87,3.5,2.25,1.2857142857142856
+33,2023-05-07,Konyaspor,2â2,Kayserispor,Tugay Kaan NumanoÄlu,0,0,2023-05-07,"May 7, 2023, 16:00",Konyaspor,Kayserispor,1.64,4.1,4.4,1.03125
+33,2023-05-07,Giresunspor,1â1,FenerbahÃ§e,Bahattin ÅimÅek,1,0,2023-05-07,"May 7, 2023, 19:00",Giresunspor,FenerbahÃ§e,6.25,4.5,1.44,0.7352941176470589
+33,2023-05-08,Trabzonspor,2â0,AnkaragÃ¼cÃ¼,Erkan Ãzdamar,0,1,2023-05-08,"May 8, 2023, 20:00",Trabzonspor,AnkaragÃ¼cÃ¼,1.95,3.7,3.4,1.3928571428571428
+34,2023-05-16,Sivasspor,1â2,KasÄ±mpaÅa,Ali Åansalan,0,1,2023-05-16,"May 16, 2023, 17:00",Sivasspor,KasÄ±mpaÅa,2.05,3.5,3.3,0.6575342465753424
+34,2023-05-16,Ä°stanbulspor,0â2,Galatasaray,Tugay Kaan NumanoÄlu,1,1,2023-05-16,"May 16, 2023, 20:00",Ä°stanbulspor,Galatasaray,7.5,4.75,1.33,1.03125
+34,2023-05-16,Alanyaspor,0â3,Konyaspor,ÃaÄdaÅ Altay,0,0,2023-05-16,"May 16, 2023, 20:00",Alanyaspor,Konyaspor,2.35,3.25,2.6,0.7222222222222222
+34,2023-05-17,AnkaragÃ¼cÃ¼,1â1,Antalyaspor,Umit ÃztÃ¼rk,0,0,2023-05-17,"May 17, 2023, 20:00",AnkaragÃ¼cÃ¼,Antalyaspor,2.31,3.5,2.85,0.8163265306122449
+34,2023-05-17,Fatih KaragÃ¼mrÃ¼k,2â3,Adana Demirspor,Kadir SaÄlam,0,0,2023-05-17,"May 17, 2023, 20:00",Fatih KaragÃ¼mrÃ¼k,Adana Demirspor,2.95,3.85,2.14,0.9215686274509804
+34,2023-05-18,FenerbahÃ§e,3â1,Trabzonspor,Abdulkadir Bitigen,1,0,2023-05-18,"May 18, 2023, 20:00",FenerbahÃ§e,Trabzonspor,1.84,3.65,3.8,0.7297297297297298
+35,2023-05-20,KasÄ±mpaÅa,1â0,Ä°stanbulspor,YaÅar Kemal UÄurlu,0,0,2023-05-20,"May 20, 2023, 16:00",KasÄ±mpaÅa,Ä°stanbulspor,1.8,3.75,3.85,0.7058823529411765
+35,2023-05-20,Kayserispor,0â4,Alanyaspor,Yasin Kol,0,0,2023-05-20,"May 20, 2023, 19:00",Kayserispor,Alanyaspor,2.1,3.5,3.2,1.2
+35,2023-05-20,Galatasaray,2â0,Sivasspor,Arda KardeÅler,0,0,2023-05-20,"May 20, 2023, 19:00",Galatasaray,Sivasspor,1.33,5.0,7.5,0.5714285714285714
+35,2023-05-21,Ãmraniyespor,1â2,AnkaragÃ¼cÃ¼,Mete Kalkavan,1,0,2023-05-21,"May 21, 2023, 16:00",Ãmraniyespor,AnkaragÃ¼cÃ¼,2.65,3.52,2.56,1.1153846153846154
+35,2023-05-21,Adana Demirspor,1â4,BeÅiktaÅ,Mustafa KÃ¼rÅad Filiz,2,0,2023-05-21,"May 21, 2023, 19:00",Adana Demirspor,BeÅiktaÅ,2.38,3.5,2.65,0.8571428571428571
+35,2023-05-22,Trabzonspor,4â1,Fatih KaragÃ¼mrÃ¼k,Turgut Doman,0,0,2023-05-22,"May 22, 2023, 20:00",Trabzonspor,Fatih KaragÃ¼mrÃ¼k,2.07,3.42,2.83,0.47619047619047616
+36,2023-05-30,Fatih KaragÃ¼mrÃ¼k,2â0,Kayserispor,Murat ErdoÄan,0,1,2023-05-30,"May 30, 2023, 20:00",Fatih KaragÃ¼mrÃ¼k,Kayserispor,2.05,3.8,2.9,0.5
+36,2023-05-30,Ä°stanbulspor,0â2,Adana Demirspor,Umit ÃztÃ¼rk,0,0,2023-05-30,"May 30, 2023, 20:00",Ä°stanbulspor,Adana Demirspor,2.2,3.9,2.6,0.8163265306122449
+36,2023-05-30,FenerbahÃ§e,2â0,Antalyaspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-05-30,"May 30, 2023, 20:00",FenerbahÃ§e,Antalyaspor,1.33,4.8,7.5,0.7857142857142857
+36,2023-05-30,Sivasspor,1â0,Konyaspor,Bahattin ÅimÅek,0,0,2023-05-30,"May 30, 2023, 20:00",Sivasspor,Konyaspor,2.05,3.4,3.2,0.7352941176470589
+36,2023-05-30,Giresunspor,2â4,Trabzonspor,Arda KardeÅler,1,0,2023-05-30,"May 30, 2023, 20:00",Giresunspor,Trabzonspor,2.5,3.5,2.4,0.5714285714285714
+36,2023-05-30,Alanyaspor,1â3,KasÄ±mpaÅa,Cihan AydÄ±n,0,0,2023-05-30,"May 30, 2023, 20:00",Alanyaspor,KasÄ±mpaÅa,2.1,3.7,2.88,0.6875
+36,2023-05-30,AnkaragÃ¼cÃ¼,1â4,Galatasaray,Volkan Bayarslan,0,0,2023-05-30,"May 30, 2023, 20:00",AnkaragÃ¼cÃ¼,Galatasaray,5.5,4.5,1.44,0.38636363636363635
+37,2023-06-03,Konyaspor,1â1,Fatih KaragÃ¼mrÃ¼k,Yasin Kol,0,0,2023-06-03,"Jun 3, 2023, 16:00",Konyaspor,Fatih KaragÃ¼mrÃ¼k,2.0,3.7,3.3,1.2
+37,2023-06-03,Ãmraniyespor,0â1,Giresunspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-06-03,"Jun 3, 2023, 19:00",Ãmraniyespor,Giresunspor,2.7,3.8,2.15,0.7857142857142857
+37,2023-06-03,KasÄ±mpaÅa,2â5,BeÅiktaÅ,Volkan Bayarslan,1,0,2023-06-03,"Jun 3, 2023, 19:00",KasÄ±mpaÅa,BeÅiktaÅ,4.2,4.1,1.62,0.38636363636363635
+37,2023-06-03,Trabzonspor,5â1,Alanyaspor,YaÅar Kemal UÄurlu,1,1,2023-06-03,"Jun 3, 2023, 19:00",Trabzonspor,Alanyaspor,1.36,4.75,6.5,0.7058823529411765
+37,2023-06-03,Kayserispor,0â1,AnkaragÃ¼cÃ¼,Cihan AydÄ±n,0,0,2023-06-03,"Jun 3, 2023, 19:00",Kayserispor,AnkaragÃ¼cÃ¼,2.2,3.6,2.8,0.6875
+37,2023-06-04,Galatasaray,3â0,FenerbahÃ§e,Abdulkadir Bitigen,0,1,2023-06-04,"Jun 4, 2023, 19:00",Galatasaray,FenerbahÃ§e,2.05,3.9,3.1,0.7297297297297298
+38,2023-06-06,Fatih KaragÃ¼mrÃ¼k,3â0,KasÄ±mpaÅa,Burak Åeker,0,0,2023-06-06,"Jun 6, 2023, 17:00",Fatih KaragÃ¼mrÃ¼k,KasÄ±mpaÅa,2.0,3.5,3.0,1.2857142857142856
+38,2023-06-06,Sivasspor,1â1,Kayserispor,Burak Pakkan,0,0,2023-06-06,"Jun 6, 2023, 17:00",Sivasspor,Kayserispor,1.61,3.7,4.6,1.0
+38,2023-06-07,AnkaragÃ¼cÃ¼,1â2,Adana Demirspor,ÃaÄdaÅ Altay,0,0,2023-06-07,"Jun 7, 2023, 20:00",AnkaragÃ¼cÃ¼,Adana Demirspor,2.3,3.5,2.5,0.7222222222222222
+38,2023-06-07,BeÅiktaÅ,3â3,Konyaspor,Umit ÃztÃ¼rk,0,1,2023-06-07,"Jun 7, 2023, 20:00",BeÅiktaÅ,Konyaspor,1.4,4.25,6.5,0.8163265306122449
+38,2023-06-07,Giresunspor,2â0,Antalyaspor,Kadir SaÄlam,1,1,2023-06-07,"Jun 7, 2023, 20:00",Giresunspor,Antalyaspor,2.0,3.4,3.1,0.9215686274509804
+38,2023-06-07,Ä°stanbulspor,4â0,Ãmraniyespor,Cihan AydÄ±n,0,0,2023-06-07,"Jun 7, 2023, 20:00",Ä°stanbulspor,Ãmraniyespor,1.91,3.5,3.2,0.6875
+1,2023-08-11,Trabzonspor,1â0,Antalyaspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-08-11,"Aug 11, 2023, 21:00",Trabzonspor,Antalyaspor,1.65,3.9,4.6,0.7857142857142857
+1,2023-08-12,KasÄ±mpaÅa,3â2,AnkaragÃ¼cÃ¼,Bahattin ÅimÅek,0,0,2023-08-12,"Aug 12, 2023, 19:15",KasÄ±mpaÅa,AnkaragÃ¼cÃ¼,2.28,3.5,2.81,0.7352941176470589
+1,2023-08-12,Konyaspor,1â1,Ä°stanbulspor,Burak Pakkan,0,3,2023-08-12,"Aug 12, 2023, 19:15",Konyaspor,Ä°stanbulspor,1.84,3.6,3.85,1.0
+1,2023-08-12,Kayserispor,0â0,Galatasaray,Halil Umut Meler,0,0,2023-08-12,"Aug 12, 2023, 21:45",Kayserispor,Galatasaray,4.55,4.1,1.68,1.0909090909090908
+1,2023-08-12,Pendikspor,1â5,Hatayspor,ÃaÄdaÅ Altay,0,0,2023-08-12,"Aug 12, 2023, 21:45",Pendikspor,Hatayspor,2.45,3.65,2.6,0.7222222222222222
+1,2023-08-13,Sivasspor,1â1,Samsunspor,Murat ErdoÄan,0,0,2023-08-13,"Aug 13, 2023, 19:15",Sivasspor,Samsunspor,1.98,3.55,3.45,0.5
+1,2023-08-13,Adana Demirspor,2â1,Rizespor,Umit ÃztÃ¼rk,0,0,2023-08-13,"Aug 13, 2023, 21:45",Adana Demirspor,Rizespor,1.62,4.1,4.8,0.8163265306122449
+1,2023-08-14,Fatih KaragÃ¼mrÃ¼k,0â1,BeÅiktaÅ,Erkan Ãzdamar,0,0,2023-08-14,"Aug 14, 2023, 21:00",Fatih KaragÃ¼mrÃ¼k,BeÅiktaÅ,3.65,3.65,1.74,1.3928571428571428
+2,2023-08-18,Ä°stanbulspor,1â1,Kayserispor,Sarper BarÄ±Å Saka,0,0,2023-08-18,"Aug 18, 2023, 21:00",Ä°stanbulspor,Kayserispor,2.75,2.45,2.98,0.75
+2,2023-08-18,Antalyaspor,1â1,Konyaspor,Ali Åansalan,1,0,2023-08-18,"Aug 18, 2023, 21:00",Antalyaspor,Konyaspor,2.55,3.81,2.21,0.6575342465753424
+2,2023-08-19,Rizespor,0â0,Alanyaspor,YiÄit Arslan,0,1,2023-08-19,"Aug 19, 2023, 19:15",Rizespor,Alanyaspor,2.4,3.55,2.8,1.7142857142857142
+2,2023-08-19,Galatasaray,2â0,Trabzonspor,Atilla KaraoÄlan,0,0,2023-08-19,"Aug 19, 2023, 21:45",Galatasaray,Trabzonspor,1.59,4.45,4.45,0.7213114754098361
+2,2023-08-19,Hatayspor,0â0,KasÄ±mpaÅa,Mert GÃ¼zenge,0,0,2023-08-19,"Aug 19, 2023, 21:45",Hatayspor,KasÄ±mpaÅa,2.31,3.75,2.63,0.2608695652173913
+2,2023-08-20,BeÅiktaÅ,1â1,Pendikspor,Kadir SaÄlam,1,0,2023-08-20,"Aug 20, 2023, 21:45",BeÅiktaÅ,Pendikspor,1.28,5.8,8.0,0.9215686274509804
+2,2023-08-21,Samsunspor,0â2,FenerbahÃ§e,Volkan Bayarslan,0,0,2023-08-21,"Aug 21, 2023, 21:00",Samsunspor,FenerbahÃ§e,4.6,3.9,1.6,0.38636363636363635
+2,2023-08-21,AnkaragÃ¼cÃ¼,1â1,Adana Demirspor,Cihan AydÄ±n,1,0,2023-08-21,"Aug 21, 2023, 21:00",AnkaragÃ¼cÃ¼,Adana Demirspor,2.99,3.4,2.12,0.6875
+3,2023-08-26,KasÄ±mpaÅa,1â1,Pendikspor,YaÅar Kemal UÄurlu,1,0,2023-08-26,"Aug 26, 2023, 19:15",KasÄ±mpaÅa,Pendikspor,1.77,3.9,4.2,0.7058823529411765
+3,2023-08-26,Trabzonspor,2â3,Rizespor,Halil Umut Meler,1,0,2023-08-26,"Aug 26, 2023, 19:15",Trabzonspor,Rizespor,1.5,4.5,6.0,1.0909090909090908
+3,2023-08-26,Sivasspor,1â1,Antalyaspor,Umit ÃztÃ¼rk,0,0,2023-08-26,"Aug 26, 2023, 21:45",Sivasspor,Antalyaspor,2.15,3.4,3.2,0.8163265306122449
+3,2023-08-27,Fatih KaragÃ¼mrÃ¼k,1â1,AnkaragÃ¼cÃ¼,Turgut Doman,0,0,2023-08-27,"Aug 27, 2023, 19:15",Fatih KaragÃ¼mrÃ¼k,AnkaragÃ¼cÃ¼,2.33,3.82,2.99,0.47619047619047616
+3,2023-08-27,Kayserispor,2â1,Samsunspor,Bahattin ÅimÅek,0,0,2023-08-27,"Aug 27, 2023, 19:15",Kayserispor,Samsunspor,2.22,3.79,3.22,0.7352941176470589
+3,2023-08-27,Alanyaspor,0â0,Hatayspor,DirenÃ§ TonusluoÄlu,0,0,2023-08-27,"Aug 27, 2023, 21:45",Alanyaspor,Hatayspor,1.85,3.6,3.5,0.8148148148148148
+4,2023-09-01,KasÄ±mpaÅa,1â5,Trabzonspor,Erkan Ãzdamar,0,0,2023-09-01,"Sep 1, 2023, 21:00",KasÄ±mpaÅa,Trabzonspor,2.75,3.63,2.38,1.3928571428571428
+4,2023-09-01,Rizespor,1â0,Fatih KaragÃ¼mrÃ¼k,Murat ErdoÄan,0,0,2023-09-01,"Sep 1, 2023, 21:00",Rizespor,Fatih KaragÃ¼mrÃ¼k,2.48,3.58,2.65,0.5
+4,2023-09-02,Pendikspor,1â1,Alanyaspor,Abdulkadir Bitigen,0,0,2023-09-02,"Sep 2, 2023, 19:15",Pendikspor,Alanyaspor,2.25,3.4,2.8,0.7297297297297298
+4,2023-09-02,Antalyaspor,1â1,Kayserispor,Yasin Kol,0,0,2023-09-02,"Sep 2, 2023, 21:45",Antalyaspor,Kayserispor,2.2,3.4,3.0,1.2
+4,2023-09-03,BeÅiktaÅ,2â0,Sivasspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-09-03,"Sep 3, 2023, 19:15",BeÅiktaÅ,Sivasspor,1.44,4.4,6.25,0.7857142857142857
+4,2023-09-03,Hatayspor,3â3,Adana Demirspor,Sarper BarÄ±Å Saka,1,0,2023-09-03,"Sep 3, 2023, 21:45",Hatayspor,Adana Demirspor,3.1,3.85,2.1,0.75
+4,2023-09-03,AnkaragÃ¼cÃ¼,0â1,FenerbahÃ§e,Arda KardeÅler,0,1,2023-09-03,"Sep 3, 2023, 21:45",AnkaragÃ¼cÃ¼,FenerbahÃ§e,4.4,4.1,1.7,0.5714285714285714
+5,2023-09-16,Konyaspor,1â2,Rizespor,Bahattin ÅimÅek,1,0,2023-09-16,"Sep 16, 2023, 17:00",Konyaspor,Rizespor,2.03,3.6,3.2,0.7352941176470589
+5,2023-09-16,Galatasaray,4â2,Samsunspor,Cihan AydÄ±n,0,0,2023-09-16,"Sep 16, 2023, 20:00",Galatasaray,Samsunspor,1.35,5.25,7.75,0.6875
+5,2023-09-16,Adana Demirspor,3â0,Pendikspor,Mert GÃ¼zenge,0,0,2023-09-16,"Sep 16, 2023, 20:00",Adana Demirspor,Pendikspor,1.53,4.5,5.75,0.2608695652173913
+5,2023-09-17,FenerbahÃ§e,3â2,Antalyaspor,Halil Umut Meler,0,0,2023-09-17,"Sep 17, 2023, 17:00",FenerbahÃ§e,Antalyaspor,1.32,4.9,7.0,1.0909090909090908
+5,2023-09-17,Trabzonspor,3â0,BeÅiktaÅ,Volkan Bayarslan,0,0,2023-09-17,"Sep 17, 2023, 20:00",Trabzonspor,BeÅiktaÅ,2.93,3.7,2.13,0.38636363636363635
+5,2023-09-17,Alanyaspor,3â3,KasÄ±mpaÅa,Turgut Doman,0,0,2023-09-17,"Sep 17, 2023, 20:00",Alanyaspor,KasÄ±mpaÅa,2.08,3.7,3.05,0.47619047619047616
+5,2023-09-18,Fatih KaragÃ¼mrÃ¼k,0â0,Hatayspor,YaÅar Kemal UÄurlu,0,0,2023-09-18,"Sep 18, 2023, 20:00",Fatih KaragÃ¼mrÃ¼k,Hatayspor,2.05,3.5,3.25,0.7058823529411765
+5,2023-09-18,Sivasspor,1â3,AnkaragÃ¼cÃ¼,ÃaÄdaÅ Altay,0,1,2023-09-18,"Sep 18, 2023, 20:00",Sivasspor,AnkaragÃ¼cÃ¼,2.2,3.25,2.9,0.7222222222222222
+6,2023-09-23,Rizespor,1â1,Sivasspor,Burak Pakkan,0,0,2023-09-23,"Sep 23, 2023, 17:00",Rizespor,Sivasspor,2.38,3.1,2.79,1.0
+6,2023-09-23,Pendikspor,1â1,Fatih KaragÃ¼mrÃ¼k,Tugay Kaan NumanoÄlu,1,0,2023-09-23,"Sep 23, 2023, 17:00",Pendikspor,Fatih KaragÃ¼mrÃ¼k,2.32,3.35,2.69,1.03125
+6,2023-09-23,Antalyaspor,2â0,Samsunspor,Arda KardeÅler,0,0,2023-09-23,"Sep 23, 2023, 20:00",Antalyaspor,Samsunspor,2.05,3.4,3.2,0.5714285714285714
+6,2023-09-24,AnkaragÃ¼cÃ¼,1â1,Konyaspor,Erkan Ãzdamar,0,0,2023-09-24,"Sep 24, 2023, 17:00",AnkaragÃ¼cÃ¼,Konyaspor,2.25,3.5,2.95,1.3928571428571428
+6,2023-09-24,BeÅiktaÅ,2â1,Kayserispor,Ali Åansalan,0,0,2023-09-24,"Sep 24, 2023, 17:00",BeÅiktaÅ,Kayserispor,1.44,4.6,6.2,0.6575342465753424
+6,2023-09-24,Alanyaspor,0â1,FenerbahÃ§e,Atilla KaraoÄlan,0,0,2023-09-24,"Sep 24, 2023, 20:00",Alanyaspor,FenerbahÃ§e,4.6,4.0,1.6,0.7213114754098361
+6,2023-09-24,KasÄ±mpaÅa,2â1,Adana Demirspor,Yasin Kol,2,3,2023-09-24,"Sep 24, 2023, 20:00",KasÄ±mpaÅa,Adana Demirspor,2.88,3.7,2.1,1.2
+6,2023-09-25,Hatayspor,3â2,Trabzonspor,Burak Åeker,0,0,2023-09-25,"Sep 25, 2023, 20:00",Hatayspor,Trabzonspor,3.1,3.4,2.1,1.2857142857142856
+3,2023-09-26,Ä°stanbulspor,0â1,Galatasaray,Abdulkadir Bitigen,0,0,2023-09-26,"Sep 26, 2023, 20:00",Ä°stanbulspor,Galatasaray,5.1,4.4,1.55,0.7297297297297298
+3,2023-09-27,Adana Demirspor,4â2,BeÅiktaÅ,Umit ÃztÃ¼rk,0,0,2023-09-27,"Sep 27, 2023, 20:00",Adana Demirspor,BeÅiktaÅ,3.3,3.75,2.05,0.8163265306122449
+7,2023-09-30,Sivasspor,0â0,Hatayspor,Murat ErdoÄan,0,0,2023-09-30,"Sep 30, 2023, 13:30",Sivasspor,Hatayspor,1.98,3.5,3.5,0.5
+7,2023-09-30,Ä°stanbulspor,1â2,Antalyaspor,ÃaÄdaÅ Altay,0,0,2023-09-30,"Sep 30, 2023, 16:00",Ä°stanbulspor,Antalyaspor,2.75,3.35,2.43,0.7222222222222222
+7,2023-09-30,Trabzonspor,2â1,Pendikspor,Bahattin ÅimÅek,0,1,2023-09-30,"Sep 30, 2023, 16:00",Trabzonspor,Pendikspor,1.47,4.6,5.75,0.7352941176470589
+7,2023-09-30,Galatasaray,2â1,AnkaragÃ¼cÃ¼,Volkan Bayarslan,0,0,2023-09-30,"Sep 30, 2023, 19:00",Galatasaray,AnkaragÃ¼cÃ¼,1.33,5.5,7.5,0.38636363636363635
+7,2023-10-01,Fatih KaragÃ¼mrÃ¼k,2â3,KasÄ±mpaÅa,Atilla KaraoÄlan,0,0,2023-10-01,"Oct 1, 2023, 13:30",Fatih KaragÃ¼mrÃ¼k,KasÄ±mpaÅa,2.28,3.5,2.85,0.7213114754098361
+7,2023-10-01,FenerbahÃ§e,5â0,Rizespor,Cihan AydÄ±n,0,0,2023-10-01,"Oct 1, 2023, 16:00",FenerbahÃ§e,Rizespor,1.37,4.8,7.0,0.6875
+7,2023-10-01,Adana Demirspor,4â0,Alanyaspor,Ali Åansalan,0,0,2023-10-01,"Oct 1, 2023, 19:00",Adana Demirspor,Alanyaspor,1.7,4.3,4.27,0.6575342465753424
+7,2023-10-01,Konyaspor,0â2,BeÅiktaÅ,Arda KardeÅler,1,0,2023-10-01,"Oct 1, 2023, 19:00",Konyaspor,BeÅiktaÅ,3.11,3.6,2.1,0.5714285714285714
+8,2023-10-06,Adana Demirspor,1â0,Trabzonspor,Kadir SaÄlam,0,0,2023-10-06,"Oct 6, 2023, 20:00",Adana Demirspor,Trabzonspor,1.95,3.75,3.13,0.9215686274509804
+8,2023-10-06,Alanyaspor,2â1,Fatih KaragÃ¼mrÃ¼k,DirenÃ§ TonusluoÄlu,0,0,2023-10-06,"Oct 6, 2023, 20:00",Alanyaspor,Fatih KaragÃ¼mrÃ¼k,1.95,3.5,3.4,0.8148148148148148
+8,2023-10-07,Pendikspor,2â3,Sivasspor,Turgut Doman,0,0,2023-10-07,"Oct 7, 2023, 13:30",Pendikspor,Sivasspor,2.66,3.5,2.58,0.47619047619047616
+8,2023-10-07,AnkaragÃ¼cÃ¼,3â0,Kayserispor,Mert GÃ¼zenge,0,0,2023-10-07,"Oct 7, 2023, 16:00",AnkaragÃ¼cÃ¼,Kayserispor,2.29,3.3,2.76,0.2608695652173913
+8,2023-10-07,Antalyaspor,0â2,Galatasaray,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-10-07,"Oct 7, 2023, 19:00",Antalyaspor,Galatasaray,4.5,4.0,1.67,0.7857142857142857
+8,2023-10-08,Rizespor,1â0,Samsunspor,Abdulkadir Bitigen,0,1,2023-10-08,"Oct 8, 2023, 13:30",Rizespor,Samsunspor,2.0,3.4,3.25,0.7297297297297298
+8,2023-10-08,BeÅiktaÅ,2â0,Ä°stanbulspor,Tugay Kaan NumanoÄlu,1,0,2023-10-08,"Oct 8, 2023, 16:00",BeÅiktaÅ,Ä°stanbulspor,1.2,6.0,10.5,1.03125
+8,2023-10-08,KasÄ±mpaÅa,0â2,FenerbahÃ§e,Mete Kalkavan,1,0,2023-10-08,"Oct 8, 2023, 19:00",KasÄ±mpaÅa,FenerbahÃ§e,6.28,4.85,1.45,1.1153846153846154
+8,2023-10-08,Hatayspor,3â1,Konyaspor,Umit ÃztÃ¼rk,1,0,2023-10-08,"Oct 8, 2023, 19:00",Hatayspor,Konyaspor,2.7,3.1,2.76,0.8163265306122449
+9,2023-10-21,Kayserispor,3â1,Rizespor,Burak Åeker,2,0,2023-10-21,"Oct 21, 2023, 13:30",Kayserispor,Rizespor,2.25,3.3,3.0,1.2857142857142856
+9,2023-10-21,Konyaspor,1â2,Pendikspor,ÃaÄdaÅ Altay,0,0,2023-10-21,"Oct 21, 2023, 16:00",Konyaspor,Pendikspor,1.7,3.7,4.75,0.7222222222222222
+9,2023-10-21,Galatasaray,2â1,BeÅiktaÅ,Halil Umut Meler,1,1,2023-10-21,"Oct 21, 2023, 19:00",Galatasaray,BeÅiktaÅ,1.9,3.8,3.75,1.0909090909090908
+9,2023-10-22,Sivasspor,0â1,KasÄ±mpaÅa,YaÅar Kemal UÄurlu,0,0,2023-10-22,"Oct 22, 2023, 13:30",Sivasspor,KasÄ±mpaÅa,2.25,3.4,3.0,0.7058823529411765
+9,2023-10-22,Ä°stanbulspor,2â1,AnkaragÃ¼cÃ¼,YiÄit Arslan,1,0,2023-10-22,"Oct 22, 2023, 16:00",Ä°stanbulspor,AnkaragÃ¼cÃ¼,3.0,3.4,2.2,1.7142857142857142
+9,2023-10-22,FenerbahÃ§e,4â2,Hatayspor,Volkan Bayarslan,0,0,2023-10-22,"Oct 22, 2023, 19:00",FenerbahÃ§e,Hatayspor,1.2,6.5,12.0,0.38636363636363635
+9,2023-10-23,Trabzonspor,1â0,Alanyaspor,Arda KardeÅler,0,0,2023-10-23,"Oct 23, 2023, 20:00",Trabzonspor,Alanyaspor,1.63,3.8,4.5,0.5714285714285714
+9,2023-10-23,Fatih KaragÃ¼mrÃ¼k,2â0,Adana Demirspor,Bahattin ÅimÅek,0,0,2023-10-23,"Oct 23, 2023, 20:00",Fatih KaragÃ¼mrÃ¼k,Adana Demirspor,3.15,3.6,1.98,0.7352941176470589
+10,2023-10-27,KasÄ±mpaÅa,3â1,Ä°stanbulspor,Erkan Ãzdamar,0,0,2023-10-27,"Oct 27, 2023, 20:00",KasÄ±mpaÅa,Ä°stanbulspor,1.8,3.75,4.2,1.3928571428571428
+10,2023-10-27,Hatayspor,1â2,Kayserispor,Sarper BarÄ±Å Saka,1,0,2023-10-27,"Oct 27, 2023, 20:00",Hatayspor,Kayserispor,2.15,3.5,3.2,0.75
+10,2023-10-28,Alanyaspor,1â2,Sivasspor,Mert GÃ¼zenge,0,0,2023-10-28,"Oct 28, 2023, 16:00",Alanyaspor,Sivasspor,2.21,3.55,2.91,0.2608695652173913
+10,2023-10-28,Rizespor,0â1,Galatasaray,Kadir SaÄlam,0,0,2023-10-28,"Oct 28, 2023, 19:00",Rizespor,Galatasaray,5.0,4.2,1.58,0.9215686274509804
+10,2023-10-28,Adana Demirspor,3â0,Konyaspor,Turgut Doman,1,0,2023-10-28,"Oct 28, 2023, 19:00",Adana Demirspor,Konyaspor,1.82,3.85,3.85,0.47619047619047616
+10,2023-10-29,Fatih KaragÃ¼mrÃ¼k,0â0,Trabzonspor,Ali Åansalan,0,0,2023-10-29,"Oct 29, 2023, 16:00",Fatih KaragÃ¼mrÃ¼k,Trabzonspor,2.6,3.55,2.32,0.6575342465753424
+10,2023-10-29,AnkaragÃ¼cÃ¼,2â0,Samsunspor,Cihan AydÄ±n,0,0,2023-10-29,"Oct 29, 2023, 19:00",AnkaragÃ¼cÃ¼,Samsunspor,2.35,3.35,2.8,0.6875
+10,2023-10-29,Pendikspor,0â5,FenerbahÃ§e,Abdulkadir Bitigen,0,0,2023-10-29,"Oct 29, 2023, 19:00",Pendikspor,FenerbahÃ§e,8.5,5.5,1.28,0.7297297297297298
+11,2023-11-03,Galatasaray,2â1,KasÄ±mpaÅa,Arda KardeÅler,0,0,2023-11-03,"Nov 3, 2023, 20:00",Galatasaray,KasÄ±mpaÅa,1.18,7.2,10.5,0.5714285714285714
+11,2023-11-04,Ä°stanbulspor,2â4,Pendikspor,Murat ErdoÄan,0,0,2023-11-04,"Nov 4, 2023, 13:30",Ä°stanbulspor,Pendikspor,2.23,3.64,3.03,0.5
+11,2023-11-04,Samsunspor,2â1,Hatayspor,Halil Umut Meler,1,1,2023-11-04,"Nov 4, 2023, 16:00",Samsunspor,Hatayspor,2.98,3.48,2.33,1.0909090909090908
+11,2023-11-04,FenerbahÃ§e,2â3,Trabzonspor,Zorbay KÃ¼Ã§Ã¼k,2,1,2023-11-04,"Nov 4, 2023, 19:00",FenerbahÃ§e,Trabzonspor,1.47,4.9,5.5,0.7857142857142857
+11,2023-11-05,Sivasspor,1â1,Adana Demirspor,Burak Pakkan,0,0,2023-11-05,"Nov 5, 2023, 13:30",Sivasspor,Adana Demirspor,3.0,3.83,2.32,1.0
+11,2023-11-05,Konyaspor,1â1,Fatih KaragÃ¼mrÃ¼k,Mert GÃ¼zenge,1,0,2023-11-05,"Nov 5, 2023, 16:00",Konyaspor,Fatih KaragÃ¼mrÃ¼k,2.27,3.81,3.11,0.2608695652173913
+11,2023-11-05,Antalyaspor,3â2,BeÅiktaÅ,YaÅar Kemal UÄurlu,0,0,2023-11-05,"Nov 5, 2023, 19:00",Antalyaspor,BeÅiktaÅ,3.45,3.6,2.05,0.7058823529411765
+11,2023-11-06,Kayserispor,1â0,Alanyaspor,Tugay Kaan NumanoÄlu,0,0,2023-11-06,"Nov 6, 2023, 20:00",Kayserispor,Alanyaspor,2.12,3.55,3.05,1.03125
+4,2023-11-08,Samsunspor,2â1,Ä°stanbulspor,Burak Åeker,0,0,2023-11-08,"Nov 8, 2023, 20:00",Samsunspor,Ä°stanbulspor,2.04,3.48,3.52,1.2857142857142856
+12,2023-11-10,Trabzonspor,2â1,Konyaspor,Cihan AydÄ±n,0,0,2023-11-10,"Nov 10, 2023, 20:00",Trabzonspor,Konyaspor,1.91,3.67,3.8,0.6875
+12,2023-11-10,AnkaragÃ¼cÃ¼,0â4,Antalyaspor,DirenÃ§ TonusluoÄlu,0,0,2023-11-10,"Nov 10, 2023, 20:00",AnkaragÃ¼cÃ¼,Antalyaspor,2.44,3.35,2.83,0.8148148148148148
+12,2023-11-11,KasÄ±mpaÅa,3â4,Kayserispor,ÃaÄdaÅ Altay,1,0,2023-11-11,"Nov 11, 2023, 13:30",KasÄ±mpaÅa,Kayserispor,2.25,3.7,2.8,0.7222222222222222
+12,2023-11-11,Fatih KaragÃ¼mrÃ¼k,3â0,Sivasspor,Murat ErdoÄan,0,0,2023-11-11,"Nov 11, 2023, 16:00",Fatih KaragÃ¼mrÃ¼k,Sivasspor,2.35,3.5,2.75,0.5
+12,2023-11-11,Hatayspor,2â1,Galatasaray,Bahattin ÅimÅek,0,0,2023-11-11,"Nov 11, 2023, 19:00",Hatayspor,Galatasaray,5.7,4.75,1.44,0.7352941176470589
+12,2023-11-12,Pendikspor,1â0,Samsunspor,Burak Pakkan,0,0,2023-11-12,"Nov 12, 2023, 13:30",Pendikspor,Samsunspor,2.53,3.27,2.33,1.0
+12,2023-11-12,Rizespor,1â0,Ä°stanbulspor,Sarper BarÄ±Å Saka,0,0,2023-11-12,"Nov 12, 2023, 16:00",Rizespor,Ä°stanbulspor,1.95,3.33,3.17,0.75
+12,2023-11-12,Adana Demirspor,0â0,FenerbahÃ§e,Halil Umut Meler,0,0,2023-11-12,"Nov 12, 2023, 19:00",Adana Demirspor,FenerbahÃ§e,1.96,2.23,6.59,1.0909090909090908
+13,2023-11-25,Ä°stanbulspor,2â1,Hatayspor,Tugay Kaan NumanoÄlu,1,0,2023-11-25,"Nov 25, 2023, 13:30",Ä°stanbulspor,Hatayspor,2.72,3.31,2.31,1.03125
+13,2023-11-25,Konyaspor,2â0,KasÄ±mpaÅa,DirenÃ§ TonusluoÄlu,0,0,2023-11-25,"Nov 25, 2023, 16:00",Konyaspor,KasÄ±mpaÅa,2.0,3.3,3.06,0.8148148148148148
+13,2023-11-25,Galatasaray,4â0,Alanyaspor,Ali Åansalan,0,0,2023-11-25,"Nov 25, 2023, 19:00",Galatasaray,Alanyaspor,1.26,6.0,10.0,0.6575342465753424
+13,2023-11-26,Kayserispor,1â1,Adana Demirspor,Kadir SaÄlam,0,0,2023-11-26,"Nov 26, 2023, 13:30",Kayserispor,Adana Demirspor,2.76,3.72,2.46,0.9215686274509804
+13,2023-11-26,Samsunspor,1â2,BeÅiktaÅ,Abdulkadir Bitigen,0,0,2023-11-26,"Nov 26, 2023, 16:00",Samsunspor,BeÅiktaÅ,3.39,3.61,2.14,0.7297297297297298
+13,2023-11-26,Antalyaspor,0â0,Rizespor,Turgut Doman,0,0,2023-11-26,"Nov 26, 2023, 16:00",Antalyaspor,Rizespor,1.93,3.72,3.96,0.47619047619047616
+13,2023-11-26,FenerbahÃ§e,2â1,Fatih KaragÃ¼mrÃ¼k,Arda KardeÅler,1,0,2023-11-26,"Nov 26, 2023, 19:00",FenerbahÃ§e,Fatih KaragÃ¼mrÃ¼k,1.28,6.1,7.5,0.5714285714285714
+13,2023-11-27,Sivasspor,3â3,Trabzonspor,Volkan Bayarslan,0,0,2023-11-27,"Nov 27, 2023, 20:00",Sivasspor,Trabzonspor,3.0,3.5,2.1,0.38636363636363635
+14,2023-12-01,Fatih KaragÃ¼mrÃ¼k,3â0,Ä°stanbulspor,Kadir SaÄlam,0,0,2023-12-01,"Dec 1, 2023, 20:00",Fatih KaragÃ¼mrÃ¼k,Ä°stanbulspor,1.94,3.88,3.98,0.9215686274509804
+14,2023-12-01,Hatayspor,3â3,Antalyaspor,YiÄit Arslan,1,0,2023-12-01,"Dec 1, 2023, 20:00",Hatayspor,Antalyaspor,2.74,3.66,2.58,1.7142857142857142
+14,2023-12-02,Alanyaspor,2â2,Konyaspor,Burak Pakkan,1,0,2023-12-02,"Dec 2, 2023, 13:30",Alanyaspor,Konyaspor,2.34,3.45,2.74,1.0
+14,2023-12-02,Pendikspor,0â2,Galatasaray,Volkan Bayarslan,0,0,2023-12-02,"Dec 2, 2023, 19:00",Pendikspor,Galatasaray,8.0,5.25,1.29,0.38636363636363635
+14,2023-12-02,Adana Demirspor,2â3,Samsunspor,Sarper BarÄ±Å Saka,2,0,2023-12-02,"Dec 2, 2023, 19:00",Adana Demirspor,Samsunspor,1.62,4.0,4.4,0.75
+14,2023-12-03,Trabzonspor,0â1,Kayserispor,Umit ÃztÃ¼rk,0,0,2023-12-03,"Dec 3, 2023, 16:00",Trabzonspor,Kayserispor,1.9,3.98,4.06,0.8163265306122449
+14,2023-12-03,AnkaragÃ¼cÃ¼,1â1,BeÅiktaÅ,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-12-03,"Dec 3, 2023, 19:00",AnkaragÃ¼cÃ¼,BeÅiktaÅ,3.25,3.3,2.0,0.7857142857142857
+14,2023-12-04,FenerbahÃ§e,4â1,Sivasspor,Bahattin ÅimÅek,0,0,2023-12-04,"Dec 4, 2023, 20:00",FenerbahÃ§e,Sivasspor,1.25,5.25,9.5,0.7352941176470589
+15,2023-12-08,Galatasaray,3â1,Adana Demirspor,Abdulkadir Bitigen,2,0,2023-12-08,"Dec 8, 2023, 20:00",Galatasaray,Adana Demirspor,1.27,6.0,7.8,0.7297297297297298
+15,2023-12-09,Antalyaspor,2â1,Fatih KaragÃ¼mrÃ¼k,ÃaÄdaÅ Altay,0,1,2023-12-09,"Dec 9, 2023, 13:30",Antalyaspor,Fatih KaragÃ¼mrÃ¼k,1.75,3.6,4.33,0.7222222222222222
+15,2023-12-09,Samsunspor,4â2,KasÄ±mpaÅa,Zorbay KÃ¼Ã§Ã¼k,0,0,2023-12-09,"Dec 9, 2023, 16:00",Samsunspor,KasÄ±mpaÅa,2.55,3.5,2.5,0.7857142857142857
+15,2023-12-09,BeÅiktaÅ,1â3,FenerbahÃ§e,Atilla KaraoÄlan,2,0,2023-12-09,"Dec 9, 2023, 19:00",BeÅiktaÅ,FenerbahÃ§e,3.6,3.7,1.88,0.7213114754098361
+15,2023-12-10,Ä°stanbulspor,0â1,Alanyaspor,Cihan AydÄ±n,1,0,2023-12-10,"Dec 10, 2023, 13:30",Ä°stanbulspor,Alanyaspor,2.51,3.5,2.54,0.6875
+15,2023-12-10,Kayserispor,2â0,Pendikspor,Turgut Doman,0,0,2023-12-10,"Dec 10, 2023, 16:00",Kayserispor,Pendikspor,1.98,3.7,3.3,0.47619047619047616
+15,2023-12-11,AnkaragÃ¼cÃ¼,1â1,Rizespor,Halil Umut Meler,0,2,2023-12-11,"Dec 11, 2023, 20:00",AnkaragÃ¼cÃ¼,Rizespor,3.4,4.3,1.72,1.0909090909090908
+15,2023-12-11,Konyaspor,0â1,Sivasspor,Tugay Kaan NumanoÄlu,0,0,2023-12-11,"Dec 11, 2023, 20:00",Konyaspor,Sivasspor,2.4,2.86,2.93,1.03125
+17,2023-12-19,Ä°stanbulspor,0â3,Trabzonspor,Ali Åansalan,0,0,2023-12-19,"Dec 19, 2023, 20:00",Ä°stanbulspor,Trabzonspor,5.25,4.0,1.53,0.6575342465753424
+17,2023-12-20,Kayserispor,3â4,FenerbahÃ§e,Zorbay KÃ¼Ã§Ã¼k,2,2,2023-12-20,"Dec 20, 2023, 17:00",Kayserispor,FenerbahÃ§e,6.3,4.8,1.38,0.7857142857142857
+17,2023-12-20,Galatasaray,1â0,Fatih KaragÃ¼mrÃ¼k,Tugay Kaan NumanoÄlu,0,0,2023-12-20,"Dec 20, 2023, 20:00",Galatasaray,Fatih KaragÃ¼mrÃ¼k,1.2,5.75,11.5,1.03125
+17,2023-12-20,Antalyaspor,0â0,KasÄ±mpaÅa,Kadir SaÄlam,0,0,2023-12-20,"Dec 20, 2023, 20:00",Antalyaspor,KasÄ±mpaÅa,1.7,3.75,4.2,0.9215686274509804
+17,2023-12-21,Samsunspor,1â1,Konyaspor,Murat ErdoÄan,2,0,2023-12-21,"Dec 21, 2023, 17:00",Samsunspor,Konyaspor,1.87,3.4,3.8,0.5
+17,2023-12-21,Rizespor,5â1,Pendikspor,DirenÃ§ TonusluoÄlu,0,1,2023-12-21,"Dec 21, 2023, 17:00",Rizespor,Pendikspor,1.83,3.6,3.7,0.8148148148148148
+17,2023-12-21,AnkaragÃ¼cÃ¼,0â0,Hatayspor,Abdulkadir Bitigen,0,0,2023-12-21,"Dec 21, 2023, 20:00",AnkaragÃ¼cÃ¼,Hatayspor,1.95,3.3,3.5,0.7297297297297298
+17,2023-12-21,BeÅiktaÅ,1â3,Alanyaspor,Umit ÃztÃ¼rk,0,0,2023-12-21,"Dec 21, 2023, 20:00",BeÅiktaÅ,Alanyaspor,1.5,4.1,5.5,0.8163265306122449
+18,2023-12-23,Sivasspor,1â0,Ä°stanbulspor,Mert GÃ¼zenge,0,0,2023-12-23,"Dec 23, 2023, 13:30",Sivasspor,Ä°stanbulspor,1.62,4.12,5.0,0.2608695652173913
+18,2023-12-24,Konyaspor,2â0,Kayserispor,Bahattin ÅimÅek,2,0,2023-12-24,"Dec 24, 2023, 13:30",Konyaspor,Kayserispor,2.28,3.45,2.6,0.7352941176470589
+18,2023-12-24,Adana Demirspor,2â1,Antalyaspor,Burak Pakkan,0,0,2023-12-24,"Dec 24, 2023, 16:00",Adana Demirspor,Antalyaspor,2.0,3.68,2.95,1.0
+18,2023-12-24,FenerbahÃ§e,0â0,Galatasaray,Arda KardeÅler,0,0,2023-12-24,"Dec 24, 2023, 19:00",FenerbahÃ§e,Galatasaray,2.25,3.3,2.7,0.5714285714285714
+18,2023-12-25,Alanyaspor,3â1,Samsunspor,Tugay Kaan NumanoÄlu,0,0,2023-12-25,"Dec 25, 2023, 17:00",Alanyaspor,Samsunspor,2.23,3.4,2.68,1.03125
+18,2023-12-25,KasÄ±mpaÅa,2â2,Rizespor,Turgut Doman,0,0,2023-12-25,"Dec 25, 2023, 17:00",KasÄ±mpaÅa,Rizespor,1.99,3.55,3.05,0.47619047619047616
+18,2023-12-25,Pendikspor,1â1,AnkaragÃ¼cÃ¼,Umit ÃztÃ¼rk,0,0,2023-12-25,"Dec 25, 2023, 20:00",Pendikspor,AnkaragÃ¼cÃ¼,2.65,3.5,2.23,0.8163265306122449
+18,2023-12-25,Hatayspor,1â2,BeÅiktaÅ,Kadir SaÄlam,0,0,2023-12-25,"Dec 25, 2023, 20:00",Hatayspor,BeÅiktaÅ,2.88,3.55,2.07,0.9215686274509804
+19,2024-01-05,BeÅiktaÅ,1â3,KasÄ±mpaÅa,Arda KardeÅler,0,0,2024-01-05,"Jan 5, 2024, 20:00",BeÅiktaÅ,KasÄ±mpaÅa,1.53,4.1,5.0,0.5714285714285714
+19,2024-01-05,Antalyaspor,0â0,Alanyaspor,Mert GÃ¼zenge,0,0,2024-01-05,"Jan 5, 2024, 20:00",Antalyaspor,Alanyaspor,2.1,3.3,3.2,0.2608695652173913
+19,2024-01-06,Rizespor,2â0,Hatayspor,Cihan AydÄ±n,0,0,2024-01-06,"Jan 6, 2024, 13:30",Rizespor,Hatayspor,2.2,3.45,2.88,0.6875
+19,2024-01-06,AnkaragÃ¼cÃ¼,0â1,Trabzonspor,Burak Åeker,0,0,2024-01-06,"Jan 6, 2024, 19:00",AnkaragÃ¼cÃ¼,Trabzonspor,3.11,3.82,2.13,1.2857142857142856
+19,2024-01-06,Samsunspor,1â0,Fatih KaragÃ¼mrÃ¼k,Emre KargÄ±n,0,0,2024-01-06,"Jan 6, 2024, 19:00",Samsunspor,Fatih KaragÃ¼mrÃ¼k,2.46,3.82,2.59,0.5454545454545454
+19,2024-01-07,Kayserispor,1â3,Sivasspor,Alper Akarsu,1,0,2024-01-07,"Jan 7, 2024, 13:30",Kayserispor,Sivasspor,2.16,3.99,2.53,0.26666666666666666
+19,2024-01-07,Ä°stanbulspor,1â5,FenerbahÃ§e,Volkan Bayarslan,0,0,2024-01-07,"Jan 7, 2024, 16:00",Ä°stanbulspor,FenerbahÃ§e,11.94,6.58,1.23,0.38636363636363635
+19,2024-01-07,Galatasaray,3â0,Konyaspor,Ali Åansalan,0,0,2024-01-07,"Jan 7, 2024, 19:00",Galatasaray,Konyaspor,1.25,5.5,9.5,0.6575342465753424
+16,2024-01-09,Pendikspor,0â1,Antalyaspor,OÄuzhan Ãakir,0,0,2024-01-09,"Jan 9, 2024, 17:00",Pendikspor,Antalyaspor,3.1,3.5,2.15,0.72
+16,2024-01-09,Alanyaspor,1â1,AnkaragÃ¼cÃ¼,DirenÃ§ TonusluoÄlu,0,2,2024-01-09,"Jan 9, 2024, 17:00",Alanyaspor,AnkaragÃ¼cÃ¼,2.1,3.4,3.2,0.8148148148148148
+16,2024-01-09,Rizespor,0â4,BeÅiktaÅ,Abdulkadir Bitigen,0,0,2024-01-09,"Jan 9, 2024, 20:00",Rizespor,BeÅiktaÅ,2.62,3.6,2.4,0.7297297297297298
+16,2024-01-10,Fatih KaragÃ¼mrÃ¼k,4â1,Kayserispor,Burak Åeker,0,0,2024-01-10,"Jan 10, 2024, 17:00",Fatih KaragÃ¼mrÃ¼k,Kayserispor,2.7,3.5,2.4,1.2857142857142856
+16,2024-01-10,Adana Demirspor,2â2,Ä°stanbulspor,Murat ErdoÄan,0,0,2024-01-10,"Jan 10, 2024, 20:00",Adana Demirspor,Ä°stanbulspor,1.5,4.5,5.5,0.5
+16,2024-01-10,FenerbahÃ§e,7â1,Konyaspor,Kadir SaÄlam,1,0,2024-01-10,"Jan 10, 2024, 20:00",FenerbahÃ§e,Konyaspor,1.29,6.0,8.5,0.9215686274509804
+16,2024-01-11,Sivasspor,1â1,Galatasaray,Zorbay KÃ¼Ã§Ã¼k,1,1,2024-01-11,"Jan 11, 2024, 17:00",Sivasspor,Galatasaray,6.0,4.2,1.45,0.7857142857142857
+16,2024-01-11,Trabzonspor,2â1,Samsunspor,Cihan AydÄ±n,1,0,2024-01-11,"Jan 11, 2024, 20:00",Trabzonspor,Samsunspor,1.67,3.6,4.75,0.6875
+20,2024-01-13,Hatayspor,1â1,Pendikspor,Muhammetali MetoÄlu,0,0,2024-01-13,"Jan 13, 2024, 13:30",Hatayspor,Pendikspor,1.92,3.7,3.35,0.6000000000000001
+20,2024-01-13,AnkaragÃ¼cÃ¼,3â1,KasÄ±mpaÅa,Ãmer Faruk Turtay,0,0,2024-01-13,"Jan 13, 2024, 13:30",AnkaragÃ¼cÃ¼,KasÄ±mpaÅa,2.05,3.5,3.15,1.0
+20,2024-01-13,BeÅiktaÅ,3â0,Fatih KaragÃ¼mrÃ¼k,Mert GÃ¼zenge,0,0,2024-01-13,"Jan 13, 2024, 19:00",BeÅiktaÅ,Fatih KaragÃ¼mrÃ¼k,1.65,4.3,4.7,0.2608695652173913
+20,2024-01-13,Rizespor,1â0,Adana Demirspor,Volkan Bayarslan,0,0,2024-01-13,"Jan 13, 2024, 19:00",Rizespor,Adana Demirspor,2.49,3.85,2.6,0.38636363636363635
+20,2024-01-14,Ä°stanbulspor,0â0,Konyaspor,Halil Umut Meler,0,0,2024-01-14,"Jan 14, 2024, 13:30",Ä°stanbulspor,Konyaspor,2.95,3.1,2.24,1.0909090909090908
+20,2024-01-14,Samsunspor,2â0,Sivasspor,Burak Åeker,0,2,2024-01-14,"Jan 14, 2024, 16:00",Samsunspor,Sivasspor,2.3,3.5,2.8,1.2857142857142856
+20,2024-01-14,Antalyaspor,1â1,Trabzonspor,Bahattin ÅimÅek,0,0,2024-01-14,"Jan 14, 2024, 16:00",Antalyaspor,Trabzonspor,2.63,3.5,2.4,0.7352941176470589
+20,2024-01-15,Galatasaray,2â1,Kayserispor,Atilla KaraoÄlan,1,0,2024-01-15,"Jan 15, 2024, 20:00",Galatasaray,Kayserispor,1.29,5.02,6.96,0.7213114754098361
+21,2024-01-20,KasÄ±mpaÅa,3â0,Hatayspor,Abdullah TaÅkÄ±nsoy,0,0,2024-01-20,"Jan 20, 2024, 13:30",KasÄ±mpaÅa,Hatayspor,1.94,3.7,3.5,0.5
+21,2024-01-20,Alanyaspor,2â1,Rizespor,Ali Åansalan,0,0,2024-01-20,"Jan 20, 2024, 16:00",Alanyaspor,Rizespor,2.26,3.45,2.89,0.6575342465753424
+21,2024-01-20,Adana Demirspor,1â1,AnkaragÃ¼cÃ¼,Arda KardeÅler,0,0,2024-01-20,"Jan 20, 2024, 19:00",Adana Demirspor,AnkaragÃ¼cÃ¼,1.86,3.75,3.55,0.5714285714285714
+21,2024-01-20,Pendikspor,4â0,BeÅiktaÅ,Tugay Kaan NumanoÄlu,0,0,2024-01-20,"Jan 20, 2024, 19:00",Pendikspor,BeÅiktaÅ,3.95,3.65,1.79,1.03125
+21,2024-01-21,FenerbahÃ§e,1â1,Samsunspor,Bahattin ÅimÅek,0,0,2024-01-21,"Jan 21, 2024, 16:00",FenerbahÃ§e,Samsunspor,1.19,6.6,11.0,0.7352941176470589
+21,2024-01-21,Konyaspor,1â1,Antalyaspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-01-21,"Jan 21, 2024, 16:00",Konyaspor,Antalyaspor,2.74,3.15,2.52,0.7857142857142857
+21,2024-01-21,Trabzonspor,1â5,Galatasaray,Abdulkadir Bitigen,0,0,2024-01-21,"Jan 21, 2024, 19:00",Trabzonspor,Galatasaray,4.0,3.6,1.83,0.7297297297297298
+21,2024-01-22,Kayserispor,0â1,Ä°stanbulspor,Cihan AydÄ±n,0,0,2024-01-22,"Jan 22, 2024, 20:00",Kayserispor,Ä°stanbulspor,1.5,4.0,5.5,0.6875
+22,2024-01-23,Hatayspor,1â1,Alanyaspor,Emre KargÄ±n,1,0,2024-01-23,"Jan 23, 2024, 17:00",Hatayspor,Alanyaspor,2.41,2.61,3.24,0.5454545454545454
+22,2024-01-23,BeÅiktaÅ,0â0,Adana Demirspor,Atilla KaraoÄlan,0,1,2024-01-23,"Jan 23, 2024, 20:00",BeÅiktaÅ,Adana Demirspor,1.8,3.09,4.35,0.7213114754098361
+22,2024-01-23,Pendikspor,3â2,KasÄ±mpaÅa,Burak Åeker,1,0,2024-01-23,"Jan 23, 2024, 20:00",Pendikspor,KasÄ±mpaÅa,2.52,2.85,2.77,1.2857142857142856
+22,2024-01-24,AnkaragÃ¼cÃ¼,2â0,Fatih KaragÃ¼mrÃ¼k,Muhammetali MetoÄlu,0,0,2024-01-24,"Jan 24, 2024, 17:00",AnkaragÃ¼cÃ¼,Fatih KaragÃ¼mrÃ¼k,2.36,3.3,2.75,0.6000000000000001
+22,2024-01-24,Antalyaspor,2â1,Sivasspor,Turgut Doman,1,0,2024-01-24,"Jan 24, 2024, 20:00",Antalyaspor,Sivasspor,1.91,3.35,3.75,0.47619047619047616
+22,2024-01-25,Samsunspor,2â0,Kayserispor,ÃaÄdaÅ Altay,0,0,2024-01-25,"Jan 25, 2024, 17:00",Samsunspor,Kayserispor,2.13,3.5,3.1,0.7222222222222222
+22,2024-01-25,Rizespor,1â0,Trabzonspor,Umit ÃztÃ¼rk,0,0,2024-01-25,"Jan 25, 2024, 20:00",Rizespor,Trabzonspor,2.64,3.35,2.48,0.8163265306122449
+22,2024-01-25,Galatasaray,3â1,Ä°stanbulspor,Bahattin ÅimÅek,2,1,2024-01-25,"Jan 25, 2024, 20:00",Galatasaray,Ä°stanbulspor,1.12,8.1,16.0,0.7352941176470589
+23,2024-01-27,Alanyaspor,1â1,Pendikspor,Volkan Bayarslan,0,0,2024-01-27,"Jan 27, 2024, 16:00",Alanyaspor,Pendikspor,1.86,3.75,3.65,0.38636363636363635
+23,2024-01-27,Adana Demirspor,0â1,Hatayspor,Mert GÃ¼zenge,0,1,2024-01-27,"Jan 27, 2024, 19:00",Adana Demirspor,Hatayspor,1.91,3.6,3.4,0.2608695652173913
+23,2024-01-28,Fatih KaragÃ¼mrÃ¼k,4â0,Rizespor,Turgut Doman,1,0,2024-01-28,"Jan 28, 2024, 16:00",Fatih KaragÃ¼mrÃ¼k,Rizespor,2.39,3.65,2.8,0.47619047619047616
+23,2024-01-28,Sivasspor,1â0,BeÅiktaÅ,Ali Åansalan,0,0,2024-01-28,"Jan 28, 2024, 16:00",Sivasspor,BeÅiktaÅ,3.05,3.75,2.19,0.6575342465753424
+23,2024-01-28,FenerbahÃ§e,2â1,AnkaragÃ¼cÃ¼,Cihan AydÄ±n,0,0,2024-01-28,"Jan 28, 2024, 19:00",FenerbahÃ§e,AnkaragÃ¼cÃ¼,1.16,6.75,13.0,0.6875
+23,2024-01-29,Ä°stanbulspor,1â1,Samsunspor,Ãmer Faruk Turtay,0,0,2024-01-29,"Jan 29, 2024, 17:00",Ä°stanbulspor,Samsunspor,3.3,3.5,2.15,1.0
+23,2024-01-29,Kayserispor,1â1,Antalyaspor,DirenÃ§ TonusluoÄlu,0,0,2024-01-29,"Jan 29, 2024, 17:00",Kayserispor,Antalyaspor,3.1,3.4,2.3,0.8148148148148148
+23,2024-01-29,Trabzonspor,2â3,KasÄ±mpaÅa,Tugay Kaan NumanoÄlu,1,0,2024-01-29,"Jan 29, 2024, 20:00",Trabzonspor,KasÄ±mpaÅa,1.63,4.3,4.8,1.03125
+24,2024-02-02,Hatayspor,3â1,Fatih KaragÃ¼mrÃ¼k,Ãmer Faruk Turtay,1,0,2024-02-02,"Feb 2, 2024, 17:00",Hatayspor,Fatih KaragÃ¼mrÃ¼k,1.98,3.53,3.05,1.0
+24,2024-02-02,AnkaragÃ¼cÃ¼,0â0,Sivasspor,Abdulkadir Bitigen,0,0,2024-02-02,"Feb 2, 2024, 17:00",AnkaragÃ¼cÃ¼,Sivasspor,2.18,3.48,2.71,0.7297297297297298
+24,2024-02-02,Samsunspor,0â2,Galatasaray,Tugay Kaan NumanoÄlu,0,0,2024-02-02,"Feb 2, 2024, 20:00",Samsunspor,Galatasaray,5.25,4.1,1.53,1.03125
+24,2024-02-03,Rizespor,0â0,Konyaspor,Cihan AydÄ±n,0,0,2024-02-03,"Feb 3, 2024, 13:30",Rizespor,Konyaspor,1.83,3.4,4.0,0.6875
+24,2024-02-03,Antalyaspor,0â2,FenerbahÃ§e,Volkan Bayarslan,0,0,2024-02-03,"Feb 3, 2024, 19:00",Antalyaspor,FenerbahÃ§e,5.09,4.37,1.67,0.38636363636363635
+24,2024-02-04,Pendikspor,2â1,Adana Demirspor,DirenÃ§ TonusluoÄlu,0,1,2024-02-04,"Feb 4, 2024, 13:30",Pendikspor,Adana Demirspor,2.18,3.55,3.1,0.8148148148148148
+24,2024-02-04,KasÄ±mpaÅa,2â1,Alanyaspor,OÄuzhan Ãakir,0,0,2024-02-04,"Feb 4, 2024, 16:00",KasÄ±mpaÅa,Alanyaspor,2.32,3.6,2.82,0.72
+24,2024-02-04,BeÅiktaÅ,2â0,Trabzonspor,Arda KardeÅler,0,0,2024-02-04,"Feb 4, 2024, 19:00",BeÅiktaÅ,Trabzonspor,2.05,3.6,3.2,0.5714285714285714
+25,2024-02-09,Adana Demirspor,1â3,KasÄ±mpaÅa,Burak Pakkan,1,0,2024-02-09,"Feb 9, 2024, 20:00",Adana Demirspor,KasÄ±mpaÅa,2.1,3.65,3.05,1.0
+25,2024-02-10,Fatih KaragÃ¼mrÃ¼k,2â0,Pendikspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-02-10,"Feb 10, 2024, 16:00",Fatih KaragÃ¼mrÃ¼k,Pendikspor,1.91,3.5,4.0,0.7857142857142857
+25,2024-02-11,Sivasspor,1â0,Rizespor,Emre KargÄ±n,0,0,2024-02-11,"Feb 11, 2024, 13:30",Sivasspor,Rizespor,2.34,3.45,2.74,0.5454545454545454
+25,2024-02-11,Konyaspor,1â0,AnkaragÃ¼cÃ¼,DirenÃ§ TonusluoÄlu,0,0,2024-02-11,"Feb 11, 2024, 16:00",Konyaspor,AnkaragÃ¼cÃ¼,2.53,3.2,2.7,0.8148148148148148
+25,2024-02-11,FenerbahÃ§e,2â2,Alanyaspor,ÃaÄdaÅ Altay,1,0,2024-02-11,"Feb 11, 2024, 19:00",FenerbahÃ§e,Alanyaspor,1.22,6.0,12.0,0.7222222222222222
+25,2024-02-12,Trabzonspor,2â0,Hatayspor,Ali Åansalan,0,0,2024-02-12,"Feb 12, 2024, 17:00",Trabzonspor,Hatayspor,1.63,3.85,5.0,0.6575342465753424
+25,2024-02-12,Samsunspor,2â0,Antalyaspor,Atilla KaraoÄlan,0,0,2024-02-12,"Feb 12, 2024, 20:00",Samsunspor,Antalyaspor,2.37,3.3,2.9,0.7213114754098361
+25,2024-02-12,Kayserispor,0â0,BeÅiktaÅ,Kadir SaÄlam,0,0,2024-02-12,"Feb 12, 2024, 20:00",Kayserispor,BeÅiktaÅ,3.4,3.65,2.0,0.9215686274509804
+26,2024-02-16,KasÄ±mpaÅa,1â1,Fatih KaragÃ¼mrÃ¼k,Kadir SaÄlam,0,0,2024-02-16,"Feb 16, 2024, 20:00",KasÄ±mpaÅa,Fatih KaragÃ¼mrÃ¼k,2.23,3.68,3.14,0.9215686274509804
+26,2024-02-17,Antalyaspor,2â2,Ä°stanbulspor,Mehmet TÃ¼rkmen,1,0,2024-02-17,"Feb 17, 2024, 13:30",Antalyaspor,Ä°stanbulspor,1.45,4.0,6.5,0.5925925925925926
+26,2024-02-17,Hatayspor,1â1,Sivasspor,Umit ÃztÃ¼rk,0,0,2024-02-17,"Feb 17, 2024, 16:00",Hatayspor,Sivasspor,2.25,3.2,3.0,0.8163265306122449
+26,2024-02-17,Rizespor,1â3,FenerbahÃ§e,Arda KardeÅler,0,0,2024-02-17,"Feb 17, 2024, 19:00",Rizespor,FenerbahÃ§e,5.5,4.33,1.5,0.5714285714285714
+26,2024-02-18,Alanyaspor,3â3,Adana Demirspor,Bahattin ÅimÅek,1,0,2024-02-18,"Feb 18, 2024, 13:30",Alanyaspor,Adana Demirspor,1.95,3.45,3.6,0.7352941176470589
+26,2024-02-18,Pendikspor,0â2,Trabzonspor,Halil Umut Meler,0,0,2024-02-18,"Feb 18, 2024, 16:00",Pendikspor,Trabzonspor,3.25,3.5,2.05,1.0909090909090908
+26,2024-02-18,AnkaragÃ¼cÃ¼,0â3,Galatasaray,Ali Åansalan,1,0,2024-02-18,"Feb 18, 2024, 19:00",AnkaragÃ¼cÃ¼,Galatasaray,5.0,4.33,1.5,0.6575342465753424
+26,2024-02-19,BeÅiktaÅ,2â0,Konyaspor,Tugay Kaan NumanoÄlu,0,0,2024-02-19,"Feb 19, 2024, 20:00",BeÅiktaÅ,Konyaspor,1.62,4.16,5.4,1.03125
+27,2024-02-23,Samsunspor,3â0,Rizespor,Murat ErdoÄan,1,0,2024-02-23,"Feb 23, 2024, 20:00",Samsunspor,Rizespor,1.91,3.45,3.4,0.5
+27,2024-02-24,Kayserispor,3â2,AnkaragÃ¼cÃ¼,Turgut Doman,0,0,2024-02-24,"Feb 24, 2024, 13:30",Kayserispor,AnkaragÃ¼cÃ¼,2.28,3.2,2.64,0.47619047619047616
+27,2024-02-24,Konyaspor,2â0,Hatayspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-02-24,"Feb 24, 2024, 19:00",Konyaspor,Hatayspor,2.33,3.3,2.9,0.7857142857142857
+27,2024-02-24,FenerbahÃ§e,2â1,KasÄ±mpaÅa,Cihan AydÄ±n,0,0,2024-02-24,"Feb 24, 2024, 19:00",FenerbahÃ§e,KasÄ±mpaÅa,1.2,7.0,10.0,0.6875
+27,2024-02-25,Sivasspor,4â1,Pendikspor,Burak Pakkan,0,0,2024-02-25,"Feb 25, 2024, 13:30",Sivasspor,Pendikspor,2.05,3.4,3.2,1.0
+27,2024-02-25,Fatih KaragÃ¼mrÃ¼k,1â1,Alanyaspor,Tugay Kaan NumanoÄlu,1,1,2024-02-25,"Feb 25, 2024, 16:00",Fatih KaragÃ¼mrÃ¼k,Alanyaspor,1.94,3.5,3.65,1.03125
+27,2024-02-25,Trabzonspor,1â0,Adana Demirspor,Burak Åeker,0,1,2024-02-25,"Feb 25, 2024, 16:00",Trabzonspor,Adana Demirspor,1.71,3.85,4.35,1.2857142857142856
+27,2024-02-25,Ä°stanbulspor,0â2,BeÅiktaÅ,Atilla KaraoÄlan,0,0,2024-02-25,"Feb 25, 2024, 19:00",Ä°stanbulspor,BeÅiktaÅ,5.75,4.1,1.52,0.7213114754098361
+27,2024-02-26,Galatasaray,2â1,Antalyaspor,Abdulkadir Bitigen,1,0,2024-02-26,"Feb 26, 2024, 20:00",Galatasaray,Antalyaspor,1.22,6.0,11.0,0.7297297297297298
+28,2024-03-01,KasÄ±mpaÅa,0â0,Sivasspor,Burak Åeker,0,0,2024-03-01,"Mar 1, 2024, 20:00",KasÄ±mpaÅa,Sivasspor,2.03,3.78,3.3,1.2857142857142856
+28,2024-03-02,AnkaragÃ¼cÃ¼,1â1,Ä°stanbulspor,Muhammetali MetoÄlu,0,1,2024-03-02,"Mar 2, 2024, 13:30",AnkaragÃ¼cÃ¼,Ä°stanbulspor,1.57,3.6,5.25,0.6000000000000001
+28,2024-03-02,Rizespor,3â0,Kayserispor,Burak Pakkan,0,0,2024-03-02,"Mar 2, 2024, 16:00",Rizespor,Kayserispor,1.95,3.25,3.3,1.0
+28,2024-03-02,Hatayspor,0â2,FenerbahÃ§e,Atilla KaraoÄlan,0,0,2024-03-02,"Mar 2, 2024, 19:00",Hatayspor,FenerbahÃ§e,7.92,5.35,1.33,0.7213114754098361
+28,2024-03-03,Pendikspor,0â2,Konyaspor,Umit ÃztÃ¼rk,1,0,2024-03-03,"Mar 3, 2024, 13:30",Pendikspor,Konyaspor,2.16,3.6,2.95,0.8163265306122449
+28,2024-03-03,BeÅiktaÅ,0â1,Galatasaray,Halil Umut Meler,0,1,2024-03-03,"Mar 3, 2024, 19:00",BeÅiktaÅ,Galatasaray,3.7,3.9,1.9,1.0909090909090908
+28,2024-03-04,Adana Demirspor,1â0,Fatih KaragÃ¼mrÃ¼k,Murat ErdoÄan,1,1,2024-03-04,"Mar 4, 2024, 17:00",Adana Demirspor,Fatih KaragÃ¼mrÃ¼k,1.99,3.74,3.52,0.5
+28,2024-03-04,Alanyaspor,3â1,Trabzonspor,Volkan Bayarslan,0,0,2024-03-04,"Mar 4, 2024, 20:00",Alanyaspor,Trabzonspor,2.68,3.26,2.68,0.38636363636363635
+29,2024-03-08,Galatasaray,6â2,Rizespor,Bahattin ÅimÅek,1,0,2024-03-08,"Mar 8, 2024, 20:00",Galatasaray,Rizespor,1.22,5.75,8.5,0.7352941176470589
+29,2024-03-09,Sivasspor,1â2,Alanyaspor,Ali Åansalan,0,0,2024-03-09,"Mar 9, 2024, 13:30",Sivasspor,Alanyaspor,2.38,3.25,2.75,0.6575342465753424
+29,2024-03-09,Konyaspor,2â2,Adana Demirspor,Volkan Bayarslan,2,0,2024-03-09,"Mar 9, 2024, 16:00",Konyaspor,Adana Demirspor,2.3,3.25,2.8,0.38636363636363635
+29,2024-03-09,Trabzonspor,5â1,Fatih KaragÃ¼mrÃ¼k,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-03-09,"Mar 9, 2024, 19:00",Trabzonspor,Fatih KaragÃ¼mrÃ¼k,1.86,3.82,3.82,0.7857142857142857
+29,2024-03-10,Kayserispor,1â1,Hatayspor,Halil Umut Meler,0,1,2024-03-10,"Mar 10, 2024, 13:30",Kayserispor,Hatayspor,2.02,3.4,3.55,1.0909090909090908
+29,2024-03-10,Ä°stanbulspor,1â2,KasÄ±mpaÅa,ÃaÄdaÅ Altay,0,0,2024-03-10,"Mar 10, 2024, 16:00",Ä°stanbulspor,KasÄ±mpaÅa,4.1,3.85,1.77,0.7222222222222222
+29,2024-03-10,Samsunspor,2â1,AnkaragÃ¼cÃ¼,Umit ÃztÃ¼rk,0,0,2024-03-10,"Mar 10, 2024, 16:00",Samsunspor,AnkaragÃ¼cÃ¼,2.01,3.3,3.75,0.8163265306122449
+29,2024-03-10,FenerbahÃ§e,4â1,Pendikspor,Kadir SaÄlam,1,2,2024-03-10,"Mar 10, 2024, 19:00",FenerbahÃ§e,Pendikspor,1.18,7.5,11.88,0.9215686274509804
+30,2024-03-15,Fatih KaragÃ¼mrÃ¼k,1â1,Konyaspor,Bahattin ÅimÅek,0,0,2024-03-15,"Mar 15, 2024, 20:30",Fatih KaragÃ¼mrÃ¼k,Konyaspor,2.03,3.5,4.06,0.7352941176470589
+30,2024-03-15,Pendikspor,1â0,Ä°stanbulspor,OÄuzhan Ãakir,0,1,2024-03-15,"Mar 15, 2024, 20:30",Pendikspor,Ä°stanbulspor,1.69,2.37,9.96,0.72
+30,2024-03-16,Alanyaspor,1â0,Kayserispor,Emre KargÄ±n,0,0,2024-03-16,"Mar 16, 2024, 13:30",Alanyaspor,Kayserispor,2.08,3.55,3.35,0.5454545454545454
+30,2024-03-16,BeÅiktaÅ,1â2,Antalyaspor,Burak Pakkan,1,0,2024-03-16,"Mar 16, 2024, 20:30",BeÅiktaÅ,Antalyaspor,1.8,3.7,4.2,1.0
+30,2024-03-16,Adana Demirspor,4â1,Sivasspor,Tugay Kaan NumanoÄlu,0,1,2024-03-16,"Mar 16, 2024, 20:30",Adana Demirspor,Sivasspor,1.85,3.6,3.9,1.03125
+30,2024-03-17,KasÄ±mpaÅa,3â4,Galatasaray,Atilla KaraoÄlan,0,1,2024-03-17,"Mar 17, 2024, 16:00",KasÄ±mpaÅa,Galatasaray,6.0,4.6,1.4,0.7213114754098361
+30,2024-03-17,Hatayspor,3â0,Samsunspor,Burak Åeker,0,0,2024-03-17,"Mar 17, 2024, 16:00",Hatayspor,Samsunspor,2.9,3.2,2.3,1.2857142857142856
+30,2024-03-17,Trabzonspor,2â3,FenerbahÃ§e,Halil Umut Meler,1,0,2024-03-17,"Mar 17, 2024, 20:30",Trabzonspor,FenerbahÃ§e,4.75,4.0,1.7,1.0909090909090908
+31,2024-04-02,Ä°stanbulspor,0â4,Rizespor,Alper Akarsu,0,0,2024-04-02,"Apr 2, 2024, 17:00",Ä°stanbulspor,Rizespor,3.6,3.5,1.87,0.26666666666666666
+31,2024-04-02,Antalyaspor,1â1,AnkaragÃ¼cÃ¼,ÃaÄdaÅ Altay,0,0,2024-04-02,"Apr 2, 2024, 20:30",Antalyaspor,AnkaragÃ¼cÃ¼,1.93,3.35,4.1,0.7222222222222222
+31,2024-04-02,Galatasaray,1â0,Hatayspor,Ali Åansalan,0,0,2024-04-02,"Apr 2, 2024, 20:30",Galatasaray,Hatayspor,1.19,7.2,12.0,0.6575342465753424
+31,2024-04-03,Sivasspor,1â0,Fatih KaragÃ¼mrÃ¼k,Turgut Doman,0,0,2024-04-03,"Apr 3, 2024, 17:00",Sivasspor,Fatih KaragÃ¼mrÃ¼k,2.5,3.1,2.6,0.47619047619047616
+31,2024-04-03,FenerbahÃ§e,4â2,Adana Demirspor,Arda KardeÅler,0,0,2024-04-03,"Apr 3, 2024, 20:30",FenerbahÃ§e,Adana Demirspor,1.3,6.0,9.0,0.5714285714285714
+31,2024-04-03,Kayserispor,0â2,KasÄ±mpaÅa,Ãmer Faruk Turtay,0,1,2024-04-03,"Apr 3, 2024, 20:30",Kayserispor,KasÄ±mpaÅa,2.15,3.7,3.1,1.0
+31,2024-04-03,Konyaspor,1â3,Trabzonspor,Atilla KaraoÄlan,1,0,2024-04-03,"Apr 3, 2024, 20:30",Konyaspor,Trabzonspor,3.5,3.4,2.1,0.7213114754098361
+31,2024-04-04,Samsunspor,0â0,Pendikspor,Bahattin ÅimÅek,0,0,2024-04-04,"Apr 4, 2024, 20:30",Samsunspor,Pendikspor,1.84,3.7,3.75,0.7352941176470589
+32,2024-04-12,Trabzonspor,0â1,Sivasspor,Umit ÃztÃ¼rk,0,0,2024-04-12,"Apr 12, 2024, 20:00",Trabzonspor,Sivasspor,1.55,3.75,5.5,0.8163265306122449
+32,2024-04-13,KasÄ±mpaÅa,0â2,Konyaspor,Zorbay KÃ¼Ã§Ã¼k,1,0,2024-04-13,"Apr 13, 2024, 13:30",KasÄ±mpaÅa,Konyaspor,2.04,3.35,3.25,0.7857142857142857
+32,2024-04-13,Adana Demirspor,0â0,Kayserispor,Mehmet TÃ¼rkmen,0,0,2024-04-13,"Apr 13, 2024, 19:00",Adana Demirspor,Kayserispor,1.95,3.65,3.4,0.5925925925925926
+32,2024-04-13,BeÅiktaÅ,1â1,Samsunspor,DirenÃ§ TonusluoÄlu,0,0,2024-04-13,"Apr 13, 2024, 19:00",BeÅiktaÅ,Samsunspor,1.79,3.65,4.05,0.8148148148148148
+32,2024-04-14,Hatayspor,0â3,Ä°stanbulspor,Mert GÃ¼zenge,0,0,2024-04-14,"Apr 14, 2024, 16:00",Hatayspor,Ä°stanbulspor,1.46,4.4,6.4,0.2608695652173913
+32,2024-04-14,Rizespor,3â0,Antalyaspor,Emre KargÄ±n,0,0,2024-04-14,"Apr 14, 2024, 16:00",Rizespor,Antalyaspor,2.23,3.4,3.05,0.5454545454545454
+32,2024-04-14,Fatih KaragÃ¼mrÃ¼k,1â2,FenerbahÃ§e,Tugay Kaan NumanoÄlu,1,2,2024-04-14,"Apr 14, 2024, 19:00",Fatih KaragÃ¼mrÃ¼k,FenerbahÃ§e,5.88,4.52,1.52,1.03125
+32,2024-04-15,Alanyaspor,0â4,Galatasaray,Cihan AydÄ±n,0,1,2024-04-15,"Apr 15, 2024, 20:00",Alanyaspor,Galatasaray,5.5,4.5,1.44,0.6875
+33,2024-04-19,BeÅiktaÅ,2â0,AnkaragÃ¼cÃ¼,Bahattin ÅimÅek,0,0,2024-04-19,"Apr 19, 2024, 20:00",BeÅiktaÅ,AnkaragÃ¼cÃ¼,1.67,3.6,4.2,0.7352941176470589
+33,2024-04-20,Ä°stanbulspor,1â2,Fatih KaragÃ¼mrÃ¼k,Burak Åeker,1,0,2024-04-20,"Apr 20, 2024, 13:30",Ä°stanbulspor,Fatih KaragÃ¼mrÃ¼k,4.7,3.8,1.68,1.2857142857142856
+33,2024-04-20,Konyaspor,0â2,Alanyaspor,OÄuzhan Ãakir,0,0,2024-04-20,"Apr 20, 2024, 16:00",Konyaspor,Alanyaspor,2.3,3.4,2.95,0.72
+33,2024-04-20,Samsunspor,1â1,Adana Demirspor,Murat ErdoÄan,0,0,2024-04-20,"Apr 20, 2024, 19:00",Samsunspor,Adana Demirspor,2.1,3.25,3.2,0.5
+33,2024-04-20,Kayserispor,1â2,Trabzonspor,ÃaÄdaÅ Altay,0,0,2024-04-20,"Apr 20, 2024, 19:00",Kayserispor,Trabzonspor,3.0,3.5,2.1,0.7222222222222222
+33,2024-04-21,Galatasaray,4â1,Pendikspor,DirenÃ§ TonusluoÄlu,1,0,2024-04-21,"Apr 21, 2024, 19:00",Galatasaray,Pendikspor,1.2,7.0,11.0,0.8148148148148148
+33,2024-04-21,Antalyaspor,2â1,Hatayspor,Abdulkadir Bitigen,0,0,2024-04-21,"Apr 21, 2024, 19:00",Antalyaspor,Hatayspor,1.85,3.6,4.0,0.7297297297297298
+33,2024-04-22,Sivasspor,2â2,FenerbahÃ§e,Cihan AydÄ±n,1,0,2024-04-22,"Apr 22, 2024, 20:00",Sivasspor,FenerbahÃ§e,5.75,4.62,1.51,0.6875
+34,2024-04-26,Adana Demirspor,0â3,Galatasaray,Bahattin ÅimÅek,0,0,2024-04-26,"Apr 26, 2024, 20:00",Adana Demirspor,Galatasaray,5.0,4.5,1.5,0.7352941176470589
+34,2024-04-27,Sivasspor,1â0,Konyaspor,Murat ErdoÄan,0,0,2024-04-27,"Apr 27, 2024, 16:00",Sivasspor,Konyaspor,2.3,3.1,3.0,0.5
+34,2024-04-27,KasÄ±mpaÅa,1â0,Samsunspor,Halil Umut Meler,0,0,2024-04-27,"Apr 27, 2024, 16:00",KasÄ±mpaÅa,Samsunspor,2.3,3.4,2.75,1.0909090909090908
+34,2024-04-27,FenerbahÃ§e,2â1,BeÅiktaÅ,Volkan Bayarslan,0,1,2024-04-27,"Apr 27, 2024, 19:00",FenerbahÃ§e,BeÅiktaÅ,1.2,9.02,5.97,0.38636363636363635
+34,2024-04-28,Alanyaspor,6â0,Ä°stanbulspor,Muhammetali MetoÄlu,0,0,2024-04-28,"Apr 28, 2024, 16:00",Alanyaspor,Ä°stanbulspor,1.35,4.62,6.9,0.6000000000000001
+34,2024-04-28,Pendikspor,1â2,Kayserispor,Zorbay KÃ¼Ã§Ã¼k,0,1,2024-04-28,"Apr 28, 2024, 16:00",Pendikspor,Kayserispor,2.03,3.45,3.15,0.7857142857142857
+34,2024-04-28,Rizespor,2â2,AnkaragÃ¼cÃ¼,Turgut Doman,0,0,2024-04-28,"Apr 28, 2024, 19:00",Rizespor,AnkaragÃ¼cÃ¼,2.07,3.09,3.1,0.47619047619047616
+34,2024-04-29,Fatih KaragÃ¼mrÃ¼k,4â1,Antalyaspor,Kadir SaÄlam,0,1,2024-04-29,"Apr 29, 2024, 20:00",Fatih KaragÃ¼mrÃ¼k,Antalyaspor,1.71,4.06,3.6,0.9215686274509804
+35,2024-05-03,BeÅiktaÅ,3â2,Rizespor,Ali Åansalan,0,0,2024-05-03,"May 3, 2024, 20:00",BeÅiktaÅ,Rizespor,1.75,3.6,3.9,0.6575342465753424
+35,2024-05-03,AnkaragÃ¼cÃ¼,1â1,Alanyaspor,Emre KargÄ±n,1,1,2024-05-03,"May 3, 2024, 20:00",AnkaragÃ¼cÃ¼,Alanyaspor,2.11,3.2,3.2,0.5454545454545454
+35,2024-05-04,Ä°stanbulspor,0â1,Adana Demirspor,Abdullah TaÅkÄ±nsoy,0,0,2024-05-04,"May 4, 2024, 16:00",Ä°stanbulspor,Adana Demirspor,4.33,3.7,1.61,0.5
+35,2024-05-04,Kayserispor,2â2,Fatih KaragÃ¼mrÃ¼k,Atilla KaraoÄlan,0,1,2024-05-04,"May 4, 2024, 19:00",Kayserispor,Fatih KaragÃ¼mrÃ¼k,2.32,3.2,2.85,0.7213114754098361
+35,2024-05-04,Samsunspor,3â1,Trabzonspor,Abdulkadir Bitigen,1,0,2024-05-04,"May 4, 2024, 19:00",Samsunspor,Trabzonspor,2.65,3.2,2.45,0.7297297297297298
+35,2024-05-05,Galatasaray,6â1,Sivasspor,Arda KardeÅler,0,0,2024-05-05,"May 5, 2024, 19:00",Galatasaray,Sivasspor,1.17,7.4,11.0,0.5714285714285714
+35,2024-05-06,Antalyaspor,1â2,Pendikspor,Tugay Kaan NumanoÄlu,1,1,2024-05-06,"May 6, 2024, 20:00",Antalyaspor,Pendikspor,2.2,3.6,2.9,1.03125
+35,2024-05-06,Konyaspor,0â0,FenerbahÃ§e,Bahattin ÅimÅek,0,0,2024-05-06,"May 6, 2024, 20:00",Konyaspor,FenerbahÃ§e,7.5,4.75,1.38,0.7352941176470589
+36,2024-05-12,Alanyaspor,1â1,BeÅiktaÅ,Tugay Kaan NumanoÄlu,0,0,2024-05-12,"May 12, 2024, 19:00",Alanyaspor,BeÅiktaÅ,2.99,3.52,2.3,1.03125
+36,2024-05-12,Trabzonspor,3â0,Ä°stanbulspor,Emre KargÄ±n,0,0,2024-05-12,"May 12, 2024, 19:00",Trabzonspor,Ä°stanbulspor,1.14,8.7,17.0,0.5454545454545454
+36,2024-05-12,Konyaspor,3â0,Samsunspor,Kadir SaÄlam,0,0,2024-05-12,"May 12, 2024, 19:00",Konyaspor,Samsunspor,2.6,3.1,2.9,0.9215686274509804
+36,2024-05-12,FenerbahÃ§e,3â0,Kayserispor,DirenÃ§ TonusluoÄlu,0,0,2024-05-12,"May 12, 2024, 19:00",FenerbahÃ§e,Kayserispor,1.14,9.3,15.0,0.8148148148148148
+36,2024-05-12,Pendikspor,2â1,Rizespor,Atilla KaraoÄlan,0,0,2024-05-12,"May 12, 2024, 19:00",Pendikspor,Rizespor,2.52,3.66,2.62,0.7213114754098361
+36,2024-05-12,KasÄ±mpaÅa,3â1,Antalyaspor,OÄuzhan Ãakir,1,1,2024-05-12,"May 12, 2024, 19:00",KasÄ±mpaÅa,Antalyaspor,2.13,3.58,3.28,0.72
+36,2024-05-12,Hatayspor,2â1,AnkaragÃ¼cÃ¼,Ali Åansalan,0,0,2024-05-12,"May 12, 2024, 19:00",Hatayspor,AnkaragÃ¼cÃ¼,2.59,3.24,2.79,0.6575342465753424
+36,2024-05-12,Fatih KaragÃ¼mrÃ¼k,2â3,Galatasaray,Volkan Bayarslan,0,0,2024-05-12,"May 12, 2024, 19:00",Fatih KaragÃ¼mrÃ¼k,Galatasaray,6.05,4.68,1.48,0.38636363636363635
+37,2024-05-17,Ä°stanbulspor,1â3,Sivasspor,Ãmer Faruk Turtay,0,1,2024-05-17,"May 17, 2024, 17:00",Ä°stanbulspor,Sivasspor,3.25,3.55,1.96,1.0
+37,2024-05-17,Antalyaspor,2â1,Adana Demirspor,Turgut Doman,0,0,2024-05-17,"May 17, 2024, 20:00",Antalyaspor,Adana Demirspor,2.05,3.3,3.0,0.47619047619047616
+37,2024-05-18,BeÅiktaÅ,2â2,Hatayspor,Cihan AydÄ±n,1,0,2024-05-18,"May 18, 2024, 19:00",BeÅiktaÅ,Hatayspor,1.52,4.3,5.6,0.6875
+37,2024-05-18,Kayserispor,2â2,Konyaspor,Halil Umut Meler,1,1,2024-05-18,"May 18, 2024, 19:00",Kayserispor,Konyaspor,2.6,2.65,3.25,1.0909090909090908
+37,2024-05-18,AnkaragÃ¼cÃ¼,0â0,Pendikspor,Volkan Bayarslan,0,0,2024-05-18,"May 18, 2024, 19:00",AnkaragÃ¼cÃ¼,Pendikspor,2.16,3.55,3.05,0.38636363636363635
+37,2024-05-18,Samsunspor,1â1,Alanyaspor,Mert GÃ¼zenge,0,0,2024-05-18,"May 18, 2024, 19:00",Samsunspor,Alanyaspor,2.11,3.4,3.3,0.2608695652173913
+37,2024-05-18,Rizespor,0â0,KasÄ±mpaÅa,Burak Pakkan,0,0,2024-05-18,"May 18, 2024, 19:00",Rizespor,KasÄ±mpaÅa,2.21,3.55,2.95,1.0
+37,2024-05-19,Galatasaray,0â1,FenerbahÃ§e,Arda KardeÅler,0,1,2024-05-19,"May 19, 2024, 19:00",Galatasaray,FenerbahÃ§e,2.15,3.7,3.0,0.5714285714285714
+38,2024-05-24,Alanyaspor,1â1,Antalyaspor,Halil Umut Meler,0,0,2024-05-24,"May 24, 2024, 20:00",Alanyaspor,Antalyaspor,1.6,4.1,4.3,1.0909090909090908
+38,2024-05-25,Fatih KaragÃ¼mrÃ¼k,3â1,Samsunspor,Mehmet TÃ¼rkmen,0,1,2024-05-25,"May 25, 2024, 16:00",Fatih KaragÃ¼mrÃ¼k,Samsunspor,1.97,3.26,3.16,0.5925925925925926
+38,2024-05-25,Sivasspor,2â1,Kayserispor,Murat ErdoÄan,0,0,2024-05-25,"May 25, 2024, 19:00",Sivasspor,Kayserispor,2.05,3.25,3.4,0.5
+38,2024-05-26,Hatayspor,2â0,Rizespor,Abdulkadir Bitigen,0,0,2024-05-26,"May 26, 2024, 19:00",Hatayspor,Rizespor,1.46,4.8,5.82,0.7297297297297298
+38,2024-05-26,Konyaspor,1â3,Galatasaray,Tugay Kaan NumanoÄlu,0,0,2024-05-26,"May 26, 2024, 19:00",Konyaspor,Galatasaray,4.58,2.25,2.06,1.03125
+38,2024-05-26,FenerbahÃ§e,6â0,Ä°stanbulspor,Volkan Bayarslan,1,0,2024-05-26,"May 26, 2024, 19:00",FenerbahÃ§e,Ä°stanbulspor,1.05,12.71,16.62,0.38636363636363635
+38,2024-05-26,KasÄ±mpaÅa,2â1,BeÅiktaÅ,Bahattin ÅimÅek,0,0,2024-05-26,"May 26, 2024, 19:00",KasÄ±mpaÅa,BeÅiktaÅ,2.56,4.05,2.34,0.7352941176470589
+38,2024-05-26,Trabzonspor,4â2,AnkaragÃ¼cÃ¼,Atilla KaraoÄlan,2,0,2024-05-26,"May 26, 2024, 19:00",Trabzonspor,AnkaragÃ¼cÃ¼,2.83,3.75,2.25,0.7213114754098361
+1,2024-08-09,Galatasaray,2â1,Hatayspor,Turgut Doman,1,0,2024-08-09,"Aug 9, 2024, 21:00",Galatasaray,Hatayspor,1.22,6.63,9.93,0.47619047619047616
+1,2024-08-10,KasÄ±mpaÅa,2â3,Konyaspor,Muhammetali MetoÄlu,0,0,2024-08-10,"Aug 10, 2024, 19:15",KasÄ±mpaÅa,Konyaspor,2.12,3.38,3.41,0.6000000000000001
+1,2024-08-10,Antalyaspor,0â0,GÃ¶ztepe,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-08-10,"Aug 10, 2024, 21:45",Antalyaspor,GÃ¶ztepe,1.85,3.79,3.83,0.7857142857142857
+1,2024-08-10,FenerbahÃ§e,1â0,Adana Demirspor,Atilla KaraoÄlan,0,0,2024-08-10,"Aug 10, 2024, 21:45",FenerbahÃ§e,Adana Demirspor,1.1,10.55,16.31,0.7213114754098361
+1,2024-08-11,Sivasspor,0â0,Trabzonspor,Cihan AydÄ±n,0,0,2024-08-11,"Aug 11, 2024, 19:15",Sivasspor,Trabzonspor,2.94,3.48,2.31,0.6875
+1,2024-08-11,Samsunspor,0â2,BeÅiktaÅ,Ali Åansalan,0,0,2024-08-11,"Aug 11, 2024, 21:45",Samsunspor,BeÅiktaÅ,3.92,3.73,1.86,0.6575342465753424
+1,2024-08-11,Alanyaspor,1â1,EyÃ¼pspor,OÄuzhan Ãakir,0,0,2024-08-11,"Aug 11, 2024, 21:45",Alanyaspor,EyÃ¼pspor,1.93,3.6,3.77,0.72
+2,2024-08-16,Konyaspor,1â2,Galatasaray,DirenÃ§ TonusluoÄlu,0,0,2024-08-16,"Aug 16, 2024, 21:00",Konyaspor,Galatasaray,6.25,4.4,1.5,0.8148148148148148
+2,2024-08-17,Kayserispor,1â2,Sivasspor,Turgut Doman,0,1,2024-08-17,"Aug 17, 2024, 19:15",Kayserispor,Sivasspor,2.0,3.3,3.2,0.47619047619047616
+2,2024-08-17,Adana Demirspor,1â2,Rizespor,Cihan AydÄ±n,1,0,2024-08-17,"Aug 17, 2024, 21:45",Adana Demirspor,Rizespor,2.05,3.5,2.87,0.6875
+2,2024-08-17,GÃ¶ztepe,2â2,FenerbahÃ§e,Kadir SaÄlam,1,0,2024-08-17,"Aug 17, 2024, 21:45",GÃ¶ztepe,FenerbahÃ§e,8.35,1.77,2.34,0.9215686274509804
+2,2024-08-18,BeÅiktaÅ,4â2,Antalyaspor,Mehmet TÃ¼rkmen,0,1,2024-08-18,"Aug 18, 2024, 21:45",BeÅiktaÅ,Antalyaspor,1.6,4.0,4.86,0.5925925925925926
+2,2024-08-19,Hatayspor,1â1,KasÄ±mpaÅa,OÄuzhan Ãakir,0,0,2024-08-19,"Aug 19, 2024, 21:00",Hatayspor,KasÄ±mpaÅa,2.35,3.5,2.8,0.72
+2,2024-08-19,EyÃ¼pspor,4â1,BB Bodrumspor,Halil Umut Meler,0,0,2024-08-19,"Aug 19, 2024, 21:00",EyÃ¼pspor,BB Bodrumspor,2.0,3.3,3.75,1.0909090909090908
+3,2024-08-23,Alanyaspor,1â1,GÃ¶ztepe,Muhammetali MetoÄlu,0,0,2024-08-23,"Aug 23, 2024, 21:00",Alanyaspor,GÃ¶ztepe,1.99,3.62,3.58,0.6000000000000001
+3,2024-08-24,Sivasspor,0â1,EyÃ¼pspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-08-24,"Aug 24, 2024, 19:15",Sivasspor,EyÃ¼pspor,2.26,3.35,2.96,0.7857142857142857
+3,2024-08-24,BB Bodrumspor,3â1,Konyaspor,ÃaÄdaÅ Altay,1,0,2024-08-24,"Aug 24, 2024, 21:45",BB Bodrumspor,Konyaspor,2.77,3.3,2.41,0.7222222222222222
+3,2024-08-25,KasÄ±mpaÅa,2â2,Adana Demirspor,Abdullah TaÅkÄ±nsoy,0,0,2024-08-25,"Aug 25, 2024, 19:15",KasÄ±mpaÅa,Adana Demirspor,1.73,4.1,4.0,0.5
+3,2024-08-25,Rizespor,0â5,FenerbahÃ§e,Turgut Doman,0,0,2024-08-25,"Aug 25, 2024, 21:45",Rizespor,FenerbahÃ§e,4.6,4.2,1.63,0.47619047619047616
+3,2024-08-25,Antalyaspor,3â2,Hatayspor,Atilla KaraoÄlan,2,1,2024-08-25,"Aug 25, 2024, 21:45",Antalyaspor,Hatayspor,2.25,3.4,2.95,0.7213114754098361
+4,2024-08-30,FenerbahÃ§e,3â0,Alanyaspor,Mehmet TÃ¼rkmen,0,0,2024-08-30,"Aug 30, 2024, 21:00",FenerbahÃ§e,Alanyaspor,1.3,5.75,9.5,0.5925925925925926
+4,2024-08-31,Rizespor,0â1,KasÄ±mpaÅa,Ali Åansalan,0,0,2024-08-31,"Aug 31, 2024, 19:15",Rizespor,KasÄ±mpaÅa,2.15,3.3,3.2,0.6575342465753424
+4,2024-08-31,Konyaspor,0â0,Kayserispor,Emre KargÄ±n,0,0,2024-08-31,"Aug 31, 2024, 19:15",Konyaspor,Kayserispor,1.8,3.5,4.0,0.5454545454545454
+4,2024-08-31,Adana Demirspor,1â5,Galatasaray,Kadir SaÄlam,1,1,2024-08-31,"Aug 31, 2024, 21:45",Adana Demirspor,Galatasaray,6.5,5.25,1.33,0.9215686274509804
+4,2024-08-31,GÃ¶ztepe,2â0,BB Bodrumspor,Abdullah TaÅkÄ±nsoy,0,0,2024-08-31,"Aug 31, 2024, 21:45",GÃ¶ztepe,BB Bodrumspor,2.05,3.1,3.5,0.5
+4,2024-09-01,EyÃ¼pspor,0â0,Trabzonspor,Atilla KaraoÄlan,0,0,2024-09-01,"Sep 1, 2024, 19:15",EyÃ¼pspor,Trabzonspor,2.3,3.6,2.8,0.7213114754098361
+4,2024-09-01,Hatayspor,0â3,Samsunspor,Cihan AydÄ±n,0,0,2024-09-01,"Sep 1, 2024, 21:45",Hatayspor,Samsunspor,2.6,3.3,2.6,0.6875
+4,2024-09-01,BeÅiktaÅ,2â0,Sivasspor,DirenÃ§ TonusluoÄlu,1,0,2024-09-01,"Sep 1, 2024, 21:45",BeÅiktaÅ,Sivasspor,1.5,4.4,6.0,0.8148148148148148
+5,2024-09-14,Samsunspor,0â1,Konyaspor,OÄuzhan Ãakir,0,0,2024-09-14,"Sep 14, 2024, 17:00",Samsunspor,Konyaspor,1.83,3.5,4.5,0.72
+5,2024-09-14,Galatasaray,5â0,Rizespor,Arda KardeÅler,0,0,2024-09-14,"Sep 14, 2024, 20:00",Galatasaray,Rizespor,1.2,6.5,10.0,0.5714285714285714
+5,2024-09-15,KasÄ±mpaÅa,0â2,FenerbahÃ§e,Halil Umut Meler,1,0,2024-09-15,"Sep 15, 2024, 17:00",KasÄ±mpaÅa,FenerbahÃ§e,5.5,4.3,1.5,1.0909090909090908
+5,2024-09-15,Kayserispor,2â2,EyÃ¼pspor,Ãmer Tolga GÃ¼ldibi,0,0,2024-09-15,"Sep 15, 2024, 17:00",Kayserispor,EyÃ¼pspor,2.56,3.3,2.58,0.0
+5,2024-09-15,Trabzonspor,1â1,BeÅiktaÅ,Ali Åansalan,0,1,2024-09-15,"Sep 15, 2024, 20:00",Trabzonspor,BeÅiktaÅ,3.34,3.45,2.1,0.6575342465753424
+5,2024-09-15,Alanyaspor,0â0,Hatayspor,Ozan ErgÃ¼n,0,0,2024-09-15,"Sep 15, 2024, 20:00",Alanyaspor,Hatayspor,1.76,3.75,4.34,0.5
+5,2024-09-16,Antalyaspor,2â1,Adana Demirspor,Yasin Kol,0,0,2024-09-16,"Sep 16, 2024, 20:00",Antalyaspor,Adana Demirspor,1.87,3.31,3.4,1.2
+3,2024-09-19,Trabzonspor,2â2,Kayserispor,Mehmet TÃ¼rkmen,0,1,2024-09-19,"Sep 19, 2024, 20:00",Trabzonspor,Kayserispor,1.57,4.1,4.6,0.5925925925925926
+6,2024-09-20,Hatayspor,0â1,BB Bodrumspor,Umit ÃztÃ¼rk,0,0,2024-09-20,"Sep 20, 2024, 20:00",Hatayspor,BB Bodrumspor,2.38,3.35,2.8,0.8163265306122449
+6,2024-09-21,Konyaspor,0â0,Sivasspor,Yasin Kol,0,0,2024-09-21,"Sep 21, 2024, 17:00",Konyaspor,Sivasspor,2.1,3.25,3.5,1.2
+6,2024-09-21,FenerbahÃ§e,1â3,Galatasaray,Atilla KaraoÄlan,1,0,2024-09-21,"Sep 21, 2024, 20:00",FenerbahÃ§e,Galatasaray,2.1,3.4,3.1,0.7213114754098361
+6,2024-09-22,Rizespor,0â1,Samsunspor,Kadir SaÄlam,0,0,2024-09-22,"Sep 22, 2024, 17:00",Rizespor,Samsunspor,2.4,3.4,2.75,0.9215686274509804
+6,2024-09-22,KasÄ±mpaÅa,0â0,Antalyaspor,Burak Pakkan,0,1,2024-09-22,"Sep 22, 2024, 17:00",KasÄ±mpaÅa,Antalyaspor,1.68,4.0,4.33,1.0
+6,2024-09-22,BeÅiktaÅ,2â1,EyÃ¼pspor,Zorbay KÃ¼Ã§Ã¼k,2,0,2024-09-22,"Sep 22, 2024, 20:00",BeÅiktaÅ,EyÃ¼pspor,1.44,4.6,6.1,0.7857142857142857
+6,2024-09-22,Adana Demirspor,0â2,Alanyaspor,Emre KargÄ±n,0,0,2024-09-22,"Sep 22, 2024, 20:00",Adana Demirspor,Alanyaspor,2.75,3.55,2.3,0.5454545454545454
+6,2024-09-23,GÃ¶ztepe,3â0,Kayserispor,Ozan ErgÃ¼n,0,0,2024-09-23,"Sep 23, 2024, 20:00",GÃ¶ztepe,Kayserispor,1.9,3.5,3.75,0.5
+7,2024-09-28,Samsunspor,4â3,GÃ¶ztepe,Mehmet TÃ¼rkmen,0,0,2024-09-28,"Sep 28, 2024, 16:00",Samsunspor,GÃ¶ztepe,2.0,3.4,3.82,0.5925925925925926
+7,2024-09-28,Alanyaspor,1â0,Rizespor,Abdullah TaÅkÄ±nsoy,0,0,2024-09-28,"Sep 28, 2024, 19:00",Alanyaspor,Rizespor,2.04,3.2,3.35,0.5
+7,2024-09-28,Galatasaray,3â3,KasÄ±mpaÅa,OÄuzhan Ãakir,1,0,2024-09-28,"Sep 28, 2024, 19:00",Galatasaray,KasÄ±mpaÅa,1.26,5.75,8.0,0.72
+7,2024-09-29,Trabzonspor,3â2,Konyaspor,Halil Umut Meler,1,0,2024-09-29,"Sep 29, 2024, 16:00",Trabzonspor,Konyaspor,1.8,3.3,3.75,1.0909090909090908
+7,2024-09-29,Antalyaspor,0â2,FenerbahÃ§e,Cihan AydÄ±n,0,0,2024-09-29,"Sep 29, 2024, 19:00",Antalyaspor,FenerbahÃ§e,6.75,4.6,1.37,0.6875
+7,2024-09-29,BB Bodrumspor,3â1,Adana Demirspor,Turgut Doman,0,0,2024-09-29,"Sep 29, 2024, 19:00",BB Bodrumspor,Adana Demirspor,1.78,3.55,3.9,0.47619047619047616
+7,2024-09-30,Kayserispor,0â3,BeÅiktaÅ,Atilla KaraoÄlan,1,0,2024-09-30,"Sep 30, 2024, 20:00",Kayserispor,BeÅiktaÅ,4.33,4.0,1.68,0.7213114754098361
+8,2024-10-04,Rizespor,2â1,Antalyaspor,Burak Pakkan,0,0,2024-10-04,"Oct 4, 2024, 20:00",Rizespor,Antalyaspor,1.92,3.7,3.5,1.0
+8,2024-10-05,KasÄ±mpaÅa,0â0,BB Bodrumspor,DirenÃ§ TonusluoÄlu,0,1,2024-10-05,"Oct 5, 2024, 13:30",KasÄ±mpaÅa,BB Bodrumspor,1.91,3.6,3.7,0.8148148148148148
+8,2024-10-05,GÃ¶ztepe,3â2,Sivasspor,Ali Åansalan,0,0,2024-10-05,"Oct 5, 2024, 16:00",GÃ¶ztepe,Sivasspor,1.75,3.7,4.4,0.6575342465753424
+8,2024-10-05,Hatayspor,1â1,Trabzonspor,Kadir SaÄlam,0,0,2024-10-05,"Oct 5, 2024, 19:00",Hatayspor,Trabzonspor,3.42,3.22,2.19,0.9215686274509804
+8,2024-10-06,Konyaspor,2â1,EyÃ¼pspor,Erkan Ãzdamar,0,0,2024-10-06,"Oct 6, 2024, 13:30",Konyaspor,EyÃ¼pspor,2.15,3.25,3.3,1.3928571428571428
+8,2024-10-06,Adana Demirspor,1â3,Samsunspor,Alper Akarsu,1,0,2024-10-06,"Oct 6, 2024, 16:00",Adana Demirspor,Samsunspor,3.8,3.5,1.91,0.26666666666666666
+8,2024-10-06,Galatasaray,1â0,Alanyaspor,Mehmet TÃ¼rkmen,0,0,2024-10-06,"Oct 6, 2024, 19:00",Galatasaray,Alanyaspor,1.32,5.1,7.0,0.5925925925925926
+9,2024-10-19,Antalyaspor,0â3,Galatasaray,Ali Åansalan,0,0,2024-10-19,"Oct 19, 2024, 19:00",Antalyaspor,Galatasaray,5.5,4.5,1.5,0.6575342465753424
+9,2024-10-19,EyÃ¼pspor,1â0,GÃ¶ztepe,Turgut Doman,0,0,2024-10-19,"Oct 19, 2024, 19:00",EyÃ¼pspor,GÃ¶ztepe,2.05,3.45,3.45,0.47619047619047616
+9,2024-10-20,Sivasspor,3â2,Hatayspor,Mehmet TÃ¼rkmen,1,0,2024-10-20,"Oct 20, 2024, 13:30",Sivasspor,Hatayspor,2.03,3.48,3.68,0.5925925925925926
+9,2024-10-20,BeÅiktaÅ,2â0,Konyaspor,Kadir SaÄlam,1,0,2024-10-20,"Oct 20, 2024, 16:00",BeÅiktaÅ,Konyaspor,1.42,4.64,7.4,0.9215686274509804
+9,2024-10-20,Samsunspor,2â2,FenerbahÃ§e,Muhammetali MetoÄlu,0,0,2024-10-20,"Oct 20, 2024, 19:00",Samsunspor,FenerbahÃ§e,4.0,3.4,1.73,0.6000000000000001
+9,2024-10-20,Alanyaspor,1â2,KasÄ±mpaÅa,Cihan AydÄ±n,0,0,2024-10-20,"Oct 20, 2024, 19:00",Alanyaspor,KasÄ±mpaÅa,2.05,3.4,3.0,0.6875
+9,2024-10-21,BB Bodrumspor,0â1,Rizespor,OÄuzhan Ãakir,0,0,2024-10-21,"Oct 21, 2024, 20:00",BB Bodrumspor,Rizespor,2.32,3.15,3.0,0.72
+10,2024-10-25,Adana Demirspor,2â4,Sivasspor,Atilla KaraoÄlan,0,0,2024-10-25,"Oct 25, 2024, 20:00",Adana Demirspor,Sivasspor,3.11,3.57,2.17,0.7213114754098361
+10,2024-10-26,Hatayspor,0â1,Kayserispor,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-10-26,"Oct 26, 2024, 13:30",Hatayspor,Kayserispor,2.05,3.5,3.4,0.7857142857142857
+10,2024-10-26,KasÄ±mpaÅa,1â4,Samsunspor,ÃaÄdaÅ Altay,0,0,2024-10-26,"Oct 26, 2024, 16:00",KasÄ±mpaÅa,Samsunspor,2.55,3.3,2.6,0.7222222222222222
+10,2024-10-26,GÃ¶ztepe,2â1,Trabzonspor,Cihan AydÄ±n,1,1,2024-10-26,"Oct 26, 2024, 19:00",GÃ¶ztepe,Trabzonspor,2.43,3.23,2.84,0.6875
+10,2024-10-27,Alanyaspor,1â2,Antalyaspor,Yasin Kol,0,0,2024-10-27,"Oct 27, 2024, 16:00",Alanyaspor,Antalyaspor,1.88,3.68,3.98,1.2
+10,2024-10-27,FenerbahÃ§e,2â0,BB Bodrumspor,Mehmet TÃ¼rkmen,0,0,2024-10-27,"Oct 27, 2024, 19:00",FenerbahÃ§e,BB Bodrumspor,1.23,6.3,12.37,0.5925925925925926
+10,2024-10-28,Galatasaray,2â1,BeÅiktaÅ,Arda KardeÅler,0,0,2024-10-28,"Oct 28, 2024, 20:00",Galatasaray,BeÅiktaÅ,2.38,2.11,4.63,0.5714285714285714
+11,2024-11-02,Sivasspor,2â1,Rizespor,Cihan AydÄ±n,0,1,2024-11-02,"Nov 2, 2024, 13:30",Sivasspor,Rizespor,2.44,3.2,2.79,0.6875
+11,2024-11-02,Kayserispor,0â0,Adana Demirspor,Muhammetali MetoÄlu,0,0,2024-11-02,"Nov 2, 2024, 16:00",Kayserispor,Adana Demirspor,1.77,3.9,3.85,0.6000000000000001
+11,2024-11-02,BeÅiktaÅ,1â3,KasÄ±mpaÅa,Zorbay KÃ¼Ã§Ã¼k,0,1,2024-11-02,"Nov 2, 2024, 19:00",BeÅiktaÅ,KasÄ±mpaÅa,1.61,4.15,4.62,0.7857142857142857
+11,2024-11-03,EyÃ¼pspor,2â0,Hatayspor,Yasin Kol,0,0,2024-11-03,"Nov 3, 2024, 16:00",EyÃ¼pspor,Hatayspor,1.72,3.7,4.5,1.2
+11,2024-11-03,BB Bodrumspor,0â0,Alanyaspor,Ali Åansalan,0,1,2024-11-03,"Nov 3, 2024, 16:00",BB Bodrumspor,Alanyaspor,2.35,3.25,2.9,0.6575342465753424
+11,2024-11-03,Trabzonspor,2â3,FenerbahÃ§e,OÄuzhan Ãakir,2,0,2024-11-03,"Nov 3, 2024, 19:00",Trabzonspor,FenerbahÃ§e,4.32,3.99,1.84,0.72
+11,2024-11-04,Samsunspor,2â0,Antalyaspor,DirenÃ§ TonusluoÄlu,0,0,2024-11-04,"Nov 4, 2024, 20:00",Samsunspor,Antalyaspor,1.63,3.88,5.13,0.8148148148148148
+12,2024-11-08,KasÄ±mpaÅa,1â2,Kayserispor,Mehmet TÃ¼rkmen,1,1,2024-11-08,"Nov 8, 2024, 20:00",KasÄ±mpaÅa,Kayserispor,2.34,3.69,2.44,0.5925925925925926
+12,2024-11-09,Antalyaspor,3â2,BB Bodrumspor,Alper Akarsu,1,0,2024-11-09,"Nov 9, 2024, 13:30",Antalyaspor,BB Bodrumspor,2.4,3.0,3.0,0.26666666666666666
+12,2024-11-09,Adana Demirspor,0â1,EyÃ¼pspor,DirenÃ§ TonusluoÄlu,0,0,2024-11-09,"Nov 9, 2024, 19:00",Adana Demirspor,EyÃ¼pspor,3.35,3.85,2.14,0.8148148148148148
+12,2024-11-09,Rizespor,3â1,Trabzonspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-11-09,"Nov 9, 2024, 19:00",Rizespor,Trabzonspor,2.75,3.66,2.57,0.7857142857142857
+12,2024-11-10,GÃ¶ztepe,2â0,Konyaspor,Muhammetali MetoÄlu,1,0,2024-11-10,"Nov 10, 2024, 13:30",GÃ¶ztepe,Konyaspor,1.32,5.06,6.45,0.6000000000000001
+12,2024-11-10,Galatasaray,3â2,Samsunspor,Halil Umut Meler,2,0,2024-11-10,"Nov 10, 2024, 16:00",Galatasaray,Samsunspor,1.44,4.99,6.51,1.0909090909090908
+12,2024-11-10,FenerbahÃ§e,4â0,Sivasspor,Kadir SaÄlam,1,0,2024-11-10,"Nov 10, 2024, 19:00",FenerbahÃ§e,Sivasspor,1.2,7.0,11.0,0.9215686274509804
+13,2024-11-23,EyÃ¼pspor,1â2,Rizespor,Ali Åansalan,0,1,2024-11-23,"Nov 23, 2024, 13:30",EyÃ¼pspor,Rizespor,1.91,3.4,3.4,0.6575342465753424
+13,2024-11-23,Kayserispor,2â6,FenerbahÃ§e,DirenÃ§ TonusluoÄlu,1,0,2024-11-23,"Nov 23, 2024, 16:00",Kayserispor,FenerbahÃ§e,2.86,3.26,2.21,0.8148148148148148
+13,2024-11-23,BB Bodrumspor,0â1,Galatasaray,Muhammetali MetoÄlu,0,1,2024-11-23,"Nov 23, 2024, 19:00",BB Bodrumspor,Galatasaray,7.11,2.19,1.94,0.6000000000000001
+13,2024-11-24,Sivasspor,0â0,KasÄ±mpaÅa,Burak Pakkan,0,0,2024-11-24,"Nov 24, 2024, 13:30",Sivasspor,KasÄ±mpaÅa,2.61,3.45,2.46,1.0
+13,2024-11-24,Konyaspor,1â1,Hatayspor,OÄuzhan Ãakir,0,0,2024-11-24,"Nov 24, 2024, 16:00",Konyaspor,Hatayspor,1.98,3.35,3.6,0.72
+13,2024-11-24,Samsunspor,1â1,Alanyaspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-11-24,"Nov 24, 2024, 16:00",Samsunspor,Alanyaspor,1.74,3.6,4.4,0.7857142857142857
+13,2024-11-24,BeÅiktaÅ,2â4,GÃ¶ztepe,Alper Akarsu,0,0,2024-11-24,"Nov 24, 2024, 19:00",BeÅiktaÅ,GÃ¶ztepe,1.5,4.02,5.3,0.26666666666666666
+13,2024-11-25,Trabzonspor,5â0,Adana Demirspor,Mehmet TÃ¼rkmen,0,0,2024-11-25,"Nov 25, 2024, 20:00",Trabzonspor,Adana Demirspor,1.4,4.75,6.0,0.5925925925925926
+14,2024-11-29,Antalyaspor,2â1,Sivasspor,Yasin Kol,0,0,2024-11-29,"Nov 29, 2024, 20:00",Antalyaspor,Sivasspor,2.01,3.5,3.4,1.2
+14,2024-11-30,Samsunspor,4â0,BB Bodrumspor,Ozan ErgÃ¼n,0,0,2024-11-30,"Nov 30, 2024, 13:30",Samsunspor,BB Bodrumspor,1.68,3.6,5.0,0.5
+14,2024-11-30,Adana Demirspor,0â1,Konyaspor,Atilla KaraoÄlan,0,0,2024-11-30,"Nov 30, 2024, 16:00",Adana Demirspor,Konyaspor,3.45,3.6,1.99,0.7213114754098361
+14,2024-11-30,Alanyaspor,2â1,Trabzonspor,Burak Pakkan,1,1,2024-11-30,"Nov 30, 2024, 19:00",Alanyaspor,Trabzonspor,2.55,3.3,2.8,1.0
+14,2024-12-01,Rizespor,3â0,Kayserispor,Emre KargÄ±n,0,1,2024-12-01,"Dec 1, 2024, 16:00",Rizespor,Kayserispor,1.8,3.7,4.1,0.5454545454545454
+14,2024-12-01,Galatasaray,2â2,EyÃ¼pspor,OÄuzhan Ãakir,0,0,2024-12-01,"Dec 1, 2024, 19:00",Galatasaray,EyÃ¼pspor,1.25,6.2,9.0,0.72
+14,2024-12-02,Hatayspor,1â1,BeÅiktaÅ,Kadir SaÄlam,0,0,2024-12-02,"Dec 2, 2024, 20:00",Hatayspor,BeÅiktaÅ,4.1,3.7,1.81,0.9215686274509804
+15,2024-12-06,Trabzonspor,2â2,KasÄ±mpaÅa,Zorbay KÃ¼Ã§Ã¼k,2,0,2024-12-06,"Dec 6, 2024, 20:00",Trabzonspor,KasÄ±mpaÅa,2.08,3.6,3.27,0.7857142857142857
+15,2024-12-07,Konyaspor,1â1,Antalyaspor,Halil Umut Meler,1,0,2024-12-07,"Dec 7, 2024, 13:30",Konyaspor,Antalyaspor,2.07,3.33,3.57,1.0909090909090908
+15,2024-12-07,GÃ¶ztepe,3â1,Adana Demirspor,Ali Åansalan,0,1,2024-12-07,"Dec 7, 2024, 16:00",GÃ¶ztepe,Adana Demirspor,1.29,5.21,10.09,0.6575342465753424
+15,2024-12-07,BeÅiktaÅ,1â0,FenerbahÃ§e,Mehmet TÃ¼rkmen,0,1,2024-12-07,"Dec 7, 2024, 19:00",BeÅiktaÅ,FenerbahÃ§e,3.61,3.85,1.9,0.5925925925925926
+15,2024-12-08,EyÃ¼pspor,3â0,Samsunspor,Atilla KaraoÄlan,0,0,2024-12-08,"Dec 8, 2024, 13:30",EyÃ¼pspor,Samsunspor,2.64,3.34,2.59,0.7213114754098361
+15,2024-12-08,Kayserispor,2â0,Alanyaspor,Ozan ErgÃ¼n,0,0,2024-12-08,"Dec 8, 2024, 16:00",Kayserispor,Alanyaspor,2.36,3.43,2.87,0.5
+15,2024-12-08,Sivasspor,2â3,Galatasaray,Turgut Doman,1,1,2024-12-08,"Dec 8, 2024, 16:00",Sivasspor,Galatasaray,7.91,5.21,1.34,0.47619047619047616
+16,2024-12-13,BB Bodrumspor,2â0,Sivasspor,Cihan AydÄ±n,1,1,2024-12-13,"Dec 13, 2024, 20:00",BB Bodrumspor,Sivasspor,2.18,3.26,3.36,0.6875
+16,2024-12-13,KasÄ±mpaÅa,2â0,EyÃ¼pspor,Halil Umut Meler,0,0,2024-12-13,"Dec 13, 2024, 20:00",KasÄ±mpaÅa,EyÃ¼pspor,2.13,3.59,3.17,1.0909090909090908
+16,2024-12-14,Rizespor,1â1,Konyaspor,Alper Akarsu,0,0,2024-12-14,"Dec 14, 2024, 16:00",Rizespor,Konyaspor,2.46,3.64,2.61,0.26666666666666666
+16,2024-12-15,Hatayspor,1â1,GÃ¶ztepe,Atilla KaraoÄlan,1,0,2024-12-15,"Dec 15, 2024, 13:30",Hatayspor,GÃ¶ztepe,3.01,3.45,2.34,0.7213114754098361
+16,2024-12-15,Antalyaspor,2â0,Kayserispor,Ali Åansalan,0,0,2024-12-15,"Dec 15, 2024, 16:00",Antalyaspor,Kayserispor,2.07,3.44,3.44,0.6575342465753424
+16,2024-12-16,Adana Demirspor,2â1,BeÅiktaÅ,OÄuzhan Ãakir,0,1,2024-12-16,"Dec 16, 2024, 19:00",Adana Demirspor,BeÅiktaÅ,7.57,5.19,1.34,0.72
+16,2024-12-16,Galatasaray,4â3,Trabzonspor,Kadir SaÄlam,1,0,2024-12-16,"Dec 16, 2024, 21:00",Galatasaray,Trabzonspor,1.33,5.84,7.48,0.9215686274509804
+17,2024-12-20,EyÃ¼pspor,1â1,FenerbahÃ§e,Emre KargÄ±n,0,0,2024-12-20,"Dec 20, 2024, 20:00",EyÃ¼pspor,FenerbahÃ§e,5.16,4.48,1.55,0.5454545454545454
+17,2024-12-21,Sivasspor,0â0,Samsunspor,Ali Åansalan,0,1,2024-12-21,"Dec 21, 2024, 16:00",Sivasspor,Samsunspor,3.44,3.44,2.07,0.6575342465753424
+17,2024-12-21,BeÅiktaÅ,1â1,Alanyaspor,Cihan AydÄ±n,0,0,2024-12-21,"Dec 21, 2024, 19:00",BeÅiktaÅ,Alanyaspor,1.59,4.11,5.17,0.6875
+17,2024-12-22,Kayserispor,1â5,Galatasaray,Mehmet TÃ¼rkmen,1,0,2024-12-22,"Dec 22, 2024, 16:00",Kayserispor,Galatasaray,7.03,5.67,1.34,0.5925925925925926
+17,2024-12-22,GÃ¶ztepe,3â0,Rizespor,Zorbay KÃ¼Ã§Ã¼k,0,0,2024-12-22,"Dec 22, 2024, 16:00",GÃ¶ztepe,Rizespor,2.08,3.6,3.27,0.7857142857142857
+17,2024-12-22,Trabzonspor,1â0,BB Bodrumspor,Ozan ErgÃ¼n,0,0,2024-12-22,"Dec 22, 2024, 19:00",Trabzonspor,BB Bodrumspor,1.59,4.11,5.17,0.5
+17,2024-12-23,Hatayspor,1â3,Adana Demirspor,DirenÃ§ TonusluoÄlu,0,1,2024-12-23,"Dec 23, 2024, 20:00",Hatayspor,Adana Demirspor,1.63,4.14,4.76,0.8148148148148148
+18,2025-01-03,Alanyaspor,2â1,Konyaspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2025-01-03,"Jan 3, 2025, 20:00",Alanyaspor,Konyaspor,1.98,3.36,3.82,0.7857142857142857
+18,2025-01-03,Rizespor,1â1,BeÅiktaÅ,Ozan ErgÃ¼n,0,0,2025-01-03,"Jan 3, 2025, 20:00",Rizespor,BeÅiktaÅ,2.69,3.43,2.5,0.5
+18,2025-01-04,Antalyaspor,1â4,EyÃ¼pspor,Muhammetali MetoÄlu,1,0,2025-01-04,"Jan 4, 2025, 16:00",Antalyaspor,EyÃ¼pspor,2.54,3.43,2.64,0.6000000000000001
+18,2025-01-04,Galatasaray,2â1,GÃ¶ztepe,Alper Akarsu,1,0,2025-01-04,"Jan 4, 2025, 19:00",Galatasaray,GÃ¶ztepe,1.29,5.66,8.78,0.26666666666666666
+18,2025-01-04,Samsunspor,2â1,Trabzonspor,Mehmet TÃ¼rkmen,0,0,2025-01-04,"Jan 4, 2025, 20:00",Samsunspor,Trabzonspor,2.03,3.58,3.44,0.5925925925925926
+18,2025-01-05,BB Bodrumspor,1â1,Kayserispor,Yasin Kol,0,0,2025-01-05,"Jan 5, 2025, 16:00",BB Bodrumspor,Kayserispor,2.15,3.25,3.3,1.2
+18,2025-01-05,FenerbahÃ§e,2â1,Hatayspor,OÄuzhan Ãakir,0,0,2025-01-05,"Jan 5, 2025, 19:00",FenerbahÃ§e,Hatayspor,1.09,10.92,21.26,0.72
+19,2025-01-11,Kayserispor,0â1,Samsunspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2025-01-11,"Jan 11, 2025, 13:30",Kayserispor,Samsunspor,3.11,3.44,2.22,0.7857142857142857
+19,2025-01-11,Hatayspor,1â2,Rizespor,Erkan Ãzdamar,1,0,2025-01-11,"Jan 11, 2025, 16:00",Hatayspor,Rizespor,2.96,3.43,2.3,1.3928571428571428
+19,2025-01-11,BeÅiktaÅ,2â1,BB Bodrumspor,Mehmet TÃ¼rkmen,0,0,2025-01-11,"Jan 11, 2025, 19:00",BeÅiktaÅ,BB Bodrumspor,1.48,4.49,6.06,0.5925925925925926
+19,2025-01-12,Sivasspor,1â1,Alanyaspor,Muhammetali MetoÄlu,0,0,2025-01-12,"Jan 12, 2025, 13:30",Sivasspor,Alanyaspor,2.85,3.38,2.49,0.6000000000000001
+19,2025-01-12,Trabzonspor,5â0,Antalyaspor,Cihan AydÄ±n,0,0,2025-01-12,"Jan 12, 2025, 16:00",Trabzonspor,Antalyaspor,1.62,4.26,4.71,0.6875
+19,2025-01-13,Konyaspor,2â3,FenerbahÃ§e,DirenÃ§ TonusluoÄlu,0,0,2025-01-13,"Jan 13, 2025, 20:00",Konyaspor,FenerbahÃ§e,5.95,4.56,1.5,0.8148148148148148
+19,2025-01-13,GÃ¶ztepe,5â0,KasÄ±mpaÅa,Umit ÃztÃ¼rk,0,1,2025-01-13,"Jan 13, 2025, 20:00",GÃ¶ztepe,KasÄ±mpaÅa,1.95,3.66,3.76,0.8163265306122449
+20,2025-01-17,Hatayspor,1â1,Galatasaray,Cihan AydÄ±n,1,0,2025-01-17,"Jan 17, 2025, 20:00",Hatayspor,Galatasaray,8.41,5.98,1.29,0.6875
+20,2025-01-18,BeÅiktaÅ,0â0,Samsunspor,Kadir SaÄlam,0,1,2025-01-18,"Jan 18, 2025, 19:00",BeÅiktaÅ,Samsunspor,2.07,3.57,3.33,0.9215686274509804
+20,2025-01-19,GÃ¶ztepe,1â0,Antalyaspor,ÃaÄdaÅ Altay,0,0,2025-01-19,"Jan 19, 2025, 13:30",GÃ¶ztepe,Antalyaspor,1.59,4.11,5.17,0.7222222222222222
+20,2025-01-19,Konyaspor,3â3,KasÄ±mpaÅa,Burak Pakkan,0,0,2025-01-19,"Jan 19, 2025, 16:00",Konyaspor,KasÄ±mpaÅa,2.16,3.42,3.24,1.0
+20,2025-01-19,Adana Demirspor,0â4,FenerbahÃ§e,Halil Umut Meler,0,1,2025-01-19,"Jan 19, 2025, 19:00",Adana Demirspor,FenerbahÃ§e,16.52,9.18,1.12,1.0909090909090908
+20,2025-01-19,EyÃ¼pspor,3â0,Alanyaspor,Yasin Kol,1,0,2025-01-19,"Jan 19, 2025, 19:00",EyÃ¼pspor,Alanyaspor,2.12,3.34,3.43,1.2
+20,2025-01-20,Trabzonspor,4â0,Sivasspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2025-01-20,"Jan 20, 2025, 20:00",Trabzonspor,Sivasspor,1.48,4.49,6.06,0.7857142857142857
+21,2025-01-25,Sivasspor,5â2,Kayserispor,Burak Pakkan,0,2,2025-01-25,"Jan 25, 2025, 13:30",Sivasspor,Kayserispor,2.22,3.26,3.26,1.0
+21,2025-01-25,Galatasaray,1â0,Konyaspor,Halil Umut Meler,1,0,2025-01-25,"Jan 25, 2025, 19:00",Galatasaray,Konyaspor,1.16,7.82,13.19,1.0909090909090908
+21,2025-01-26,Rizespor,3â2,Adana Demirspor,ÃaÄdaÅ Altay,1,0,2025-01-26,"Jan 26, 2025, 13:30",Rizespor,Adana Demirspor,1.29,5.62,9.12,0.7222222222222222
+21,2025-01-26,Antalyaspor,1â1,BeÅiktaÅ,OÄuzhan Ãakir,0,0,2025-01-26,"Jan 26, 2025, 16:00",Antalyaspor,BeÅiktaÅ,3.83,3.83,1.84,0.72
+21,2025-01-26,BB Bodrumspor,0â1,EyÃ¼pspor,Ozan ErgÃ¼n,0,0,2025-01-26,"Jan 26, 2025, 16:00",BB Bodrumspor,EyÃ¼pspor,2.69,3.26,2.6,0.5
+21,2025-01-26,FenerbahÃ§e,3â2,GÃ¶ztepe,Atilla KaraoÄlan,0,0,2025-01-26,"Jan 26, 2025, 19:00",FenerbahÃ§e,GÃ¶ztepe,1.35,5.14,7.76,0.7213114754098361
+21,2025-01-27,KasÄ±mpaÅa,5â4,Hatayspor,Muhammetali MetoÄlu,1,1,2025-01-27,"Jan 27, 2025, 20:00",KasÄ±mpaÅa,Hatayspor,1.72,4.0,4.5,0.6000000000000001
+22,2025-01-31,Konyaspor,3â1,BB Bodrumspor,Umit ÃztÃ¼rk,0,0,2025-01-31,"Jan 31, 2025, 20:00",Konyaspor,BB Bodrumspor,2.13,3.27,3.46,0.8163265306122449
+22,2025-01-31,EyÃ¼pspor,1â0,Sivasspor,Atilla KaraoÄlan,0,2,2025-01-31,"Jan 31, 2025, 20:00",EyÃ¼pspor,Sivasspor,1.81,3.59,4.29,0.7213114754098361
+22,2025-02-01,Hatayspor,2â3,Antalyaspor,DirenÃ§ TonusluoÄlu,2,0,2025-02-01,"Feb 1, 2025, 13:30",Hatayspor,Antalyaspor,2.15,3.4,3.2,0.8148148148148148
+22,2025-02-01,Kayserispor,0â0,Trabzonspor,Ali Åansalan,0,1,2025-02-01,"Feb 1, 2025, 16:00",Kayserispor,Trabzonspor,4.01,3.82,1.81,0.6575342465753424
+22,2025-02-02,Adana Demirspor,3â5,KasÄ±mpaÅa,Yasin Kol,1,0,2025-02-02,"Feb 2, 2025, 13:30",Adana Demirspor,KasÄ±mpaÅa,3.82,4.01,1.81,1.2
+22,2025-02-02,GÃ¶ztepe,0â1,Alanyaspor,Arda KardeÅler,0,0,2025-02-02,"Feb 2, 2025, 16:00",GÃ¶ztepe,Alanyaspor,1.72,3.82,4.51,0.5714285714285714
+22,2025-02-02,FenerbahÃ§e,3â2,Rizespor,Burak Pakkan,1,2,2025-02-02,"Feb 2, 2025, 19:00",FenerbahÃ§e,Rizespor,1.29,5.66,8.78,1.0
+23,2025-02-07,Samsunspor,2â0,Hatayspor,Alper Akarsu,0,0,2025-02-07,"Feb 7, 2025, 20:00",Samsunspor,Hatayspor,1.45,4.5,6.53,0.26666666666666666
+23,2025-02-08,Kayserispor,3â2,Konyaspor,ÃaÄdaÅ Altay,0,1,2025-02-08,"Feb 8, 2025, 16:00",Kayserispor,Konyaspor,2.69,3.34,2.55,0.7222222222222222
+23,2025-02-08,Sivasspor,0â2,BeÅiktaÅ,Ali Åansalan,1,0,2025-02-08,"Feb 8, 2025, 19:00",Sivasspor,BeÅiktaÅ,4.01,3.82,1.81,0.6575342465753424
+23,2025-02-09,KasÄ±mpaÅa,3â2,Rizespor,Ozan ErgÃ¼n,1,0,2025-02-09,"Feb 9, 2025, 13:30",KasÄ±mpaÅa,Rizespor,2.27,3.53,3.07,0.5
+23,2025-02-09,Alanyaspor,0â2,FenerbahÃ§e,Cihan AydÄ±n,0,0,2025-02-09,"Feb 9, 2025, 16:00",Alanyaspor,FenerbahÃ§e,6.56,4.63,1.45,0.6875
+23,2025-02-09,Galatasaray,3â0,Adana Demirspor,OÄuzhan Ãakir,1,0,2025-02-09,"Feb 9, 2025, 19:00",Galatasaray,Adana Demirspor,1.07,13.45,20.37,0.72
+23,2025-02-10,Trabzonspor,1â0,EyÃ¼pspor,Mehmet TÃ¼rkmen,0,0,2025-02-10,"Feb 10, 2025, 20:00",Trabzonspor,EyÃ¼pspor,1.74,4.07,4.05,0.5925925925925926
+23,2025-02-10,BB Bodrumspor,0â0,GÃ¶ztepe,Yasin Kol,0,0,2025-02-10,"Feb 10, 2025, 20:00",BB Bodrumspor,GÃ¶ztepe,3.21,3.41,2.18,1.2
+24,2025-02-14,Adana Demirspor,1â1,Antalyaspor,Kadir SaÄlam,1,0,2025-02-14,"Feb 14, 2025, 20:00",Adana Demirspor,Antalyaspor,3.43,3.34,2.12,0.9215686274509804
+24,2025-02-15,BeÅiktaÅ,2â1,Trabzonspor,Cihan AydÄ±n,0,0,2025-02-15,"Feb 15, 2025, 19:00",BeÅiktaÅ,Trabzonspor,1.88,3.57,3.98,0.6875
+24,2025-02-16,Hatayspor,1â0,Alanyaspor,Adnan Deniz Kayatepe,0,1,2025-02-16,"Feb 16, 2025, 13:30",Hatayspor,Alanyaspor,2.78,3.57,2.36,0.6666666666666666
+24,2025-02-16,Konyaspor,0â1,Samsunspor,Yasin Kol,0,0,2025-02-16,"Feb 16, 2025, 16:00",Konyaspor,Samsunspor,2.55,3.26,2.74,1.2
+24,2025-02-16,EyÃ¼pspor,1â1,Kayserispor,DirenÃ§ TonusluoÄlu,0,0,2025-02-16,"Feb 16, 2025, 16:00",EyÃ¼pspor,Kayserispor,1.66,3.99,4.72,0.8148148148148148
+24,2025-02-16,FenerbahÃ§e,3â1,KasÄ±mpaÅa,Ali Åansalan,0,0,2025-02-16,"Feb 16, 2025, 19:00",FenerbahÃ§e,KasÄ±mpaÅa,1.19,7.43,11.7,0.6575342465753424
+24,2025-02-17,Rizespor,1â2,Galatasaray,Zorbay KÃ¼Ã§Ã¼k,0,0,2025-02-17,"Feb 17, 2025, 20:00",Rizespor,Galatasaray,4.71,4.26,1.62,0.7857142857142857
+25,2025-02-21,EyÃ¼pspor,1â3,BeÅiktaÅ,Muhammetali MetoÄlu,0,0,2025-02-21,"Feb 21, 2025, 20:00",EyÃ¼pspor,BeÅiktaÅ,3.37,3.46,2.1,0.6000000000000001
+25,2025-02-21,BB Bodrumspor,1â0,Hatayspor,Ali Åansalan,0,0,2025-02-21,"Feb 21, 2025, 20:00",BB Bodrumspor,Hatayspor,1.75,3.55,4.6,0.6575342465753424
+25,2025-02-22,Sivasspor,1â1,Konyaspor,Zorbay KÃ¼Ã§Ã¼k,0,1,2025-02-22,"Feb 22, 2025, 13:30",Sivasspor,Konyaspor,2.71,3.16,2.66,0.7857142857142857
+25,2025-02-22,Antalyaspor,2â1,KasÄ±mpaÅa,Adnan Deniz Kayatepe,1,0,2025-02-22,"Feb 22, 2025, 16:00",Antalyaspor,KasÄ±mpaÅa,2.39,3.49,2.91,0.6666666666666666
+25,2025-02-22,Samsunspor,2â3,Rizespor,Halil Umut Meler,0,0,2025-02-22,"Feb 22, 2025, 19:00",Samsunspor,Rizespor,1.98,3.45,3.6,1.0909090909090908
+25,2025-02-23,Kayserispor,1â0,GÃ¶ztepe,Cihan AydÄ±n,0,0,2025-02-23,"Feb 23, 2025, 13:30",Kayserispor,GÃ¶ztepe,3.26,3.26,2.22,0.6875
+25,2025-02-23,Alanyaspor,3â2,Adana Demirspor,Ozan ErgÃ¼n,1,0,2025-02-23,"Feb 23, 2025, 16:00",Alanyaspor,Adana Demirspor,1.29,5.62,9.12,0.5
+25,2025-02-24,Galatasaray,0â0,FenerbahÃ§e,Slavko VinÄiÄ,0,0,2025-02-24,"Feb 24, 2025, 20:00",Galatasaray,FenerbahÃ§e,2.37,3.8,2.62,0.0
+26,2025-03-01,Adana Demirspor,0â0,BB Bodrumspor,ÃaÄdaÅ Altay,0,0,2025-03-01,"Mar 1, 2025, 16:00",Adana Demirspor,BB Bodrumspor,4.45,3.85,1.75,0.7222222222222222
+26,2025-03-01,BeÅiktaÅ,2â0,Kayserispor,Halil Umut Meler,1,0,2025-03-01,"Mar 1, 2025, 20:30",BeÅiktaÅ,Kayserispor,1.42,4.75,6.5,1.0909090909090908
+26,2025-03-02,Rizespor,3â1,Alanyaspor,Ali Åansalan,1,0,2025-03-02,"Mar 2, 2025, 13:30",Rizespor,Alanyaspor,1.98,3.36,3.82,0.6575342465753424
+26,2025-03-02,KasÄ±mpaÅa,3â3,Galatasaray,Cihan AydÄ±n,2,0,2025-03-02,"Mar 2, 2025, 16:00",KasÄ±mpaÅa,Galatasaray,4.52,4.19,1.57,0.6875
+26,2025-03-02,FenerbahÃ§e,3â0,Antalyaspor,Mehmet TÃ¼rkmen,0,0,2025-03-02,"Mar 2, 2025, 20:30",FenerbahÃ§e,Antalyaspor,1.21,6.93,10.75,0.5925925925925926
+26,2025-03-03,Konyaspor,1â0,Trabzonspor,Ozan ErgÃ¼n,1,0,2025-03-03,"Mar 3, 2025, 16:00",Konyaspor,Trabzonspor,2.61,3.41,2.59,0.5
+26,2025-03-03,GÃ¶ztepe,2â2,Samsunspor,OÄuzhan Ãakir,0,0,2025-03-03,"Mar 3, 2025, 20:30",GÃ¶ztepe,Samsunspor,2.03,3.31,3.75,0.72
+27,2025-03-07,BB Bodrumspor,1â0,KasÄ±mpaÅa,Mehmet TÃ¼rkmen,0,0,2025-03-07,"Mar 7, 2025, 20:30",BB Bodrumspor,KasÄ±mpaÅa,2.19,3.44,3.29,0.5925925925925926
+27,2025-03-08,Antalyaspor,2â1,Rizespor,Cihan AydÄ±n,1,0,2025-03-08,"Mar 8, 2025, 16:00",Antalyaspor,Rizespor,2.72,3.1,2.64,0.6875
+27,2025-03-08,Trabzonspor,1â2,Hatayspor,Alper Akarsu,0,0,2025-03-08,"Mar 8, 2025, 20:30",Trabzonspor,Hatayspor,1.37,5.0,7.0,0.26666666666666666
+27,2025-03-09,Sivasspor,3â1,GÃ¶ztepe,Burak Pakkan,0,1,2025-03-09,"Mar 9, 2025, 13:30",Sivasspor,GÃ¶ztepe,3.7,3.3,2.0,1.0
+27,2025-03-09,Samsunspor,3â2,Adana Demirspor,Arda KardeÅler,0,0,2025-03-09,"Mar 9, 2025, 16:00",Samsunspor,Adana Demirspor,1.25,5.75,9.5,0.5714285714285714
+27,2025-03-09,EyÃ¼pspor,2â1,Konyaspor,Atilla KaraoÄlan,1,1,2025-03-09,"Mar 9, 2025, 16:00",EyÃ¼pspor,Konyaspor,2.12,3.2,3.45,0.7213114754098361
+27,2025-03-09,Alanyaspor,1â2,Galatasaray,Yasin Kol,0,1,2025-03-09,"Mar 9, 2025, 20:30",Alanyaspor,Galatasaray,4.55,4.2,1.64,1.2
+28,2025-03-14,Galatasaray,4â0,Antalyaspor,Ozan ErgÃ¼n,1,0,2025-03-14,"Mar 14, 2025, 20:30",Galatasaray,Antalyaspor,1.27,5.8,9.25,0.5
+28,2025-03-15,KasÄ±mpaÅa,2â1,Alanyaspor,Halil Umut Meler,1,0,2025-03-15,"Mar 15, 2025, 16:00",KasÄ±mpaÅa,Alanyaspor,2.05,3.5,3.3,1.0909090909090908
+28,2025-03-15,Konyaspor,1â0,BeÅiktaÅ,Ali Åansalan,0,2,2025-03-15,"Mar 15, 2025, 20:30",Konyaspor,BeÅiktaÅ,3.0,3.5,2.25,0.6575342465753424
+28,2025-03-16,Rizespor,0â2,BB Bodrumspor,Kadir SaÄlam,0,1,2025-03-16,"Mar 16, 2025, 13:30",Rizespor,BB Bodrumspor,2.0,3.0,4.1,0.9215686274509804
+28,2025-03-16,GÃ¶ztepe,1â1,EyÃ¼pspor,Yasin Kol,1,1,2025-03-16,"Mar 16, 2025, 16:00",GÃ¶ztepe,EyÃ¼pspor,1.75,3.6,4.5,1.2
+28,2025-03-16,Hatayspor,3â2,Sivasspor,ÃaÄdaÅ Altay,0,1,2025-03-16,"Mar 16, 2025, 16:00",Hatayspor,Sivasspor,2.4,3.3,2.8,0.7222222222222222
+28,2025-03-16,FenerbahÃ§e,0â0,Samsunspor,Cihan AydÄ±n,0,1,2025-03-16,"Mar 16, 2025, 20:30",FenerbahÃ§e,Samsunspor,1.38,4.75,7.0,0.6875
+29,2025-03-28,Antalyaspor,2â1,Alanyaspor,Burak Pakkan,0,0,2025-03-28,"Mar 28, 2025, 16:00",Antalyaspor,Alanyaspor,2.4,3.25,2.9,1.0
+29,2025-03-28,Kayserispor,5â0,Hatayspor,Batuhan Kolak,0,0,2025-03-28,"Mar 28, 2025, 16:00",Kayserispor,Hatayspor,1.67,4.0,4.6,0.16666666666666666
+29,2025-03-28,BB Bodrumspor,2â4,FenerbahÃ§e,Atilla KaraoÄlan,2,0,2025-03-28,"Mar 28, 2025, 20:30",BB Bodrumspor,FenerbahÃ§e,6.5,4.2,1.5,0.7213114754098361
+29,2025-03-29,Sivasspor,5â1,Adana Demirspor,Ozan ErgÃ¼n,0,0,2025-03-29,"Mar 29, 2025, 13:30",Sivasspor,Adana Demirspor,1.5,4.5,5.75,0.5
+29,2025-03-29,Samsunspor,0â2,KasÄ±mpaÅa,Zorbay KÃ¼Ã§Ã¼k,0,0,2025-03-29,"Mar 29, 2025, 16:00",Samsunspor,KasÄ±mpaÅa,2.0,3.5,3.5,0.7857142857142857
+29,2025-03-29,Trabzonspor,1â1,GÃ¶ztepe,Ali Åansalan,1,0,2025-03-29,"Mar 29, 2025, 16:00",Trabzonspor,GÃ¶ztepe,2.1,3.6,3.2,0.6575342465753424
+29,2025-03-29,BeÅiktaÅ,2â1,Galatasaray,Yasin Kol,0,2,2025-03-29,"Mar 29, 2025, 20:30",BeÅiktaÅ,Galatasaray,2.87,3.7,2.25,1.2
+30,2025-04-04,Adana Demirspor,0â2,Kayserispor,DirenÃ§ TonusluoÄlu,0,1,2025-04-04,"Apr 4, 2025, 20:00",Adana Demirspor,Kayserispor,6.72,4.89,1.39,0.8148148148148148
+30,2025-04-05,Rizespor,1â1,Sivasspor,OÄuzhan Ãakir,1,0,2025-04-05,"Apr 5, 2025, 13:30",Rizespor,Sivasspor,1.73,3.98,4.23,0.72
+30,2025-04-05,Antalyaspor,2â1,Samsunspor,Umit ÃztÃ¼rk,0,0,2025-04-05,"Apr 5, 2025, 19:00",Antalyaspor,Samsunspor,2.75,3.21,2.68,0.8163265306122449
+30,2025-04-06,Alanyaspor,0â1,BB Bodrumspor,Arda KardeÅler,0,0,2025-04-06,"Apr 6, 2025, 13:30",Alanyaspor,BB Bodrumspor,2.2,3.2,3.38,0.5714285714285714
+30,2025-04-06,Hatayspor,0â1,EyÃ¼pspor,Burak Pakkan,0,0,2025-04-06,"Apr 6, 2025, 16:00",Hatayspor,EyÃ¼pspor,3.4,3.3,2.1,1.0
+30,2025-04-06,FenerbahÃ§e,4â1,Trabzonspor,Mehmet TÃ¼rkmen,1,0,2025-04-06,"Apr 6, 2025, 19:00",FenerbahÃ§e,Trabzonspor,1.37,5.0,7.25,0.5925925925925926
+30,2025-04-07,KasÄ±mpaÅa,1â1,BeÅiktaÅ,Kadir SaÄlam,1,1,2025-04-07,"Apr 7, 2025, 20:00",KasÄ±mpaÅa,BeÅiktaÅ,3.15,3.32,2.18,0.9215686274509804
+31,2025-04-11,Samsunspor,0â2,Galatasaray,Ozan ErgÃ¼n,0,0,2025-04-11,"Apr 11, 2025, 20:00",Samsunspor,Galatasaray,4.5,3.8,1.7,0.5
+31,2025-04-12,Konyaspor,1â0,GÃ¶ztepe,Umit ÃztÃ¼rk,0,0,2025-04-12,"Apr 12, 2025, 16:00",Konyaspor,GÃ¶ztepe,2.75,3.2,2.56,0.8163265306122449
+31,2025-04-12,BB Bodrumspor,0â0,Antalyaspor,DirenÃ§ TonusluoÄlu,0,0,2025-04-12,"Apr 12, 2025, 19:00",BB Bodrumspor,Antalyaspor,2.2,3.25,3.3,0.8148148148148148
+31,2025-04-13,Kayserispor,1â0,KasÄ±mpaÅa,Abdullah TaÅkÄ±nsoy,0,1,2025-04-13,"Apr 13, 2025, 16:00",Kayserispor,KasÄ±mpaÅa,2.32,3.45,2.85,0.5
+31,2025-04-13,Trabzonspor,2â0,Rizespor,ÃaÄdaÅ Altay,0,1,2025-04-13,"Apr 13, 2025, 19:00",Trabzonspor,Rizespor,1.9,3.3,4.0,0.7222222222222222
+31,2025-04-13,Sivasspor,1â3,FenerbahÃ§e,Yasin Kol,0,1,2025-04-13,"Apr 13, 2025, 19:00",Sivasspor,FenerbahÃ§e,7.99,5.06,1.36,1.2
+31,2025-04-14,EyÃ¼pspor,6â0,Adana Demirspor,Alper Akarsu,0,0,2025-04-14,"Apr 14, 2025, 20:00",EyÃ¼pspor,Adana Demirspor,1.15,7.94,15.74,0.26666666666666666
+32,2025-04-18,Hatayspor,2â3,Konyaspor,Halil Umut Meler,0,0,2025-04-18,"Apr 18, 2025, 20:00",Hatayspor,Konyaspor,4.28,4.24,1.76,1.0909090909090908
+32,2025-04-18,Galatasaray,2â0,BB Bodrumspor,Mehmet TÃ¼rkmen,0,0,2025-04-18,"Apr 18, 2025, 20:00",Galatasaray,BB Bodrumspor,1.23,6.32,13.03,0.5925925925925926
+32,2025-04-19,KasÄ±mpaÅa,3â1,Sivasspor,Ali Åansalan,1,0,2025-04-19,"Apr 19, 2025, 13:30",KasÄ±mpaÅa,Sivasspor,1.96,3.89,3.74,0.6575342465753424
+32,2025-04-19,Adana Demirspor,0â1,Trabzonspor,Abdullah TaÅkÄ±nsoy,0,0,2025-04-19,"Apr 19, 2025, 16:00",Adana Demirspor,Trabzonspor,9.5,7.0,1.18,0.5
+32,2025-04-19,GÃ¶ztepe,1â1,BeÅiktaÅ,Ozan ErgÃ¼n,0,0,2025-04-19,"Apr 19, 2025, 19:00",GÃ¶ztepe,BeÅiktaÅ,2.63,3.42,2.68,0.5
+32,2025-04-20,Rizespor,1â0,EyÃ¼pspor,Umit ÃztÃ¼rk,0,0,2025-04-20,"Apr 20, 2025, 16:00",Rizespor,EyÃ¼pspor,2.11,3.48,3.3,0.8163265306122449
+32,2025-04-20,FenerbahÃ§e,3â3,Kayserispor,OÄuzhan Ãakir,1,0,2025-04-20,"Apr 20, 2025, 19:00",FenerbahÃ§e,Kayserispor,1.11,8.91,18.34,0.72
+32,2025-04-21,Alanyaspor,1â0,Samsunspor,Atilla KaraoÄlan,0,0,2025-04-21,"Apr 21, 2025, 20:00",Alanyaspor,Samsunspor,2.62,2.8,3.1,0.7213114754098361
+33,2025-04-25,BeÅiktaÅ,5â1,Hatayspor,Adnan Deniz Kayatepe,2,0,2025-04-25,"Apr 25, 2025, 20:00",BeÅiktaÅ,Hatayspor,1.18,7.19,11.4,0.6666666666666666
+33,2025-04-26,Sivasspor,2â0,Antalyaspor,Burak Pakkan,0,0,2025-04-26,"Apr 26, 2025, 16:00",Sivasspor,Antalyaspor,2.15,3.4,3.25,1.0
+33,2025-04-26,BB Bodrumspor,1â2,Samsunspor,Yasin Kol,1,0,2025-04-26,"Apr 26, 2025, 19:00",BB Bodrumspor,Samsunspor,2.5,3.0,3.03,1.2
+33,2025-04-27,Konyaspor,3â1,Adana Demirspor,Arda KardeÅler,0,0,2025-04-27,"Apr 27, 2025, 16:00",Konyaspor,Adana Demirspor,1.18,8.0,11.0,0.5714285714285714
+33,2025-04-27,Trabzonspor,4â3,Alanyaspor,Ali Åansalan,1,0,2025-04-27,"Apr 27, 2025, 16:00",Trabzonspor,Alanyaspor,1.71,3.46,5.14,0.6575342465753424
+33,2025-04-27,EyÃ¼pspor,1â5,Galatasaray,ÃaÄdaÅ Altay,0,0,2025-04-27,"Apr 27, 2025, 19:00",EyÃ¼pspor,Galatasaray,6.71,4.59,1.42,0.7222222222222222
+33,2025-04-27,Kayserispor,1â0,Rizespor,Atilla KaraoÄlan,0,0,2025-04-27,"Apr 27, 2025, 19:00",Kayserispor,Rizespor,2.3,2.92,3.51,0.7213114754098361
+34,2025-05-02,Antalyaspor,1â0,Konyaspor,Cihan AydÄ±n,0,1,2025-05-02,"May 2, 2025, 20:00",Antalyaspor,Konyaspor,2.45,3.3,2.75,0.6875
+34,2025-05-03,Alanyaspor,1â1,Kayserispor,Umit ÃztÃ¼rk,0,0,2025-05-03,"May 3, 2025, 16:00",Alanyaspor,Kayserispor,2.0,3.4,3.4,0.8163265306122449
+34,2025-05-03,Galatasaray,4â1,Sivasspor,Ozan ErgÃ¼n,0,0,2025-05-03,"May 3, 2025, 19:00",Galatasaray,Sivasspor,1.22,7.0,10.0,0.5
+34,2025-05-04,Samsunspor,3â0,EyÃ¼pspor,Muhammetali MetoÄlu,0,0,2025-05-04,"May 4, 2025, 16:00",Samsunspor,EyÃ¼pspor,2.1,3.2,3.3,0.6000000000000001
+34,2025-05-04,Adana Demirspor,1â2,GÃ¶ztepe,Batuhan Kolak,0,0,2025-05-04,"May 4, 2025, 19:00",Adana Demirspor,GÃ¶ztepe,7.41,5.75,1.28,0.16666666666666666
+34,2025-05-04,FenerbahÃ§e,0â1,BeÅiktaÅ,Yasin Kol,0,0,2025-05-04,"May 4, 2025, 19:00",FenerbahÃ§e,BeÅiktaÅ,1.53,4.2,5.25,1.2
+34,2025-05-05,KasÄ±mpaÅa,1â1,Trabzonspor,Halil Umut Meler,0,0,2025-05-05,"May 5, 2025, 20:00",KasÄ±mpaÅa,Trabzonspor,2.64,3.63,2.45,1.0909090909090908
+35,2025-05-10,EyÃ¼pspor,0â3,KasÄ±mpaÅa,Adnan Deniz Kayatepe,0,0,2025-05-10,"May 10, 2025, 16:00",EyÃ¼pspor,KasÄ±mpaÅa,2.3,3.6,2.8,0.6666666666666666
+35,2025-05-10,Konyaspor,2â1,Rizespor,Ozan ErgÃ¼n,0,0,2025-05-10,"May 10, 2025, 16:00",Konyaspor,Rizespor,2.1,3.4,3.4,0.5
+35,2025-05-10,Trabzonspor,0â2,Galatasaray,Atilla KaraoÄlan,0,0,2025-05-10,"May 10, 2025, 19:00",Trabzonspor,Galatasaray,3.75,3.9,1.83,0.7213114754098361
+35,2025-05-11,Sivasspor,0â0,BB Bodrumspor,Umit ÃztÃ¼rk,0,0,2025-05-11,"May 11, 2025, 16:00",Sivasspor,BB Bodrumspor,2.25,3.3,3.2,0.8163265306122449
+35,2025-05-11,GÃ¶ztepe,1â1,Hatayspor,Abdullah TaÅkÄ±nsoy,0,1,2025-05-11,"May 11, 2025, 19:00",GÃ¶ztepe,Hatayspor,1.28,6.0,9.0,0.5
+35,2025-05-11,BeÅiktaÅ,4â1,Adana Demirspor,ÃaÄdaÅ Altay,0,0,2025-05-11,"May 11, 2025, 19:00",BeÅiktaÅ,Adana Demirspor,1.11,10.0,19.0,0.7222222222222222
+35,2025-05-12,Kayserispor,3â1,Antalyaspor,Arda KardeÅler,1,0,2025-05-12,"May 12, 2025, 20:00",Kayserispor,Antalyaspor,1.96,3.44,3.6,0.5714285714285714
+36,2025-05-17,Adana Demirspor,0â5,Hatayspor,Ãmer Faruk Turtay,1,0,2025-05-17,"May 17, 2025, 19:00",Adana Demirspor,Hatayspor,3.19,4.34,1.9,1.0
+36,2025-05-18,Samsunspor,1â0,Sivasspor,Halil Umut Meler,0,1,2025-05-18,"May 18, 2025, 19:00",Samsunspor,Sivasspor,1.81,3.83,4.16,1.0909090909090908
+36,2025-05-18,Rizespor,6â3,GÃ¶ztepe,OÄuzhan Ãakir,1,0,2025-05-18,"May 18, 2025, 19:00",Rizespor,GÃ¶ztepe,1.95,3.79,3.62,0.72
+36,2025-05-18,FenerbahÃ§e,2â1,EyÃ¼pspor,Ozan ErgÃ¼n,0,0,2025-05-18,"May 18, 2025, 19:00",FenerbahÃ§e,EyÃ¼pspor,1.22,7.01,10.24,0.5
+36,2025-05-18,Alanyaspor,1â1,BeÅiktaÅ,Mehmet TÃ¼rkmen,0,0,2025-05-18,"May 18, 2025, 19:00",Alanyaspor,BeÅiktaÅ,3.49,3.69,2.02,0.5925925925925926
+36,2025-05-18,Galatasaray,3â0,Kayserispor,Ali Åansalan,1,0,2025-05-18,"May 18, 2025, 19:00",Galatasaray,Kayserispor,1.16,7.95,11.53,0.6575342465753424
+36,2025-05-18,BB Bodrumspor,1â1,Trabzonspor,ÃaÄdaÅ Altay,1,0,2025-05-18,"May 18, 2025, 19:00",BB Bodrumspor,Trabzonspor,1.98,3.62,3.68,0.7222222222222222
+37,2025-05-24,EyÃ¼pspor,2â1,Antalyaspor,OÄuzhan Aksu,0,0,2025-05-24,"May 24, 2025, 16:00",EyÃ¼pspor,Antalyaspor,1.85,3.6,3.75,0.0
+37,2025-05-24,GÃ¶ztepe,0â2,Galatasaray,Batuhan Kolak,0,0,2025-05-24,"May 24, 2025, 19:00",GÃ¶ztepe,Galatasaray,3.7,4.59,1.75,0.16666666666666666
+37,2025-05-25,Konyaspor,1â2,Alanyaspor,Atilla KaraoÄlan,0,1,2025-05-25,"May 25, 2025, 19:00",Konyaspor,Alanyaspor,3.0,3.4,2.2,0.7213114754098361
+37,2025-05-25,Kayserispor,1â1,BB Bodrumspor,Kadir SaÄlam,0,0,2025-05-25,"May 25, 2025, 19:00",Kayserispor,BB Bodrumspor,3.5,3.6,2.0,0.9215686274509804
+37,2025-05-25,BeÅiktaÅ,1â2,Rizespor,Halil Umut Meler,0,0,2025-05-25,"May 25, 2025, 19:00",BeÅiktaÅ,Rizespor,1.44,4.33,6.25,1.0909090909090908
+37,2025-05-25,Trabzonspor,2â2,Samsunspor,Ozan ErgÃ¼n,0,0,2025-05-25,"May 25, 2025, 19:00",Trabzonspor,Samsunspor,2.25,3.5,2.9,0.5
+37,2025-05-26,Hatayspor,4â2,FenerbahÃ§e,YiÄit Arslan,1,1,2025-05-26,"May 26, 2025, 20:00",Hatayspor,FenerbahÃ§e,9.59,7.03,1.2,1.7142857142857142
+38,2025-05-30,KasÄ±mpaÅa,1â2,GÃ¶ztepe,Sarper BarÄ±Å Saka,1,0,2025-05-30,"May 30, 2025, 20:00",KasÄ±mpaÅa,GÃ¶ztepe,1.97,4.0,3.3,0.75
+38,2025-05-30,Antalyaspor,0â2,Trabzonspor,Ali YÄ±lmaz,0,0,2025-05-30,"May 30, 2025, 20:00",Antalyaspor,Trabzonspor,2.78,3.55,2.4,0.5714285714285714
+38,2025-05-31,Rizespor,5â2,Hatayspor,Alper Akarsu,0,0,2025-05-31,"May 31, 2025, 16:00",Rizespor,Hatayspor,1.4,5.25,6.5,0.26666666666666666
+38,2025-05-31,FenerbahÃ§e,2â1,Konyaspor,OÄuzhan Ãakir,0,0,2025-05-31,"May 31, 2025, 16:00",FenerbahÃ§e,Konyaspor,1.45,4.8,5.8,0.72
+38,2025-05-31,Alanyaspor,2â0,Sivasspor,Kadir SaÄlam,0,0,2025-05-31,"May 31, 2025, 19:00",Alanyaspor,Sivasspor,1.84,3.75,3.85,0.9215686274509804
+38,2025-06-01,BB Bodrumspor,0â4,BeÅiktaÅ,Cihan AydÄ±n,1,0,2025-06-01,"Jun 1, 2025, 19:00",BB Bodrumspor,BeÅiktaÅ,4.0,3.65,1.83,0.6875
+38,2025-06-01,Samsunspor,2â1,Kayserispor,Atilla KaraoÄlan,0,0,2025-06-01,"Jun 1, 2025, 19:00",Samsunspor,Kayserispor,1.63,4.1,4.75,0.7213114754098361
+1,2025-08-09,Samsunspor,2â1,GenÃ§lerbirliÄi,Ali YÄ±lmaz,1,0,2025-08-09,"Aug 9, 2025, 19:00",Samsunspor,GenÃ§lerbirliÄi,1.7,3.75,4.5,0.5714285714285714
+1,2025-08-09,Antalyaspor,2â1,KasÄ±mpaÅa,Alper Akarsu,0,0,2025-08-09,"Aug 9, 2025, 21:30",Antalyaspor,KasÄ±mpaÅa,2.7,3.5,2.37,0.26666666666666666
+1,2025-08-10,Rizespor,0â3,GÃ¶ztepe,Mehmet TÃ¼rkmen,0,0,2025-08-10,"Aug 10, 2025, 19:00",Rizespor,GÃ¶ztepe,2.03,3.44,3.4,0.5925925925925926
+1,2025-08-10,EyÃ¼pspor,1â4,Konyaspor,Batuhan Kolak,1,0,2025-08-10,"Aug 10, 2025, 21:30",EyÃ¼pspor,Konyaspor,2.4,3.11,3.06,0.16666666666666666
+1,2025-08-11,Trabzonspor,1â0,Kocaelispor,ÃaÄdaÅ Altay,0,0,2025-08-11,"Aug 11, 2025, 21:30",Trabzonspor,Kocaelispor,1.46,4.0,6.32,0.7222222222222222
+2,2025-08-15,Galatasaray,3â0,Fatih KaragÃ¼mrÃ¼k,Ozan ErgÃ¼n,0,1,2025-08-15,"Aug 15, 2025, 21:30",Galatasaray,Fatih KaragÃ¼mrÃ¼k,1.07,7.75,16.0,0.5
+2,2025-08-16,Kocaelispor,0â1,Samsunspor,Zorbay KÃ¼Ã§Ã¼k,0,1,2025-08-16,"Aug 16, 2025, 19:00",Kocaelispor,Samsunspor,2.5,3.25,2.75,0.7857142857142857
+2,2025-08-16,GÃ¶ztepe,0â0,FenerbahÃ§e,Yasin Kol,0,3,2025-08-16,"Aug 16, 2025, 21:30",GÃ¶ztepe,FenerbahÃ§e,4.0,3.85,1.98,1.2
+2,2025-08-16,Alanyaspor,0â0,Rizespor,Atilla KaraoÄlan,0,0,2025-08-16,"Aug 16, 2025, 21:30",Alanyaspor,Rizespor,2.43,3.43,3.01,0.7213114754098361
+2,2025-08-17,GenÃ§lerbirliÄi,0â1,Antalyaspor,OÄuzhan Aksu,0,0,2025-08-17,"Aug 17, 2025, 19:00",GenÃ§lerbirliÄi,Antalyaspor,2.68,3.18,2.87,0.0
+2,2025-08-17,BeÅiktaÅ,2â1,EyÃ¼pspor,Halil Umut Meler,1,0,2025-08-17,"Aug 17, 2025, 21:30",BeÅiktaÅ,EyÃ¼pspor,1.48,4.73,5.64,1.0909090909090908
+2,2025-08-18,KasÄ±mpaÅa,0â1,Trabzonspor,Cihan AydÄ±n,0,0,2025-08-18,"Aug 18, 2025, 21:30",KasÄ±mpaÅa,Trabzonspor,3.02,3.48,2.43,0.6875
+3,2025-08-22,Fatih KaragÃ¼mrÃ¼k,0â2,GÃ¶ztepe,Batuhan Kolak,0,0,2025-08-22,"Aug 22, 2025, 21:30",Fatih KaragÃ¼mrÃ¼k,GÃ¶ztepe,4.07,3.3,1.87,0.16666666666666666
+3,2025-08-23,FenerbahÃ§e,3â1,Kocaelispor,Mehmet TÃ¼rkmen,0,0,2025-08-23,"Aug 23, 2025, 21:30",FenerbahÃ§e,Kocaelispor,1.26,5.5,10.0,0.5925925925925926
+3,2025-08-24,Trabzonspor,1â0,Antalyaspor,Ali YÄ±lmaz,0,0,2025-08-24,"Aug 24, 2025, 19:00",Trabzonspor,Antalyaspor,1.59,4.33,5.6,0.5714285714285714
+3,2025-08-24,Kayserispor,0â4,Galatasaray,Alper Akarsu,0,0,2025-08-24,"Aug 24, 2025, 21:30",Kayserispor,Galatasaray,6.0,5.0,1.36,0.26666666666666666
+3,2025-08-25,EyÃ¼pspor,2â1,Alanyaspor,Arda KardeÅler,1,0,2025-08-25,"Aug 25, 2025, 19:00",EyÃ¼pspor,Alanyaspor,2.47,3.3,2.67,0.5714285714285714
+4,2025-08-29,GÃ¶ztepe,1â1,Konyaspor,Ali Åansalan,0,0,2025-08-29,"Aug 29, 2025, 21:30",GÃ¶ztepe,Konyaspor,1.87,3.55,4.47,0.6575342465753424
+4,2025-08-30,Kocaelispor,1â1,Kayserispor,Yasin Kol,0,0,2025-08-30,"Aug 30, 2025, 19:00",Kocaelispor,Kayserispor,2.11,3.4,3.1,1.2
+4,2025-08-30,Antalyaspor,1â2,Fatih KaragÃ¼mrÃ¼k,Cihan AydÄ±n,0,0,2025-08-30,"Aug 30, 2025, 21:30",Antalyaspor,Fatih KaragÃ¼mrÃ¼k,1.75,3.4,4.33,0.6875
+4,2025-08-30,Galatasaray,3â1,Rizespor,Ali YÄ±lmaz,0,0,2025-08-30,"Aug 30, 2025, 21:30",Galatasaray,Rizespor,1.2,6.9,12.0,0.5714285714285714
+4,2025-08-31,GenÃ§lerbirliÄi,1â3,FenerbahÃ§e,ÃaÄdaÅ Altay,0,0,2025-08-31,"Aug 31, 2025, 19:00",GenÃ§lerbirliÄi,FenerbahÃ§e,6.75,4.9,1.34,0.7222222222222222
+4,2025-08-31,Trabzonspor,1â1,Samsunspor,Adnan Deniz Kayatepe,0,0,2025-08-31,"Aug 31, 2025, 21:30",Trabzonspor,Samsunspor,1.76,3.97,4.5,0.6666666666666666
+4,2025-08-31,Alanyaspor,2â0,BeÅiktaÅ,Kadir SaÄlam,1,0,2025-08-31,"Aug 31, 2025, 21:30",Alanyaspor,BeÅiktaÅ,3.5,3.6,2.09,0.9215686274509804
+5,2025-09-13,Samsunspor,1â2,Antalyaspor,Arda KardeÅler,0,1,2025-09-13,"Sep 13, 2025, 17:00",Samsunspor,Antalyaspor,1.6,3.5,5.25,0.5714285714285714
+5,2025-09-13,Fatih KaragÃ¼mrÃ¼k,0â1,KasÄ±mpaÅa,OÄuzhan Aksu,0,0,2025-09-13,"Sep 13, 2025, 17:00",Fatih KaragÃ¼mrÃ¼k,KasÄ±mpaÅa,2.85,3.35,2.45,0.0
+5,2025-09-13,EyÃ¼pspor,0â2,Galatasaray,Batuhan Kolak,0,0,2025-09-13,"Sep 13, 2025, 17:00",EyÃ¼pspor,Galatasaray,7.5,5.25,1.37,0.16666666666666666
+5,2025-09-13,Konyaspor,1â2,Alanyaspor,Halil Umut Meler,0,0,2025-09-13,"Sep 13, 2025, 20:00",Konyaspor,Alanyaspor,2.06,3.5,3.52,1.0909090909090908
+5,2025-09-14,Kayserispor,1â1,GÃ¶ztepe,Atilla KaraoÄlan,0,0,2025-09-14,"Sep 14, 2025, 17:00",Kayserispor,GÃ¶ztepe,3.5,3.43,2.05,0.7213114754098361
+5,2025-09-14,FenerbahÃ§e,1â0,Trabzonspor,Ozan ErgÃ¼n,0,1,2025-09-14,"Sep 14, 2025, 19:00",FenerbahÃ§e,Trabzonspor,1.45,4.6,6.5,0.5
+5,2025-09-15,Rizespor,1â0,GenÃ§lerbirliÄi,Zorbay KÃ¼Ã§Ã¼k,0,0,2025-09-15,"Sep 15, 2025, 20:00",Rizespor,GenÃ§lerbirliÄi,1.72,3.82,0.0,0.7857142857142857
+1,2025-09-17,FenerbahÃ§e,2â2,Alanyaspor,Cihan AydÄ±n,0,0,2025-09-17,"Sep 17, 2025, 20:00",FenerbahÃ§e,Alanyaspor,1.28,6.0,10.0,0.6875
+3,2025-09-17,Samsunspor,0â0,KasÄ±mpaÅa,Ali Åansalan,0,0,2025-09-17,"Sep 17, 2025, 20:00",Samsunspor,KasÄ±mpaÅa,1.77,3.8,4.0,0.6575342465753424
+6,2025-09-19,GÃ¶ztepe,3â0,BeÅiktaÅ,Mehmet TÃ¼rkmen,0,0,2025-09-19,"Sep 19, 2025, 20:00",GÃ¶ztepe,BeÅiktaÅ,2.1,3.25,3.13,0.5925925925925926
+6,2025-09-20,GenÃ§lerbirliÄi,1â0,EyÃ¼pspor,Ãmer Tolga GÃ¼ldibi,0,0,2025-09-20,"Sep 20, 2025, 17:00",GenÃ§lerbirliÄi,EyÃ¼pspor,2.45,3.3,3.13,0.0
+6,2025-09-20,Antalyaspor,1â1,Kayserispor,Kadir SaÄlam,0,0,2025-09-20,"Sep 20, 2025, 20:00",Antalyaspor,Kayserispor,2.12,3.25,3.0,0.9215686274509804
+6,2025-09-21,Kocaelispor,1â1,Rizespor,Umit ÃztÃ¼rk,1,0,2025-09-21,"Sep 21, 2025, 17:00",Kocaelispor,Rizespor,2.7,3.4,2.5,0.8163265306122449
+6,2025-09-21,KasÄ±mpaÅa,1â1,FenerbahÃ§e,OÄuzhan Ãakir,0,1,2025-09-21,"Sep 21, 2025, 20:00",KasÄ±mpaÅa,FenerbahÃ§e,6.6,4.5,1.41,0.72
+6,2025-09-21,Samsunspor,3â2,Fatih KaragÃ¼mrÃ¼k,ÃaÄdaÅ Altay,0,0,2025-09-21,"Sep 21, 2025, 20:00",Samsunspor,Fatih KaragÃ¼mrÃ¼k,1.6,3.8,4.7,0.7222222222222222
+6,2025-09-22,Galatasaray,3â1,Konyaspor,Yasin Kol,0,0,2025-09-22,"Sep 22, 2025, 20:00",Galatasaray,Konyaspor,1.23,7.0,11.0,1.2
+1,2025-09-24,Kayserispor,0â4,BeÅiktaÅ,Adnan Deniz Kayatepe,0,0,2025-09-24,"Sep 24, 2025, 20:00",Kayserispor,BeÅiktaÅ,4.3,3.79,1.92,0.6666666666666666
+7,2025-09-26,Alanyaspor,0â1,Galatasaray,Zorbay KÃ¼Ã§Ã¼k,0,0,2025-09-26,"Sep 26, 2025, 20:00",Alanyaspor,Galatasaray,7.0,4.76,1.45,0.7857142857142857
+7,2025-09-27,EyÃ¼pspor,0â0,GÃ¶ztepe,Kadir SaÄlam,0,0,2025-09-27,"Sep 27, 2025, 17:00",EyÃ¼pspor,GÃ¶ztepe,3.3,3.3,2.1,0.9215686274509804
+7,2025-09-27,Fatih KaragÃ¼mrÃ¼k,3â4,Trabzonspor,Mehmet TÃ¼rkmen,1,0,2025-09-27,"Sep 27, 2025, 20:00",Fatih KaragÃ¼mrÃ¼k,Trabzonspor,3.85,3.55,1.97,0.5925925925925926
+7,2025-09-28,Rizespor,1â2,KasÄ±mpaÅa,ÃaÄdaÅ Altay,0,0,2025-09-28,"Sep 28, 2025, 17:00",Rizespor,KasÄ±mpaÅa,2.02,3.64,3.4,0.7222222222222222
+7,2025-09-28,FenerbahÃ§e,2â0,Antalyaspor,Ali YÄ±lmaz,1,0,2025-09-28,"Sep 28, 2025, 20:00",FenerbahÃ§e,Antalyaspor,1.22,6.54,12.28,0.5714285714285714
+7,2025-09-28,Kayserispor,1â1,GenÃ§lerbirliÄi,YiÄit Arslan,0,2,2025-09-28,"Sep 28, 2025, 20:00",Kayserispor,GenÃ§lerbirliÄi,2.19,3.45,3.3,1.7142857142857142
+7,2025-09-29,BeÅiktaÅ,3â1,Kocaelispor,Ali Åansalan,0,0,2025-09-29,"Sep 29, 2025, 20:00",BeÅiktaÅ,Kocaelispor,1.39,4.8,7.0,0.6575342465753424
+8,2025-10-03,Antalyaspor,2â5,Rizespor,Ozan ErgÃ¼n,0,1,2025-10-03,"Oct 3, 2025, 20:00",Antalyaspor,Rizespor,2.9,3.35,2.45,0.5
+8,2025-10-03,Trabzonspor,4â0,Kayserispor,Ali Åansalan,1,0,2025-10-03,"Oct 3, 2025, 20:00",Trabzonspor,Kayserispor,1.5,4.2,5.7,0.6575342465753424
+8,2025-10-04,GenÃ§lerbirliÄi,2â2,Alanyaspor,Atilla KaraoÄlan,1,0,2025-10-04,"Oct 4, 2025, 14:30",GenÃ§lerbirliÄi,Alanyaspor,3.1,3.34,2.25,0.7213114754098361
+8,2025-10-04,Kocaelispor,1â0,EyÃ¼pspor,Adnan Deniz Kayatepe,1,0,2025-10-04,"Oct 4, 2025, 17:00",Kocaelispor,EyÃ¼pspor,2.14,3.4,3.2,0.6666666666666666
+8,2025-10-04,Galatasaray,1â1,BeÅiktaÅ,Yasin Kol,0,1,2025-10-04,"Oct 4, 2025, 20:00",Galatasaray,BeÅiktaÅ,1.5,4.35,4.72,1.2
+8,2025-10-05,KasÄ±mpaÅa,1â1,Konyaspor,Alper Akarsu,0,0,2025-10-05,"Oct 5, 2025, 14:30",KasÄ±mpaÅa,Konyaspor,2.61,3.3,2.6,0.26666666666666666
+8,2025-10-05,Samsunspor,0â0,FenerbahÃ§e,Halil Umut Meler,0,0,2025-10-05,"Oct 5, 2025, 20:00",Samsunspor,FenerbahÃ§e,5.0,4.12,1.62,1.0909090909090908
+9,2025-10-18,Konyaspor,2â3,Kocaelispor,Kadir SaÄlam,1,0,2025-10-18,"Oct 18, 2025, 14:30",Konyaspor,Kocaelispor,1.95,3.51,4.06,0.9215686274509804
+9,2025-10-18,BeÅiktaÅ,1â2,GenÃ§lerbirliÄi,OÄuzhan Ãakir,0,0,2025-10-18,"Oct 18, 2025, 17:00",BeÅiktaÅ,GenÃ§lerbirliÄi,1.23,6.69,10.5,0.72
+9,2025-10-18,Rizespor,1â2,Trabzonspor,Halil Umut Meler,0,0,2025-10-18,"Oct 18, 2025, 17:00",Rizespor,Trabzonspor,3.07,3.48,2.25,1.0909090909090908
+9,2025-10-19,Kayserispor,1â3,Samsunspor,Umit ÃztÃ¼rk,0,0,2025-10-19,"Oct 19, 2025, 14:30",Kayserispor,Samsunspor,2.95,3.5,2.2,0.8163265306122449
+9,2025-10-19,Alanyaspor,1â0,GÃ¶ztepe,Ali YÄ±lmaz,0,0,2025-10-19,"Oct 19, 2025, 17:00",Alanyaspor,GÃ¶ztepe,2.7,3.1,2.7,0.5714285714285714
+9,2025-10-19,FenerbahÃ§e,2â1,Fatih KaragÃ¼mrÃ¼k,Ali Åansalan,1,1,2025-10-19,"Oct 19, 2025, 20:00",FenerbahÃ§e,Fatih KaragÃ¼mrÃ¼k,1.25,6.6,11.5,0.6575342465753424
+9,2025-10-20,EyÃ¼pspor,2â0,KasÄ±mpaÅa,Cihan AydÄ±n,0,0,2025-10-20,"Oct 20, 2025, 20:00",EyÃ¼pspor,KasÄ±mpaÅa,2.3,3.25,2.8,0.6875
+3,2025-10-22,Konyaspor,0â2,BeÅiktaÅ,Ozan ErgÃ¼n,0,0,2025-10-22,"Oct 22, 2025, 20:00",Konyaspor,BeÅiktaÅ,3.1,3.57,2.15,0.5
+10,2025-10-24,Fatih KaragÃ¼mrÃ¼k,2â2,Kayserispor,Yasin Kol,1,1,2025-10-24,"Oct 24, 2025, 20:00",Fatih KaragÃ¼mrÃ¼k,Kayserispor,2.15,3.59,3.31,1.2
+10,2025-10-25,Kocaelispor,2â0,Alanyaspor,Mehmet TÃ¼rkmen,0,0,2025-10-25,"Oct 25, 2025, 17:00",Kocaelispor,Alanyaspor,2.45,3.2,2.74,0.5925925925925926
+10,2025-10-25,Trabzonspor,2â0,EyÃ¼pspor,Zorbay KÃ¼Ã§Ã¼k,0,0,2025-10-25,"Oct 25, 2025, 20:00",Trabzonspor,EyÃ¼pspor,1.61,4.0,5.45,0.7857142857142857
+10,2025-10-26,Galatasaray,3â1,GÃ¶ztepe,OÄuzhan Ãakir,0,1,2025-10-26,"Oct 26, 2025, 17:00",Galatasaray,GÃ¶ztepe,1.4,4.4,7.0,0.72
+10,2025-10-26,GenÃ§lerbirliÄi,1â2,Konyaspor,Halil Umut Meler,0,1,2025-10-26,"Oct 26, 2025, 17:00",GenÃ§lerbirliÄi,Konyaspor,3.2,3.2,2.28,1.0909090909090908
+10,2025-10-26,KasÄ±mpaÅa,1â1,BeÅiktaÅ,Adnan Deniz Kayatepe,0,0,2025-10-26,"Oct 26, 2025, 20:00",KasÄ±mpaÅa,BeÅiktaÅ,4.2,3.6,1.75,0.6666666666666666
+10,2025-10-27,Samsunspor,1â1,Rizespor,Cihan AydÄ±n,0,0,2025-10-27,"Oct 27, 2025, 20:00",Samsunspor,Rizespor,1.88,3.4,4.17,0.6875
+11,2025-11-01,GÃ¶ztepe,1â0,GenÃ§lerbirliÄi,Yasin Kol,0,0,2025-11-01,"Nov 1, 2025, 17:00",GÃ¶ztepe,GenÃ§lerbirliÄi,1.42,4.16,6.0,1.2
+11,2025-11-01,Galatasaray,0â0,Trabzonspor,Cihan AydÄ±n,0,1,2025-11-01,"Nov 1, 2025, 20:00",Galatasaray,Trabzonspor,1.42,5.05,6.8,0.6875
+11,2025-11-02,Konyaspor,1â3,Samsunspor,Ali Åansalan,0,0,2025-11-02,"Nov 2, 2025, 14:30",Konyaspor,Samsunspor,2.45,3.4,2.89,0.6575342465753424
+11,2025-11-02,Kayserispor,3â2,KasÄ±mpaÅa,Kadir SaÄlam,0,0,2025-11-02,"Nov 2, 2025, 17:00",Kayserispor,KasÄ±mpaÅa,2.29,3.55,2.8,0.9215686274509804
+11,2025-11-02,BeÅiktaÅ,2â3,FenerbahÃ§e,Ali YÄ±lmaz,0,1,2025-11-02,"Nov 2, 2025, 20:00",BeÅiktaÅ,FenerbahÃ§e,3.05,3.6,2.15,0.5714285714285714
+11,2025-11-03,EyÃ¼pspor,0â1,Antalyaspor,Alper Akarsu,0,0,2025-11-03,"Nov 3, 2025, 20:00",EyÃ¼pspor,Antalyaspor,1.82,3.5,4.05,0.26666666666666666
+11,2025-11-03,Rizespor,1â0,Fatih KaragÃ¼mrÃ¼k,Ãmer Tolga GÃ¼ldibi,0,0,2025-11-03,"Nov 3, 2025, 20:00",Rizespor,Fatih KaragÃ¼mrÃ¼k,1.73,3.8,4.25,0.0
+12,2025-11-08,Trabzonspor,1â1,Alanyaspor,Ali Åansalan,0,0,2025-11-08,"Nov 8, 2025, 17:00",Trabzonspor,Alanyaspor,1.7,4.0,4.6,0.6575342465753424
+12,2025-11-08,KasÄ±mpaÅa,0â2,GÃ¶ztepe,Ãmer Tolga GÃ¼ldibi,0,0,2025-11-08,"Nov 8, 2025, 20:00",KasÄ±mpaÅa,GÃ¶ztepe,3.45,3.35,2.15,0.0
+12,2025-11-08,Antalyaspor,1â3,BeÅiktaÅ,Cihan AydÄ±n,0,0,2025-11-08,"Nov 8, 2025, 20:00",Antalyaspor,BeÅiktaÅ,4.71,4.18,1.67,0.6875
+12,2025-11-09,Fatih KaragÃ¼mrÃ¼k,2â0,Konyaspor,Adnan Deniz Kayatepe,0,0,2025-11-09,"Nov 9, 2025, 14:30",Fatih KaragÃ¼mrÃ¼k,Konyaspor,2.9,3.5,2.2,0.6666666666666666
+12,2025-11-09,Kocaelispor,1â0,Galatasaray,ÃaÄdaÅ Altay,0,0,2025-11-09,"Nov 9, 2025, 17:00",Kocaelispor,Galatasaray,7.0,5.0,1.38,0.7222222222222222
+12,2025-11-09,Samsunspor,1â0,EyÃ¼pspor,Yasin Kol,0,0,2025-11-09,"Nov 9, 2025, 20:00",Samsunspor,EyÃ¼pspor,1.75,3.5,4.4,1.2
+12,2025-11-09,FenerbahÃ§e,4â2,Kayserispor,Ozan ErgÃ¼n,0,0,2025-11-09,"Nov 9, 2025, 20:00",FenerbahÃ§e,Kayserispor,1.18,7.1,13.0,0.5
