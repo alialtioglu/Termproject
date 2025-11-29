@@ -1,10 +1,5 @@
-Anladım. **3.2. Decision Frequency Analysis** bölümünü atlayarak ve kalan kısımların akışını koruyarak son, akademik `README.md` dosyanızı hemen hazırlıyorum.
 
-Bu dosya, bireysel takım istatistiklerinden ziyade, **metodolojik ve istatistiksel kanıt** üzerine odaklanır.
-
----
-
-# 📝 FINAL PROJECT REPORT: ANOMALY DETECTION IN REFEREE DECISIONS
+FINAL PROJECT REPORT: ANOMALY DETECTION IN REFEREE DECISIONS
 
 ### The objectivity of referee decisions in football is an arguable point of controversy. This project aimed to scientifically investigate potential biases by combining public match statistics with betting odds data. The final report validates the Referee Performance Index (RPI) and assesses its independence from financial market expectations.
 
@@ -69,4 +64,3 @@ The next phase will shift from statistical validation to predictive modeling, us
 * **Dependencies:** Listed in `requirements.txt`.
 * **Code Location:** All final processing, cleaning, RPI calculation, and hypothesis testing scripts are located in the `/scripts` folder.
 * **Final Data:** The clean, processed data is stored in the `/data/processed` folder.
-* 
