@@ -41,8 +41,8 @@ The Independent Samples $t$-Test on the final adjusted data yielded the followin
 ### 3.1. Betting Odds Impact (Financial Link)
 The analysis assessed the influence of the **Betting Odds (Financial Indicator)** on decision frequency:
 
-* **Penaltı Kararları vs. Home Win Odds Korelasyonu:** **-0.0047**
-* **Kırmızı Kart Kararları vs. Home Win Odds Korelasyonu:** **+0.0635**
+* **Penalties vs. Home Win Odds Correlation:** **-0.0047**
+* **Red cards vs. Home Win Odds Correlation:** **+0.0635**
 * **Conclusion:** The analysis found **no strong linear relationship** between betting market expectations and the frequency of critical referee decisions.
 
 ***
