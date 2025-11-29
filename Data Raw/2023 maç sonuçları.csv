@@ -1,0 +1,431 @@
+Wk,Date,Time,Home,Score,Away,Referee
+1,2023-08-11,21:00,Trabzonspor,1–0,Antalyaspor,Zorbay Küçük
+1,2023-08-12,19:15,Kasımpaşa,3–2,Ankaragücü,Bahattin Şimşek
+1,2023-08-12,19:15,Konyaspor,1–1,İstanbulspor,Burak Pakkan
+1,2023-08-12,21:45,Kayserispor,0–0,Galatasaray,Halil Umut Meler
+1,2023-08-12,21:45,Pendikspor,1–5,Hatayspor,Çağdaş Altay
+1,2023-08-13,19:15,Sivasspor,1–1,Samsunspor,Murat Erdoğan
+1,2023-08-13,21:45,Fenerbahçe,2–1,Gaziantep FK,Abdulkadir Bitigen
+1,2023-08-13,21:45,Adana Demirspor,2–1,Rizespor,Umit Öztürk
+1,2023-08-14,21:00,Fatih Karagümrük,0–1,Beşiktaş,Erkan Özdamar
+1,2023-08-14,21:00,Alanyaspor,2–0,Başakşehir,Tugay Kaan Numanoğlu
+,,,,,,
+2,2023-08-18,21:00,İstanbulspor,1–1,Kayserispor,Sarper Barış Saka
+2,2023-08-18,21:00,Antalyaspor,1–1,Konyaspor,Ali Şansalan
+2,2023-08-19,19:15,Rizespor,0–0,Alanyaspor,Yiğit Arslan
+2,2023-08-19,21:45,Galatasaray,2–0,Trabzonspor,Atilla Karaoğlan
+2,2023-08-19,21:45,Hatayspor,0–0,Kasımpaşa,Mert Güzenge
+2,2023-08-20,19:15,Başakşehir,0–2,Fatih Karagümrük,Burak Şeker
+2,2023-08-20,21:45,Gaziantep FK,1–3,Sivasspor,Arda Kardeşler
+2,2023-08-20,21:45,Beşiktaş,1–1,Pendikspor,Kadir Sağlam
+2,2023-08-21,21:00,Samsunspor,0–2,Fenerbahçe,Volkan Bayarslan
+2,2023-08-21,21:00,Ankaragücü,1–1,Adana Demirspor,Cihan Aydın
+,,,,,,
+3,2023-08-25,21:00,Konyaspor,2–0,Gaziantep FK,Mete Kalkavan
+3,2023-08-26,19:15,Kasımpaşa,1–1,Pendikspor,Yaşar Kemal Uğurlu
+3,2023-08-26,19:15,Trabzonspor,2–3,Rizespor,Halil Umut Meler
+3,2023-08-26,21:45,Sivasspor,1–1,Antalyaspor,Umit Öztürk
+3,2023-08-27,19:15,Fatih Karagümrük,1–1,Ankaragücü,Turgut Doman
+3,2023-08-27,19:15,Kayserispor,2–1,Samsunspor,Bahattin Şimşek
+3,2023-08-27,21:45,Alanyaspor,0–0,Hatayspor,Direnç Tonusluoğlu
+,,,,,,
+4,2023-09-01,21:00,Kasımpaşa,1–5,Trabzonspor,Erkan Özdamar
+4,2023-09-01,21:00,Rizespor,1–0,Fatih Karagümrük,Murat Erdoğan
+4,2023-09-02,19:15,Pendikspor,1–1,Alanyaspor,Abdulkadir Bitigen
+4,2023-09-02,19:15,Başakşehir,0–1,Konyaspor,Atilla Karaoğlan
+4,2023-09-02,21:45,Antalyaspor,1–1,Kayserispor,Yasin Kol
+Wk,Date,Time,Home,Score,Away,Referee
+4,2023-09-02,21:45,Gaziantep FK,0–3,Galatasaray,Ali Şansalan
+4,2023-09-03,19:15,Beşiktaş,2–0,Sivasspor,Zorbay Küçük
+4,2023-09-03,21:45,Hatayspor,3–3,Adana Demirspor,Sarper Barış Saka
+4,2023-09-03,21:45,Ankaragücü,0–1,Fenerbahçe,Arda Kardeşler
+,,,,,,
+5,2023-09-16,17:00,Konyaspor,1–2,Rizespor,Bahattin Şimşek
+5,2023-09-16,17:00,Kayserispor,2–0,Gaziantep FK,Umit Öztürk
+5,2023-09-16,20:00,Galatasaray,4–2,Samsunspor,Cihan Aydın
+5,2023-09-16,20:00,Adana Demirspor,3–0,Pendikspor,Mert Güzenge
+5,2023-09-17,17:00,İstanbulspor,0–2,Başakşehir,Direnç Tonusluoğlu
+5,2023-09-17,17:00,Fenerbahçe,3–2,Antalyaspor,Halil Umut Meler
+5,2023-09-17,20:00,Trabzonspor,3–0,Beşiktaş,Volkan Bayarslan
+5,2023-09-17,20:00,Alanyaspor,3–3,Kasımpaşa,Turgut Doman
+5,2023-09-18,20:00,Fatih Karagümrük,0–0,Hatayspor,Yaşar Kemal Uğurlu
+5,2023-09-18,20:00,Sivasspor,1–3,Ankaragücü,Çağdaş Altay
+,,,,,,
+6,2023-09-22,20:00,Gaziantep FK,2–0,İstanbulspor,Murat Erdoğan
+6,2023-09-23,17:00,Rizespor,1–1,Sivasspor,Burak Pakkan
+6,2023-09-23,17:00,Pendikspor,1–1,Fatih Karagümrük,Tugay Kaan Numanoğlu
+6,2023-09-23,20:00,Başakşehir,1–2,Galatasaray,Kadir Sağlam
+6,2023-09-23,20:00,Antalyaspor,2–0,Samsunspor,Arda Kardeşler
+6,2023-09-24,17:00,Ankaragücü,1–1,Konyaspor,Erkan Özdamar
+6,2023-09-24,17:00,Beşiktaş,2–1,Kayserispor,Ali Şansalan
+6,2023-09-24,20:00,Alanyaspor,0–1,Fenerbahçe,Atilla Karaoğlan
+6,2023-09-24,20:00,Kasımpaşa,2–1,Adana Demirspor,Yasin Kol
+6,2023-09-25,20:00,Hatayspor,3–2,Trabzonspor,Burak Şeker
+,,,,,,
+3,2023-09-26,20:00,İstanbulspor,0–1,Galatasaray,Abdulkadir Bitigen
+3,2023-09-27,20:00,Adana Demirspor,4–2,Beşiktaş,Umit Öztürk
+3,2023-09-28,20:00,Fenerbahçe,4–0,Başakşehir,Zorbay Küçük
+,,,,,,
+7,2023-09-29,20:00,Samsunspor,1–2,Gaziantep FK,Burak Pakkan
+7,2023-09-30,13:30,Sivasspor,0–0,Hatayspor,Murat Erdoğan
+7,2023-09-30,16:00,İstanbulspor,1–2,Antalyaspor,Çağdaş Altay
+7,2023-09-30,16:00,Trabzonspor,2–1,Pendikspor,Bahattin Şimşek
+Wk,Date,Time,Home,Score,Away,Referee
+7,2023-09-30,19:00,Galatasaray,2–1,Ankaragücü,Volkan Bayarslan
+7,2023-10-01,13:30,Fatih Karagümrük,2–3,Kasımpaşa,Atilla Karaoğlan
+7,2023-10-01,16:00,Fenerbahçe,5–0,Rizespor,Cihan Aydın
+7,2023-10-01,19:00,Adana Demirspor,4–0,Alanyaspor,Ali Şansalan
+7,2023-10-01,19:00,Konyaspor,0–2,Beşiktaş,Arda Kardeşler
+7,2023-10-02,20:00,Kayserispor,0–0,Başakşehir,Halil Umut Meler
+,,,,,,
+8,2023-10-06,20:00,Adana Demirspor,1–0,Trabzonspor,Kadir Sağlam
+8,2023-10-06,20:00,Alanyaspor,2–1,Fatih Karagümrük,Direnç Tonusluoğlu
+8,2023-10-07,13:30,Pendikspor,2–3,Sivasspor,Turgut Doman
+8,2023-10-07,16:00,Ankaragücü,3–0,Kayserispor,Mert Güzenge
+8,2023-10-07,19:00,Başakşehir,2–0,Gaziantep FK,Sarper Barış Saka
+8,2023-10-07,19:00,Antalyaspor,0–2,Galatasaray,Zorbay Küçük
+8,2023-10-08,13:30,Rizespor,1–0,Samsunspor,Abdulkadir Bitigen
+8,2023-10-08,16:00,Beşiktaş,2–0,İstanbulspor,Tugay Kaan Numanoğlu
+8,2023-10-08,19:00,Kasımpaşa,0–2,Fenerbahçe,Mete Kalkavan
+8,2023-10-08,19:00,Hatayspor,3–1,Konyaspor,Umit Öztürk
+,,,,,,
+9,2023-10-21,13:30,Kayserispor,3–1,Rizespor,Burak Şeker
+9,2023-10-21,16:00,Gaziantep FK,1–0,Antalyaspor,Atilla Karaoğlan
+9,2023-10-21,16:00,Konyaspor,1–2,Pendikspor,Çağdaş Altay
+9,2023-10-21,19:00,Galatasaray,2–1,Beşiktaş,Halil Umut Meler
+9,2023-10-22,13:30,Sivasspor,0–1,Kasımpaşa,Yaşar Kemal Uğurlu
+9,2023-10-22,16:00,İstanbulspor,2–1,Ankaragücü,Yiğit Arslan
+9,2023-10-22,19:00,Fenerbahçe,4–2,Hatayspor,Volkan Bayarslan
+9,2023-10-22,19:00,Samsunspor,0–0,Başakşehir,Murat Erdoğan
+9,2023-10-23,20:00,Trabzonspor,1–0,Alanyaspor,Arda Kardeşler
+9,2023-10-23,20:00,Fatih Karagümrük,2–0,Adana Demirspor,Bahattin Şimşek
+,,,,,,
+10,2023-10-27,20:00,Kasımpaşa,3–1,İstanbulspor,Erkan Özdamar
+10,2023-10-27,20:00,Hatayspor,1–2,Kayserispor,Sarper Barış Saka
+10,2023-10-28,16:00,Alanyaspor,1–2,Sivasspor,Mert Güzenge
+10,2023-10-28,19:00,Rizespor,0–1,Galatasaray,Kadir Sağlam
+10,2023-10-28,19:00,Adana Demirspor,3–0,Konyaspor,Turgut Doman
+10,2023-10-29,16:00,Fatih Karagümrük,0–0,Trabzonspor,Ali Şansalan
+Wk,Date,Time,Home,Score,Away,Referee
+10,2023-10-29,19:00,Antalyaspor,1–0,Başakşehir,Umit Öztürk
+10,2023-10-29,19:00,Ankaragücü,2–0,Samsunspor,Cihan Aydın
+10,2023-10-29,19:00,Pendikspor,0–5,Fenerbahçe,Abdulkadir Bitigen
+10,2023-10-30,20:00,Beşiktaş,2–0,Gaziantep FK,Mete Kalkavan
+,,,,,,
+11,2023-11-03,20:00,Galatasaray,2–1,Kasımpaşa,Arda Kardeşler
+11,2023-11-04,13:30,İstanbulspor,2–4,Pendikspor,Murat Erdoğan
+11,2023-11-04,16:00,Samsunspor,2–1,Hatayspor,Halil Umut Meler
+11,2023-11-04,19:00,Fenerbahçe,2–3,Trabzonspor,Zorbay Küçük
+11,2023-11-05,13:30,Sivasspor,1–1,Adana Demirspor,Burak Pakkan
+11,2023-11-05,16:00,Konyaspor,1–1,Fatih Karagümrük,Mert Güzenge
+11,2023-11-05,16:00,Başakşehir,3–3,Ankaragücü,Çağdaş Altay
+11,2023-11-05,19:00,Antalyaspor,3–2,Beşiktaş,Yaşar Kemal Uğurlu
+11,2023-11-06,20:00,Kayserispor,1–0,Alanyaspor,Tugay Kaan Numanoğlu
+11,2023-11-06,20:00,Gaziantep FK,2–0,Rizespor,Ali Şansalan
+,,,,,,
+4,2023-11-08,20:00,Samsunspor,2–1,İstanbulspor,Burak Şeker
+,,,,,,
+12,2023-11-10,20:00,Trabzonspor,2–1,Konyaspor,Cihan Aydın
+12,2023-11-10,20:00,Ankaragücü,0–4,Antalyaspor,Direnç Tonusluoğlu
+12,2023-11-11,13:30,Kasımpaşa,3–4,Kayserispor,Çağdaş Altay
+12,2023-11-11,16:00,Fatih Karagümrük,3–0,Sivasspor,Murat Erdoğan
+12,2023-11-11,16:00,Alanyaspor,0–3,Gaziantep FK,Turgut Doman
+12,2023-11-11,19:00,Hatayspor,2–1,Galatasaray,Bahattin Şimşek
+12,2023-11-12,13:30,Pendikspor,1–0,Samsunspor,Burak Pakkan
+12,2023-11-12,16:00,Beşiktaş,1–0,Başakşehir,Arda Kardeşler
+12,2023-11-12,16:00,Rizespor,1–0,İstanbulspor,Sarper Barış Saka
+12,2023-11-12,19:00,Adana Demirspor,0–0,Fenerbahçe,Halil Umut Meler
+,,,,,,
+13,2023-11-25,13:30,İstanbulspor,2–1,Hatayspor,Tugay Kaan Numanoğlu
+13,2023-11-25,16:00,Konyaspor,2–0,Kasımpaşa,Direnç Tonusluoğlu
+13,2023-11-25,16:00,Gaziantep FK,0–1,Ankaragücü,Umit Öztürk
+13,2023-11-25,19:00,Galatasaray,4–0,Alanyaspor,Ali Şansalan
+13,2023-11-26,13:30,Kayserispor,1–1,Adana Demirspor,Kadir Sağlam
+13,2023-11-26,16:00,Samsunspor,1–2,Beşiktaş,Abdulkadir Bitigen
+Wk,Date,Time,Home,Score,Away,Referee
+13,2023-11-26,16:00,Antalyaspor,0–0,Rizespor,Turgut Doman
+13,2023-11-26,19:00,Fenerbahçe,2–1,Fatih Karagümrük,Arda Kardeşler
+13,2023-11-27,20:00,Sivasspor,3–3,Trabzonspor,Volkan Bayarslan
+13,2023-11-27,20:00,Başakşehir,4–1,Pendikspor,Cihan Aydın
+,,,,,,
+14,2023-12-01,20:00,Fatih Karagümrük,3–0,İstanbulspor,Kadir Sağlam
+14,2023-12-01,20:00,Hatayspor,3–3,Antalyaspor,Yiğit Arslan
+14,2023-12-02,13:30,Alanyaspor,2–2,Konyaspor,Burak Pakkan
+14,2023-12-02,16:00,Rizespor,3–2,Başakşehir,Mert Güzenge
+14,2023-12-02,19:00,Pendikspor,0–2,Galatasaray,Volkan Bayarslan
+14,2023-12-02,19:00,Adana Demirspor,2–3,Samsunspor,Sarper Barış Saka
+14,2023-12-03,13:30,Kasımpaşa,4–2,Gaziantep FK,Burak Şeker
+14,2023-12-03,16:00,Trabzonspor,0–1,Kayserispor,Umit Öztürk
+14,2023-12-03,19:00,Ankaragücü,1–1,Beşiktaş,Zorbay Küçük
+14,2023-12-04,20:00,Fenerbahçe,4–1,Sivasspor,Bahattin Şimşek
+,,,,,,
+15,2023-12-08,20:00,Galatasaray,3–1,Adana Demirspor,Abdulkadir Bitigen
+15,2023-12-09,13:30,Antalyaspor,2–1,Fatih Karagümrük,Çağdaş Altay
+15,2023-12-09,16:00,Samsunspor,4–2,Kasımpaşa,Zorbay Küçük
+15,2023-12-09,19:00,Beşiktaş,1–3,Fenerbahçe,Atilla Karaoğlan
+15,2023-12-10,13:30,İstanbulspor,0–1,Alanyaspor,Cihan Aydın
+15,2023-12-10,16:00,Başakşehir,1–0,Hatayspor,Burak Şeker
+15,2023-12-10,16:00,Kayserispor,2–0,Pendikspor,Turgut Doman
+15,2023-12-10,19:00,Gaziantep FK,1–3,Trabzonspor,Arda Kardeşler
+15,2023-12-11,20:00,Ankaragücü,1–1,Rizespor,Halil Umut Meler
+15,2023-12-11,20:00,Konyaspor,0–1,Sivasspor,Tugay Kaan Numanoğlu
+,,,,,,
+17,2023-12-19,17:00,Başakşehir,3–1,Sivasspor,Mete Kalkavan
+17,2023-12-19,20:00,Gaziantep FK,2–2,Adana Demirspor,Bahattin Şimşek
+17,2023-12-19,20:00,İstanbulspor,0–3,Trabzonspor,Ali Şansalan
+17,2023-12-20,17:00,Kayserispor,3–4,Fenerbahçe,Zorbay Küçük
+17,2023-12-20,20:00,Galatasaray,1–0,Fatih Karagümrük,Tugay Kaan Numanoğlu
+17,2023-12-20,20:00,Antalyaspor,0–0,Kasımpaşa,Kadir Sağlam
+17,2023-12-21,17:00,Samsunspor,1–1,Konyaspor,Murat Erdoğan
+17,2023-12-21,17:00,Rizespor,5–1,Pendikspor,Direnç Tonusluoğlu
+Wk,Date,Time,Home,Score,Away,Referee
+17,2023-12-21,20:00,Ankaragücü,0–0,Hatayspor,Abdulkadir Bitigen
+17,2023-12-21,20:00,Beşiktaş,1–3,Alanyaspor,Umit Öztürk
+,,,,,,
+18,2023-12-23,13:30,Sivasspor,1–0,İstanbulspor,Mert Güzenge
+18,2023-12-23,16:00,Fatih Karagümrük,0–3,Gaziantep FK,Ali Şansalan
+18,2023-12-23,19:00,Trabzonspor,1–1,Başakşehir,Volkan Bayarslan
+18,2023-12-24,13:30,Konyaspor,2–0,Kayserispor,Bahattin Şimşek
+18,2023-12-24,16:00,Adana Demirspor,2–1,Antalyaspor,Burak Pakkan
+18,2023-12-24,19:00,Fenerbahçe,0–0,Galatasaray,Arda Kardeşler
+18,2023-12-25,17:00,Alanyaspor,3–1,Samsunspor,Tugay Kaan Numanoğlu
+18,2023-12-25,17:00,Kasımpaşa,2–2,Rizespor,Turgut Doman
+18,2023-12-25,20:00,Pendikspor,1–1,Ankaragücü,Umit Öztürk
+18,2023-12-25,20:00,Hatayspor,1–2,Beşiktaş,Kadir Sağlam
+,,,,,,
+19,2024-01-05,17:00,Gaziantep FK,2–2,Pendikspor,Çağdaş Altay
+19,2024-01-05,20:00,Beşiktaş,1–3,Kasımpaşa,Arda Kardeşler
+19,2024-01-05,20:00,Antalyaspor,0–0,Alanyaspor,Mert Güzenge
+19,2024-01-06,13:30,Rizespor,2–0,Hatayspor,Cihan Aydın
+19,2024-01-06,16:00,Başakşehir,0–0,Adana Demirspor,Turgut Doman
+19,2024-01-06,19:00,Ankaragücü,0–1,Trabzonspor,Burak Şeker
+19,2024-01-06,19:00,Samsunspor,1–0,Fatih Karagümrük,Emre Kargın
+19,2024-01-07,13:30,Kayserispor,1–3,Sivasspor,Alper Akarsu
+19,2024-01-07,16:00,İstanbulspor,1–5,Fenerbahçe,Volkan Bayarslan
+19,2024-01-07,19:00,Galatasaray,3–0,Konyaspor,Ali Şansalan
+,,,,,,
+16,2024-01-09,17:00,Pendikspor,0–1,Antalyaspor,Oğuzhan Çakir
+16,2024-01-09,17:00,Alanyaspor,1–1,Ankaragücü,Direnç Tonusluoğlu
+16,2024-01-09,20:00,Kasımpaşa,0–3,Başakşehir,Burak Pakkan
+16,2024-01-09,20:00,Rizespor,0–4,Beşiktaş,Abdulkadir Bitigen
+16,2024-01-10,17:00,Fatih Karagümrük,4–1,Kayserispor,Burak Şeker
+16,2024-01-10,17:00,Hatayspor,0–0,Gaziantep FK,Umit Öztürk
+16,2024-01-10,20:00,Adana Demirspor,2–2,İstanbulspor,Murat Erdoğan
+16,2024-01-10,20:00,Fenerbahçe,7–1,Konyaspor,Kadir Sağlam
+16,2024-01-11,17:00,Sivasspor,1–1,Galatasaray,Zorbay Küçük
+16,2024-01-11,20:00,Trabzonspor,2–1,Samsunspor,Cihan Aydın
+Wk,Date,Time,Home,Score,Away,Referee
+,,,,,,
+20,2024-01-13,13:30,Hatayspor,1–1,Pendikspor,Muhammetali Metoğlu
+20,2024-01-13,13:30,Ankaragücü,3–1,Kasımpaşa,Ömer Faruk Turtay
+20,2024-01-13,16:00,Başakşehir,3–2,Alanyaspor,Arda Kardeşler
+20,2024-01-13,19:00,Beşiktaş,3–0,Fatih Karagümrük,Mert Güzenge
+20,2024-01-13,19:00,Rizespor,1–0,Adana Demirspor,Volkan Bayarslan
+20,2024-01-14,13:30,İstanbulspor,0–0,Konyaspor,Halil Umut Meler
+20,2024-01-14,16:00,Samsunspor,2–0,Sivasspor,Burak Şeker
+20,2024-01-14,16:00,Antalyaspor,1–1,Trabzonspor,Bahattin Şimşek
+20,2024-01-14,19:00,Gaziantep FK,0–1,Fenerbahçe,Tugay Kaan Numanoğlu
+20,2024-01-15,20:00,Galatasaray,2–1,Kayserispor,Atilla Karaoğlan
+,,,,,,
+21,2024-01-20,13:30,Kasımpaşa,3–0,Hatayspor,Abdullah Taşkınsoy
+21,2024-01-20,16:00,Alanyaspor,2–1,Rizespor,Ali Şansalan
+21,2024-01-20,16:00,Fatih Karagümrük,1–1,Başakşehir,Umit Öztürk
+21,2024-01-20,19:00,Adana Demirspor,1–1,Ankaragücü,Arda Kardeşler
+21,2024-01-20,19:00,Pendikspor,4–0,Beşiktaş,Tugay Kaan Numanoğlu
+21,2024-01-21,13:30,Sivasspor,2–2,Gaziantep FK,Kadir Sağlam
+21,2024-01-21,16:00,Fenerbahçe,1–1,Samsunspor,Bahattin Şimşek
+21,2024-01-21,16:00,Konyaspor,1–1,Antalyaspor,Zorbay Küçük
+21,2024-01-21,19:00,Trabzonspor,1–5,Galatasaray,Abdulkadir Bitigen
+21,2024-01-22,20:00,Kayserispor,0–1,İstanbulspor,Cihan Aydın
+,,,,,,
+22,2024-01-23,17:00,Hatayspor,1–1,Alanyaspor,Emre Kargın
+22,2024-01-23,20:00,Beşiktaş,0–0,Adana Demirspor,Atilla Karaoğlan
+22,2024-01-23,20:00,Pendikspor,3–2,Kasımpaşa,Burak Şeker
+22,2024-01-24,17:00,Gaziantep FK,1–1,Konyaspor,Volkan Bayarslan
+22,2024-01-24,17:00,Ankaragücü,2–0,Fatih Karagümrük,Muhammetali Metoğlu
+22,2024-01-24,20:00,Başakşehir,0–1,Fenerbahçe,Abdulkadir Bitigen
+22,2024-01-24,20:00,Antalyaspor,2–1,Sivasspor,Turgut Doman
+22,2024-01-25,17:00,Samsunspor,2–0,Kayserispor,Çağdaş Altay
+22,2024-01-25,20:00,Rizespor,1–0,Trabzonspor,Umit Öztürk
+22,2024-01-25,20:00,Galatasaray,3–1,İstanbulspor,Bahattin Şimşek
+,,,,,,
+23,2024-01-27,16:00,Alanyaspor,1–1,Pendikspor,Volkan Bayarslan
+Wk,Date,Time,Home,Score,Away,Referee
+23,2024-01-27,19:00,Adana Demirspor,0–1,Hatayspor,Mert Güzenge
+23,2024-01-28,13:30,Konyaspor,2–3,Başakşehir,Alper Akarsu
+23,2024-01-28,16:00,Fatih Karagümrük,4–0,Rizespor,Turgut Doman
+23,2024-01-28,16:00,Sivasspor,1–0,Beşiktaş,Ali Şansalan
+23,2024-01-28,19:00,Fenerbahçe,2–1,Ankaragücü,Cihan Aydın
+23,2024-01-29,17:00,İstanbulspor,1–1,Samsunspor,Ömer Faruk Turtay
+23,2024-01-29,17:00,Kayserispor,1–1,Antalyaspor,Direnç Tonusluoğlu
+23,2024-01-29,20:00,Galatasaray,2–1,Gaziantep FK,Arda Kardeşler
+23,2024-01-29,20:00,Trabzonspor,2–3,Kasımpaşa,Tugay Kaan Numanoğlu
+,,,,,,
+24,2024-02-02,17:00,Hatayspor,3–1,Fatih Karagümrük,Ömer Faruk Turtay
+24,2024-02-02,17:00,Ankaragücü,0–0,Sivasspor,Abdulkadir Bitigen
+24,2024-02-02,20:00,Samsunspor,0–2,Galatasaray,Tugay Kaan Numanoğlu
+24,2024-02-03,13:30,Rizespor,0–0,Konyaspor,Cihan Aydın
+24,2024-02-03,16:00,Başakşehir,2–0,İstanbulspor,Emre Kargın
+24,2024-02-03,19:00,Gaziantep FK,1–1,Kayserispor,Murat Erdoğan
+24,2024-02-03,19:00,Antalyaspor,0–2,Fenerbahçe,Volkan Bayarslan
+24,2024-02-04,13:30,Pendikspor,2–1,Adana Demirspor,Direnç Tonusluoğlu
+24,2024-02-04,16:00,Kasımpaşa,2–1,Alanyaspor,Oğuzhan Çakir
+24,2024-02-04,19:00,Beşiktaş,2–0,Trabzonspor,Arda Kardeşler
+,,,,,,
+25,2024-02-09,20:00,Adana Demirspor,1–3,Kasımpaşa,Burak Pakkan
+25,2024-02-10,16:00,Fatih Karagümrük,2–0,Pendikspor,Zorbay Küçük
+25,2024-02-10,19:00,Galatasaray,2–0,Başakşehir,Cihan Aydın
+25,2024-02-11,13:30,Sivasspor,1–0,Rizespor,Emre Kargın
+25,2024-02-11,16:00,Konyaspor,1–0,Ankaragücü,Direnç Tonusluoğlu
+25,2024-02-11,16:00,İstanbulspor,1–3,Gaziantep FK,Abdulkadir Bitigen
+25,2024-02-11,19:00,Fenerbahçe,2–2,Alanyaspor,Çağdaş Altay
+25,2024-02-12,17:00,Trabzonspor,2–0,Hatayspor,Ali Şansalan
+25,2024-02-12,20:00,Samsunspor,2–0,Antalyaspor,Atilla Karaoğlan
+25,2024-02-12,20:00,Kayserispor,0–0,Beşiktaş,Kadir Sağlam
+,,,,,,
+26,2024-02-16,20:00,Kasımpaşa,1–1,Fatih Karagümrük,Kadir Sağlam
+26,2024-02-17,13:30,Antalyaspor,2–2,İstanbulspor,Mehmet Türkmen
+26,2024-02-17,16:00,Hatayspor,1–1,Sivasspor,Umit Öztürk
+Wk,Date,Time,Home,Score,Away,Referee
+26,2024-02-17,19:00,Rizespor,1–3,Fenerbahçe,Arda Kardeşler
+26,2024-02-18,13:30,Alanyaspor,3–3,Adana Demirspor,Bahattin Şimşek
+26,2024-02-18,16:00,Pendikspor,0–2,Trabzonspor,Halil Umut Meler
+26,2024-02-18,16:00,Gaziantep FK,1–1,Samsunspor,Zorbay Küçük
+26,2024-02-18,19:00,Ankaragücü,0–3,Galatasaray,Ali Şansalan
+26,2024-02-19,20:00,Başakşehir,2–3,Kayserispor,Oğuzhan Çakir
+26,2024-02-19,20:00,Beşiktaş,2–0,Konyaspor,Tugay Kaan Numanoğlu
+,,,,,,
+27,2024-02-23,20:00,Samsunspor,3–0,Rizespor,Murat Erdoğan
+27,2024-02-24,13:30,Kayserispor,3–2,Ankaragücü,Turgut Doman
+27,2024-02-24,16:00,Gaziantep FK,0–2,Başakşehir,Ali Şansalan
+27,2024-02-24,19:00,Konyaspor,2–0,Hatayspor,Zorbay Küçük
+27,2024-02-24,19:00,Fenerbahçe,2–1,Kasımpaşa,Cihan Aydın
+27,2024-02-25,13:30,Sivasspor,4–1,Pendikspor,Burak Pakkan
+27,2024-02-25,16:00,Fatih Karagümrük,1–1,Alanyaspor,Tugay Kaan Numanoğlu
+27,2024-02-25,16:00,Trabzonspor,1–0,Adana Demirspor,Burak Şeker
+27,2024-02-25,19:00,İstanbulspor,0–2,Beşiktaş,Atilla Karaoğlan
+27,2024-02-26,20:00,Galatasaray,2–1,Antalyaspor,Abdulkadir Bitigen
+,,,,,,
+28,2024-03-01,20:00,Kasımpaşa,0–0,Sivasspor,Burak Şeker
+28,2024-03-02,13:30,Ankaragücü,1–1,İstanbulspor,Muhammetali Metoğlu
+28,2024-03-02,16:00,Rizespor,3–0,Kayserispor,Burak Pakkan
+28,2024-03-02,19:00,Hatayspor,0–2,Fenerbahçe,Atilla Karaoğlan
+28,2024-03-03,13:30,Başakşehir,1–0,Samsunspor,Abdullah Taşkınsoy
+28,2024-03-03,13:30,Pendikspor,0–2,Konyaspor,Umit Öztürk
+28,2024-03-03,19:00,Beşiktaş,0–1,Galatasaray,Halil Umut Meler
+28,2024-03-04,17:00,Adana Demirspor,1–0,Fatih Karagümrük,Murat Erdoğan
+28,2024-03-04,20:00,Antalyaspor,1–0,Gaziantep FK,Direnç Tonusluoğlu
+28,2024-03-04,20:00,Alanyaspor,3–1,Trabzonspor,Volkan Bayarslan
+,,,,,,
+29,2024-03-08,20:00,Galatasaray,6–2,Rizespor,Bahattin Şimşek
+29,2024-03-09,13:30,Sivasspor,1–2,Alanyaspor,Ali Şansalan
+29,2024-03-09,16:00,Konyaspor,2–2,Adana Demirspor,Volkan Bayarslan
+29,2024-03-09,19:00,Trabzonspor,5–1,Fatih Karagümrük,Zorbay Küçük
+29,2024-03-09,19:00,Başakşehir,1–0,Antalyaspor,Mert Güzenge
+Wk,Date,Time,Home,Score,Away,Referee
+29,2024-03-10,13:30,Kayserispor,1–1,Hatayspor,Halil Umut Meler
+29,2024-03-10,16:00,İstanbulspor,1–2,Kasımpaşa,Çağdaş Altay
+29,2024-03-10,16:00,Samsunspor,2–1,Ankaragücü,Umit Öztürk
+29,2024-03-10,19:00,Fenerbahçe,4–1,Pendikspor,Kadir Sağlam
+29,2024-03-11,20:30,Gaziantep FK,2–0,Beşiktaş,Arda Kardeşler
+,,,,,,
+30,2024-03-15,20:30,Fatih Karagümrük,1–1,Konyaspor,Bahattin Şimşek
+30,2024-03-15,20:30,Pendikspor,1–0,İstanbulspor,Oğuzhan Çakir
+30,2024-03-16,13:30,Alanyaspor,1–0,Kayserispor,Emre Kargın
+30,2024-03-16,16:00,Ankaragücü,2–1,Başakşehir,Cihan Aydın
+30,2024-03-16,20:30,Beşiktaş,1–2,Antalyaspor,Burak Pakkan
+30,2024-03-16,20:30,Adana Demirspor,4–1,Sivasspor,Tugay Kaan Numanoğlu
+30,2024-03-17,13:30,Rizespor,3–1,Gaziantep FK,Abdulkadir Bitigen
+30,2024-03-17,16:00,Kasımpaşa,3–4,Galatasaray,Atilla Karaoğlan
+30,2024-03-17,16:00,Hatayspor,3–0,Samsunspor,Burak Şeker
+30,2024-03-17,20:30,Trabzonspor,2–3,Fenerbahçe,Halil Umut Meler
+,,,,,,
+31,2024-04-02,17:00,İstanbulspor,0–4,Rizespor,Alper Akarsu
+31,2024-04-02,20:30,Gaziantep FK,0–3,Alanyaspor,Umit Öztürk
+31,2024-04-02,20:30,Antalyaspor,1–1,Ankaragücü,Çağdaş Altay
+31,2024-04-02,20:30,Galatasaray,1–0,Hatayspor,Ali Şansalan
+31,2024-04-03,17:00,Sivasspor,1–0,Fatih Karagümrük,Turgut Doman
+31,2024-04-03,20:30,Fenerbahçe,4–2,Adana Demirspor,Arda Kardeşler
+31,2024-04-03,20:30,Kayserispor,0–2,Kasımpaşa,Ömer Faruk Turtay
+31,2024-04-03,20:30,Konyaspor,1–3,Trabzonspor,Atilla Karaoğlan
+31,2024-04-04,20:30,Başakşehir,1–1,Beşiktaş,Zorbay Küçük
+31,2024-04-04,20:30,Samsunspor,0–0,Pendikspor,Bahattin Şimşek
+,,,,,,
+32,2024-04-12,20:00,Trabzonspor,0–1,Sivasspor,Umit Öztürk
+32,2024-04-13,13:30,Kasımpaşa,0–2,Konyaspor,Zorbay Küçük
+32,2024-04-13,16:00,Ankaragücü,3–1,Gaziantep FK,Ali Şansalan
+32,2024-04-13,19:00,Adana Demirspor,0–0,Kayserispor,Mehmet Türkmen
+32,2024-04-13,19:00,Beşiktaş,1–1,Samsunspor,Direnç Tonusluoğlu
+32,2024-04-14,13:30,Pendikspor,2–3,Başakşehir,Halil Umut Meler
+32,2024-04-14,16:00,Hatayspor,0–3,İstanbulspor,Mert Güzenge
+Wk,Date,Time,Home,Score,Away,Referee
+32,2024-04-14,16:00,Rizespor,3–0,Antalyaspor,Emre Kargın
+32,2024-04-14,19:00,Fatih Karagümrük,1–2,Fenerbahçe,Tugay Kaan Numanoğlu
+32,2024-04-15,20:00,Alanyaspor,0–4,Galatasaray,Cihan Aydın
+,,,,,,
+33,2024-04-19,20:00,Beşiktaş,2–0,Ankaragücü,Bahattin Şimşek
+33,2024-04-20,13:30,İstanbulspor,1–2,Fatih Karagümrük,Burak Şeker
+33,2024-04-20,16:00,Konyaspor,0–2,Alanyaspor,Oğuzhan Çakir
+33,2024-04-20,19:00,Samsunspor,1–1,Adana Demirspor,Murat Erdoğan
+33,2024-04-20,19:00,Kayserispor,1–2,Trabzonspor,Çağdaş Altay
+33,2024-04-21,13:30,Başakşehir,2–0,Rizespor,Arda Kardeşler
+33,2024-04-21,19:00,Galatasaray,4–1,Pendikspor,Direnç Tonusluoğlu
+33,2024-04-21,19:00,Gaziantep FK,2–0,Kasımpaşa,Kadir Sağlam
+33,2024-04-21,19:00,Antalyaspor,2–1,Hatayspor,Abdulkadir Bitigen
+33,2024-04-22,20:00,Sivasspor,2–2,Fenerbahçe,Cihan Aydın
+,,,,,,
+34,2024-04-26,20:00,Adana Demirspor,0–3,Galatasaray,Bahattin Şimşek
+34,2024-04-27,16:00,Sivasspor,1–0,Konyaspor,Murat Erdoğan
+34,2024-04-27,16:00,Kasımpaşa,1–0,Samsunspor,Halil Umut Meler
+34,2024-04-27,19:00,Hatayspor,1–2,Başakşehir,Atilla Karaoğlan
+34,2024-04-27,19:00,Fenerbahçe,2–1,Beşiktaş,Volkan Bayarslan
+34,2024-04-28,16:00,Alanyaspor,6–0,İstanbulspor,Muhammetali Metoğlu
+34,2024-04-28,16:00,Pendikspor,1–2,Kayserispor,Zorbay Küçük
+34,2024-04-28,19:00,Trabzonspor,4–2,Gaziantep FK,Direnç Tonusluoğlu
+34,2024-04-28,19:00,Rizespor,2–2,Ankaragücü,Turgut Doman
+34,2024-04-29,20:00,Fatih Karagümrük,4–1,Antalyaspor,Kadir Sağlam
+,,,,,,
+35,2024-05-03,20:00,Beşiktaş,3–2,Rizespor,Ali Şansalan
+35,2024-05-03,20:00,Ankaragücü,1–1,Alanyaspor,Emre Kargın
+35,2024-05-04,16:00,İstanbulspor,0–1,Adana Demirspor,Abdullah Taşkınsoy
+35,2024-05-04,19:00,Kayserispor,2–2,Fatih Karagümrük,Atilla Karaoğlan
+35,2024-05-04,19:00,Samsunspor,3–1,Trabzonspor,Abdulkadir Bitigen
+35,2024-05-05,16:00,Başakşehir,4–1,Kasımpaşa,Mert Güzenge
+35,2024-05-05,19:00,Galatasaray,6–1,Sivasspor,Arda Kardeşler
+35,2024-05-05,19:00,Gaziantep FK,1–1,Hatayspor,Halil Umut Meler
+35,2024-05-06,20:00,Antalyaspor,1–2,Pendikspor,Tugay Kaan Numanoğlu
+Wk,Date,Time,Home,Score,Away,Referee
+35,2024-05-06,20:00,Konyaspor,0–0,Fenerbahçe,Bahattin Şimşek
+,,,,,,
+36,2024-05-12,19:00,Alanyaspor,1–1,Beşiktaş,Tugay Kaan Numanoğlu
+36,2024-05-12,19:00,Trabzonspor,3–0,İstanbulspor,Emre Kargın
+36,2024-05-12,19:00,Konyaspor,3–0,Samsunspor,Kadir Sağlam
+36,2024-05-12,19:00,Fenerbahçe,3–0,Kayserispor,Direnç Tonusluoğlu
+36,2024-05-12,19:00,Pendikspor,2–1,Rizespor,Atilla Karaoğlan
+36,2024-05-12,19:00,Kasımpaşa,3–1,Antalyaspor,Oğuzhan Çakir
+36,2024-05-12,19:00,Hatayspor,2–1,Ankaragücü,Ali Şansalan
+36,2024-05-12,19:00,Sivasspor,0–1,Başakşehir,Bahattin Şimşek
+36,2024-05-12,19:00,Fatih Karagümrük,2–3,Galatasaray,Volkan Bayarslan
+36,2024-05-12,19:00,Adana Demirspor,1–6,Gaziantep FK,Abdulkadir Bitigen
+,,,,,,
+37,2024-05-17,17:00,İstanbulspor,1–3,Sivasspor,Ömer Faruk Turtay
+37,2024-05-17,20:00,Antalyaspor,2–1,Adana Demirspor,Turgut Doman
+37,2024-05-18,19:00,Beşiktaş,2–2,Hatayspor,Cihan Aydın
+37,2024-05-18,19:00,Kayserispor,2–2,Konyaspor,Halil Umut Meler
+37,2024-05-18,19:00,Ankaragücü,0–0,Pendikspor,Volkan Bayarslan
+37,2024-05-18,19:00,Samsunspor,1–1,Alanyaspor,Mert Güzenge
+37,2024-05-18,19:00,Gaziantep FK,3–1,Fatih Karagümrük,Zorbay Küçük
+37,2024-05-18,19:00,Rizespor,0–0,Kasımpaşa,Burak Pakkan
+37,2024-05-18,19:00,Başakşehir,0–1,Trabzonspor,Tugay Kaan Numanoğlu
+37,2024-05-19,19:00,Galatasaray,0–1,Fenerbahçe,Arda Kardeşler
+,,,,,,
+38,2024-05-24,20:00,Alanyaspor,1–1,Antalyaspor,Halil Umut Meler
+38,2024-05-25,16:00,Fatih Karagümrük,3–1,Samsunspor,Mehmet Türkmen
+38,2024-05-25,19:00,Sivasspor,2–1,Kayserispor,Murat Erdoğan
+38,2024-05-26,19:00,Hatayspor,2–0,Rizespor,Abdulkadir Bitigen
+38,2024-05-26,19:00,Konyaspor,1–3,Galatasaray,Tugay Kaan Numanoğlu
+38,2024-05-26,19:00,Adana Demirspor,2–6,Başakşehir,Burak Şeker
+38,2024-05-26,19:00,Fenerbahçe,6–0,İstanbulspor,Volkan Bayarslan
+38,2024-05-26,19:00,Kasımpaşa,2–1,Beşiktaş,Bahattin Şimşek
+38,2024-05-26,19:00,Trabzonspor,4–2,Ankaragücü,Atilla Karaoğlan
+38,2024-05-26,19:00,Pendikspor,0–1,Gaziantep FK,Direnç Tonusluoğlu
