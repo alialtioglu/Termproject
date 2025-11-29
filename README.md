@@ -1,5 +1,5 @@
 
-####FINAL PROJECT REPORT: ANOMALY DETECTION IN REFEREE DECISIONS
+#### FINAL PROJECT REPORT: ANOMALY DETECTION IN REFEREE DECISIONS
 
 ### The objectivity of referee decisions in  Turkish football is an arguable point of controversy. This project aimed to scientifically investigate potential biases by combining public match statistics with betting odds data. The final report validates the Referee Performance Index (RPI) and assesses its independence from financial market expectations.
 
