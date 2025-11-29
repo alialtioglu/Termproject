@@ -1,11 +1,11 @@
 
-FINAL PROJECT REPORT: ANOMALY DETECTION IN REFEREE DECISIONS
+####FINAL PROJECT REPORT: ANOMALY DETECTION IN REFEREE DECISIONS
 
-### The objectivity of referee decisions in football is an arguable point of controversy. This project aimed to scientifically investigate potential biases by combining public match statistics with betting odds data. The final report validates the Referee Performance Index (RPI) and assesses its independence from financial market expectations.
+### The objectivity of referee decisions in  Turkish football is an arguable point of controversy. This project aimed to scientifically investigate potential biases by combining public match statistics with betting odds data. The final report validates the Referee Performance Index (RPI) and assesses its independence from financial market expectations.
 
 ***
 
-## 1. Core Data and Feature Engineering (Originality & Quality)
+## 1. Core Data and Feature Engineering 
 
 ### Core Data (Strict Data Inventory)
 The analysis used match records from five seasons of the Turkish Süper Lig, including:
@@ -19,7 +19,7 @@ $$\text{RPI} = (\text{Avg. Red Cards} \times 1.0) + (\text{Avg. Penalties} \time
 
 ***
 
-## 2. Statistical Proof and Hypothesis Test (Scientific Method)
+## 2. Statistical Proof and Hypothesis Test
 
 ### Hypothesis Tested ($t$-Test)
 The project tested whether the RPI successfully isolates groups of referees with statistically different penalty rates.
@@ -36,7 +36,7 @@ The Independent Samples $t$-Test on the final adjusted data yielded the followin
 
 ***
 
-## 3. Analytical Findings (Final Report)
+## 3. Analytical Findings
 
 ### 3.1. Betting Odds Impact (Financial Link)
 The analysis assessed the influence of the **Betting Odds (Financial Indicator)** on decision frequency:
@@ -47,7 +47,7 @@ The analysis assessed the influence of the **Betting Odds (Financial Indicator)*
 
 ***
 
-## 4. Future Work: Machine Learning and Anomaly Detection (02 January Deliverable)
+## 4. Future Work: Machine Learning and Anomaly Detection 
 
 ### 4.1. Anomaly Detection Goal
 The next phase will shift from statistical validation to predictive modeling, using the engineered features to identify specific suspicious matches.
