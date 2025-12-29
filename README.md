@@ -1,77 +1,109 @@
-#### FINAL PROJECT REPORT: ANOMALY DETECTION IN REFEREE DECISIONS (TURKISH SÜPER LIG)
+####  ANOMALY DETECTION IN REFEREE DECISIONS (TURKISH SÜPER LIG)
 
 ### The objectivity of referee decisions in Turkish football is an arguable point of controversy. This project aimed to scientifically investigate potential biases by combining public match statistics with betting odds data. The final report validates the Referee Performance Index (RPI) and assesses its independence from financial market expectations using Advanced Machine Learning.
 
 ***
 
-## 1. MOTIVATION
+## Project Description
 
-### The "Why" Behind The Analysis
+This project explores the relationship between referee strictness and match anomalies in the Turkish Süper Lig from both a statistical and machine learning perspective. Using multi-season match data, the project investigates how specific referee behaviors (Penalties, Red Cards) influence match outcomes compared to pre-game betting expectations.
+
+We aim to answer the question: **"Is the referee a bigger factor than the betting odds in predicting match deviations?"** To do so, we perform end-to-end data analysis—starting from raw data cleaning and RPI calculation to hypothesis testing and predictive modeling using Random Forest algorithms.
+
+## Motivation
+
 The integrity of refereeing in **Turkish football** has been a subject of intense debate, especially following recent controversial matches and on-field incidents that have sparked public outrage and mistrust. As a data science enthusiast and a passionate follower of the league, I am driven to move beyond subjective arguments and explore this issue using rigorous, data-driven approaches.
 
-### Goal
-This project is motivated by the desire to bring scientific objectivity to this heated topic. By analyzing years of data, I aim to answer: **"Is the referee a bigger factor than the betting odds in predicting match deviations?"**
+This project is motivated by the desire to bring scientific objectivity to this heated topic. By analyzing years of data, I aim to understand if these perceived biases are statistically significant anomalies or simply random variances inherent to the sport.
 
-***
+## Datasets
 
-## 2. CORE DATA AND FEATURE ENGINEERING
+* **Dataset 1: Match Statistics (Master Data)**
+    * **Name:** `master_stats_manual_entry.csv`
+    * **Source:** Public Sports Broadcasters / TFF
+    * **Data Acquisition Method:** Aggregated from public match logs and manually verified for consistency.
 
-### Core Data (Strict Data Inventory)
-The analysis used match records from five seasons of the Turkish Süper Lig, including:
-* Match identifiers: **Home/Away Teams**, **Date**, and the **Referee's name**.
-* The primary outcome variables (decisions used for analysis): **Red Cards** and **Penalties** awarded per match.
-* **Financial Data:** Historical Pre-match Betting Odds (Home Win, Draw, Away Win).
+* **Dataset 2: Betting Odds Data**
+    * **Name:** `betting_odds_raw.csv`
+    * **Source:** Historical Odds Portals
+    * **Data Acquisition Method:** Collected historical pre-match odds (Home Win, Draw, Away Win) to establish a baseline for "Expected Points".
 
-### Final RPI Formula (Statistically Justified)
-The RPI was designed to quantify a referee's critical decision tendency, serving as the project's **main original feature**. The final formula was justified by a Logistic Regression model showing a Penalty decision has $\mathbf{0.87}$ times the impact of a Red Card decision on the match outcome.
+## Data Collection and Preparation
 
-$$\text{RPI} = (\text{Avg. Red Cards} \times 1.0) + (\text{Avg. Penalties} \times 0.87)$$
+### 1. Data Cleaning
+* **Score Parsing:** Solved complex string formatting issues (e.g., removing non-numeric characters) to split scores into `Home_Score` and `Away_Score`.
+* **Date Standardization:** Converted various date formats into a unified `datetime` object for merging.
+* **Filtering:** Removed matches with missing critical data points (e.g., missing odds or unrecorded referee names).
 
-***
+### 2. Aggregation & Integration
+* **Merged Datasets:** Combined Master Stats and Betting Odds using `Date` and `Team Names` as composite keys.
+* **National Averages:** Calculated league-wide averages for red cards and penalties to establish a baseline.
 
-## 3. STATISTICAL PROOF AND HYPOTHESIS TEST
+### 3. Feature Engineering
+* **RPI (Referee Performance Index):** Engineered a unique metric to quantify referee strictness.
+    * *Formula:* $RPI = (Avg. Red Cards \times 1.0) + (Avg. Penalties \times 0.87)$
+* **Anomaly Gap:** Created a feature measuring the difference between **Expected Points** (derived from Betting Odds) and **Actual Points** (Match Result).
 
-### Hypothesis Tested ($t$-Test)
-The project tested whether the RPI successfully isolates groups of referees with statistically different penalty rates.
-* **Null Hypothesis ($H_0$):** There is **no** statistically significant difference in the average penalty rate per match between high-RPI referees and low-RPI referees.
+## Analysis Plan
 
-### $t$-Test Results (Scientific Validation)
-The Independent Samples $t$-Test on the final adjusted data yielded the following results:
+### 1. Exploratory Data Analysis (EDA)
+* **Distributions:** Visualized the distribution of RPI to identify "Strict" vs. "Lenient" referees.
+* **Correlation Heatmaps:** Analyzed relationships between Betting Odds and Referee Decisions.
+* **Key Insights:**
+    * High-RPI referees tend to be involved in matches with higher volatility.
+    * No strong linear correlation exists between betting odds and decision frequency (Correlation $\approx -0.004$).
 
-| Metric | High RPI Group Avg. Penalty | Normal RPI Group Avg. Penalty | P-Value | Conclusion |
-| :--- | :---: | :---: | :---: | :--- |
-| **Result** | $\mathbf{0.4286}$ | $\mathbf{0.2769}$ | $\mathbf{0.00018}$ | $H_0$ Rejected |
+### 2. Hypothesis Testing
+* **Hypothesis:**
+    * $H_0$ (Null): There is no statistically significant difference in penalty rates between high-RPI referees and the norm.
+    * $H_1$ (Alternative): High-RPI referees award significantly more penalties.
+* **Method:** Independent Samples **t-Test**.
+* **Results:**
+    * **P-value:** $0.00018$ ($< 0.05$)
+    * **Conclusion:** Rejected the Null Hypothesis. A specific group of referees statistically deviates from the league average.
 
-**Conclusion:** The P-Value is significantly less than 0.05. This **rejects the Null Hypothesis** and proves that the RPI successfully isolates a group of referees with a measurably higher propensity for awarding penalties.
+## Machine Learning Models
 
-***
+### 1. Classification (Random Forest)
+* **Target:** `is_anomaly` (Binary: 1 if Anomaly Gap > 1.2, else 0)
+* **Features Used:** Betting Odds (Home/Draw), Referee RPI.
+* **Model:** `RandomForestClassifier(n_estimators=100)`
+* **Feature Importance Findings:**
+    * While Betting Odds are the primary predictor, **Referee RPI** emerged as a significant secondary factor.
+    * This suggests that in "surprise" matches, the referee's strictness level plays a measurable role.
 
-## 4. ANALYTICAL FINDINGS & AI MODELING
+### 2. Impact Analysis (Logistic Regression)
+* **Target:** `Home_Win`
+* **Purpose:** To calculate the weights for the RPI formula.
+* **Result:** A Penalty decision has approximately **0.87x** the impact of a Red Card on the immediate match outcome.
 
-### 4.1. Betting Odds Impact (Financial Link)
-The analysis assessed the influence of the **Betting Odds (Financial Indicator)** on decision frequency:
-* **Penalties vs. Odds Correlation:** **-0.0047** (Extremely Weak)
-* **Conclusion:** The analysis found **no strong linear relationship** between betting market expectations and the frequency of critical referee decisions.
+## Limitations and Future Work
 
-### 4.2. Advanced AI Analysis (Random Forest)
-We deployed a **Random Forest Classifier** to predict match anomalies (unexpected losses).
-* **Objective:** To determine Feature Importance.
-* **Findings:** While Betting Odds are the primary predictor, **Referee RPI** emerged as a significant secondary factor. This proves that in high-volatility matches, referee strictness plays a measurable role that the market does not fully account for.
+### Limitations
+* **Subjectivity:** The model accounts for the *count* of decisions but cannot evaluate the *correctness* of a call.
+* **Scope:** Analysis is limited to the Turkish Süper Lig; patterns may differ in European leagues.
 
-***
+### Future Work
+* **Cross-League Analysis:** Apply the RPI model to the Premier League and Bundesliga.
+* **VAR Integration:** Incorporate VAR intervention data to distinguish between on-field errors and corrected decisions.
+* **Real-time Dashboard:** Develop a web app to flag "High Anomaly Risk" matches live.
 
-## 5. FUTURE WORK AND EXPANSION
+## Technology Stack
 
-### 5.1. Cross-League Analysis
-The current RPI metric is calibrated solely for Turkish football. Future iterations will apply this model to the **English Premier League (EPL)** and **Bundesliga** to benchmark Turkish referees against European standards.
+* **Languages:** Python
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy
+* **Tools:** Google Colab, Jupyter Notebook, GitHub
 
-### 5.2. VAR Integration
-Future work involves scraping **VAR (Video Assistant Referee)** intervention data to distinguish between "corrected" errors and subjective on-field calls.
+## Timeline
 
-***
+| Task | Deadline |
+| :--- | :--- |
+| **Data Collection & Cleaning** | Oct 15, 2025 |
+| **EDA & Hypothesis Testing** | Nov 10, 2025 |
+| **Machine Learning Modeling** | Dec 20, 2025 |
+| **Final Report Submission** | Jan 05, 2026 |
 
-## 6. CODE AND REPRODUCIBILITY
+## Team
 
-* **Language:** All code is written in **Python**.
-* **Dependencies:** Listed in `requirements.txt`.
-* **Code Location:** All final processing, cleaning, RPI calculation, and Machine Learning scripts are located in the `/Scripts` folder (File: `DSA210_Final_Analysis_with_AI.ipynb
+* **[Senin Adın Soyadın]** (Individual Project)
+* **Student ID:** [Senin ID Numaran]
