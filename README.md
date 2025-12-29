@@ -105,5 +105,5 @@ This project is motivated by the desire to bring scientific objectivity to this 
 
 ## Team
 
-* **[Senin Adın Soyadın]** Ali Baran Altıoğlu
+* **[Name-Surname]** Ali Baran Altıoğlu
 * **Student ID:** 32039
