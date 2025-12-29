@@ -98,12 +98,12 @@ This project is motivated by the desire to bring scientific objectivity to this 
 
 | Task | Deadline |
 | :--- | :--- |
-| **Data Collection & Cleaning** | Oct 15, 2025 |
-| **EDA & Hypothesis Testing** | Nov 10, 2025 |
-| **Machine Learning Modeling** | Dec 20, 2025 |
-| **Final Report Submission** | Jan 05, 2026 |
+| **Data Collection & Cleaning** | Oct 3, 2025 |
+| **EDA & Hypothesis Testing** | Nov 28, 2025 |
+| **Machine Learning Modeling** | Jan 3, 2026 |
+| **Final Report Submission** | Jan 09, 2026 |
 
 ## Team
 
-* **[Senin Adın Soyadın]** (Individual Project)
-* **Student ID:** [Senin ID Numaran]
+* **[Senin Adın Soyadın]** Ali Baran Altıoğlu
+* **Student ID:** 32039
