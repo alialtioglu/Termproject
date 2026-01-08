@@ -33,7 +33,7 @@ This project is motivated by the desire to bring scientific objectivity to this 
 ### 1. Data Cleaning
 * **Score Parsing:** Solved complex string formatting issues (e.g., removing non-numeric characters) to split scores into `Home_Score` and `Away_Score`.
 * **Date Standardization:** Converted various date formats into a unified `datetime` object for merging.
-* **Filtering:** Removed matches with missing critical data points (e.g., missing odds or unrecorded referee names).
+* **Filtering:** Removed matches with missing critical data points (e.g., missing odds or unrecorded referee names).(Because of the 6 February Earthquake)
 
 ### 2. Aggregation & Integration
 * **Merged Datasets:** Combined Master Stats and Betting Odds using `Date` and `Team Names` as composite keys.
